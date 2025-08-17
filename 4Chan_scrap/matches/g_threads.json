@@ -1,0 +1,619 @@
+[
+  {
+    "board": "g",
+    "thread_id": 105981523,
+    "thread_title": "Switching to Linux in October, what should I know as a windows fag",
+    "thread_text": "Windows 11 is absolute dogshit. I am only keeping 1 device as a windows for the kernel anticheat.I am moving the rest of my devices to Linux (Bazzite and Catchy) and using KDE plasma since it&#039;s simple enough to work with.What should I know as a windows faggot about running linux?&gt;Pic unrelated",
+    "matched_ai_tools": [
+      "ChatGPT",
+      "Claude",
+      "Google Gemini",
+      "Replicate"
+    ],
+    "matched_cybercrime": [
+      "spyware"
+    ],
+    "posts": [
+      {
+        "post_id": 105981523,
+        "title": "Switching to Linux in October, what should I know as a windows fag",
+        "text": "Windows 11 is absolute dogshit. I am only keeping 1 device as a windows for the kernel anticheat.I am moving the rest of my devices to Linux (Bazzite and Catchy) and using KDE plasma since it&#039;s simple enough to work with.What should I know as a windows faggot about running linux?&gt;Pic unrelated"
+      },
+      {
+        "post_id": 105981663,
+        "title": "",
+        "text": "&gt;&gt;105981523use &quot;sudo&quot; when something tells you you have no permissions Linux isn&#039;t a unified ecosystem, everything is its own program. If you&#039;re having trouble with your file manager for example, you will have a lot more success if you find what the file manager program is called and Google that specifically, as opposed to the distro nameYou can do anything in the terminal, you don&#039;t have to do everything in the terminal. Just because a guide sends yo to the terminal it doesn&#039;t mean there is an easier way to do it by GUIThe file system structure takes some getting used to. Everything in ~ (/home/your name or /users/home/yourname or something similar) belongs to you, everything else is global and/or system files. Note the leading &quot;/&quot;, it matters. /data/myfile.txt is not the same as data/myfile.txtThe Arch wiki has very good instructions for how to do specific things and which software you can use, even if you&#039;re not using Arch"
+      },
+      {
+        "post_id": 105981693,
+        "title": "",
+        "text": "I moved to pop os this weekI would set up dual boot to start with. Most games work fine but dx12 is a bit shitty. I was playing hitman 3 and I had to turn off that Nvidia reflex and that shadow bullshit for it to work properly.Enable ufw ( firewall ) if you plan to host Plex or something. I feel safer with it on regardless.I use brave and YouTube displays all resolutions. I remember on Firefox years ago it would only go to 720p.I can grab stuff from nstf drives like pdfs and play my games. I&#039;ll probably come across a blocker soon enough but it&#039;s great so farNo support for razer and Logitech devices so I&#039;m using my on board memory for the config. I fucked up my Nvidia drivers by installing the latest causing black screen. Was easy enough to get back took like 10 min just doing the Linux version of safe mode. Alt F3 in boot. Add your windows drives to /etc/fstab. That was a bit of a cunt to set up. Use ntfs-3g and set them up so they are accessible from your /home/username/"
+      },
+      {
+        "post_id": 105981704,
+        "title": "",
+        "text": "If you want to practice in the terminal before hand you could install  windows sub system Linux on windows"
+      },
+      {
+        "post_id": 105981720,
+        "title": "",
+        "text": "&gt;&gt;105981523prepare your anus, and except to eventually wear a chastity cage."
+      },
+      {
+        "post_id": 105981776,
+        "title": "",
+        "text": "&gt;&gt;105981523Don&#039;t download programs from a website like you do in windows. If you want some program, run the package manager and search for its name."
+      },
+      {
+        "post_id": 105981803,
+        "title": "",
+        "text": "&gt;&gt;105981693&gt;I fucked up my Nvidia drivers by installing the latest causing black screenthis should be fixed on new gpus with the open source dkms driver, that decouples the kernel and gpu driver versions"
+      },
+      {
+        "post_id": 105981809,
+        "title": "",
+        "text": "&gt;&gt;105981523Distrosea.com try a distro online or use a vm (ex virtualbox)./g/ bots shill fedora, but the last releases have been unstable and buggy."
+      },
+      {
+        "post_id": 105981825,
+        "title": "",
+        "text": "&gt;&gt;105981523&gt;Switching to Linux in Octoberstart by learning how to use it right now. install it on a virtual machine and do stuff there, like see if your favorite windows-only program has alternatives or if you can install it and run it with WINE"
+      },
+      {
+        "post_id": 105981934,
+        "title": "",
+        "text": "&gt;&gt;105981803I may have accidentally installed the experimental branch like a clown but thanks for letting me know.OP if you have extra drives you need to look at the mount command and the /etc/fstab file. Do some reading into that otherwise your drives won&#039;t load. Also look at Linux paths too because you may install something but the command doesn&#039;t work. That would mean it isn&#039;t on your path.Bash is what interprets your commands and when you open a terminal that is what you will see.When you get more comfortable look at installing zsh and then oh my zsh which is a GitHub link with a theme you like. It&#039;s just a better bash which makes navigating the terminal a bit smoother, auto complete and all that. Practice on wsl."
+      },
+      {
+        "post_id": 105981946,
+        "title": "",
+        "text": "&gt;&gt;105981523&gt;using KDEyet another retard bites the bullet"
+      },
+      {
+        "post_id": 105981986,
+        "title": "",
+        "text": "&gt;reading this threadJesus, Linux is a mess."
+      },
+      {
+        "post_id": 105982006,
+        "title": "",
+        "text": "&gt;&gt;105981986Lmfao. Linux is based, little boy"
+      },
+      {
+        "post_id": 105982028,
+        "title": "",
+        "text": "&gt;&gt;105981986&gt;Do you want to be a botnet node? Yes ----&gt; Windows"
+      },
+      {
+        "post_id": 105982220,
+        "title": "",
+        "text": "&gt;&gt;105981523If you&#039;re an absolute noob.. Mint is a good starter step to get used to it.. You should not stay on mint, it has poor multi-monitor support and honestly nothing more then babies first step into linux world. I recommend you do EndeavourOS or Manjaro to get an arch based system. Comes with everything you need and gives you the right reason and setup to learn linux better. As you will need to mess around with terminal at a basic level to configure and download stuff. If googling is hard and you find things difficult to grasp. Then chatgpt, Google Gemini and Claude all works well to aid with basic shit in linux, just don&#039;t blindly trust them. (Chatgpt does not require a login to use as well. so that&#039;s a plus)Though be warned if you go EndeavourOS. It&#039;s being picky about the EFI partition, I tried to install it over my mint partition but It started crying about the EFI partition being 100mb only. I wants 2048mb, recommends at least 1024mb and as minimum requirement of 512mb. It also wants to install it in /efi and not /boot/efi.. So I had some issues getting it installed because of that. But so far EndeavourOS is fucking miles better then Mint."
+      },
+      {
+        "post_id": 105982237,
+        "title": "",
+        "text": "&gt;&gt;105981986&gt;Windows&gt;WorkingI haven&#039;t used windows since like... 7 and I always remember how much post install shit I had to do to get my computer fully functioning. When I installed Fedora... 20 something? It literally just worked. I didn&#039;t do shit. I still don&#039;t do shit because I&#039;m not a retard who buys Broadcom wifi radios or Novideo GPUs. The best, just works, case I&#039;ve ever seen with Windows was at work and Windows Server and only because the retards who made the base Linux server image are mentally retarded faggots who can&#039;t configure PAM, work with SSSD and need at least 3 or 4 pieces of spyware garbage on the server. Congratulations wincucks. You manage to make a slightly better &quot;just works in corporate hell&quot; server OS that fits with your shitty corporate &quot;endpoints&quot;"
+      },
+      {
+        "post_id": 105982962,
+        "title": "",
+        "text": "&gt;&gt;105982220Anything is better than a Ubuntu-based distro, such as Mint, Zorin or Anduin."
+      },
+      {
+        "post_id": 105983140,
+        "title": "",
+        "text": "&gt;&gt;105982237you&#039;re literally working in IT and you use Linux, you&#039;re the fucking meme in the flesh."
+      },
+      {
+        "post_id": 105983207,
+        "title": "",
+        "text": "&gt;&gt;105981693&gt;fstab&gt;one error and your pc doesn’t bootNo. Linux Mint can auto mount drives upon boot up.&gt;You got filteredYes, and I’m using a sane distribution now. What’s the benefit of having it mounted with fstab vs Linux Mint’s solution?"
+      },
+      {
+        "post_id": 105983223,
+        "title": "",
+        "text": "&gt;&gt;105981523&gt;kernel anticheat&gt;Bazzite and CatchyRunning a game, no mods, is usually straightforward. But digging into mods takes a bit of effort. Usually because the authors of the tools/mosd bake so many Windows-isms into them.But there are two helpful threads that are usually kicking around, &gt;&gt;&gt;/g/fglt and &gt;&gt;&gt;/vg/lgg&gt;&gt;105981693&gt;No support for ... Logitech devicesWutI use a program called Solaar to adjust things like mouse dpi, etc. Works great with Logitech stuff."
+      },
+      {
+        "post_id": 105983284,
+        "title": "",
+        "text": "&gt;&gt;105981523Come home."
+      },
+      {
+        "post_id": 105983325,
+        "title": "",
+        "text": "&gt;&gt;105981523&gt;NIGGUX"
+      },
+      {
+        "post_id": 105983363,
+        "title": "",
+        "text": "&gt;&gt;105983207I had to use fstab to setup encrypted drives (with auto sign-in) and connect to nfs. You can always save a copy of fstab before and call mount -a to test your new fstab."
+      },
+      {
+        "post_id": 105983765,
+        "title": "",
+        "text": "&gt;&gt;105981946yet another retard echoes the bot spam"
+      },
+      {
+        "post_id": 105983847,
+        "title": "",
+        "text": "&gt;&gt;105981523You are more private, but not more secure, with a basic Linux desktop.  To attain security you need to implement Mandatory Access Controls or isolating virtualization.  Qubes OS is the latter, handling all the hard work for you while you enjoy the security benefits.When installing LibreOffice, opt for libreoffice-kf5.  Not libreoffice-kf6!  Search `Qubes libreoffice-kf5` for more details (like an environment variable which also needs to be set in the template when installing LO).  There&#039;s a bug in LO which can crash it if you use the default GTK interface.Be prepared to fix *something* on almost any distro.  Nothing is perfect, I opt for security to hedge the imperfection risks."
+      },
+      {
+        "post_id": 105983863,
+        "title": "",
+        "text": "&gt;&gt;105981523Be open to learning an entirely different way to use a computer. Things won&#039;t always be as simple as double clicking an icon and going about your day. You&#039;ll have to get your hands dirty sometimes. But eventually you&#039;ll learn how to do things with your computer that Windows could never dream of doing."
+      },
+      {
+        "post_id": 105984000,
+        "title": "",
+        "text": "go ahead and use linuxjourneythats how i made my friend learn loonix cuz im absolutely retarded when it comes to teaching"
+      },
+      {
+        "post_id": 105984434,
+        "title": "",
+        "text": "&gt;&gt;105981986&gt;working computerthat&#039;s what Ubuntu is for."
+      },
+      {
+        "post_id": 105984648,
+        "title": "",
+        "text": "&gt;&gt;105981523Switch now. Better to do it with plenty of breathing room instead of rushing at the end. If you choose a friendly distro, it&#039;ll be 10x easier than you expect. You won&#039;t miss anything. Legit advice."
+      },
+      {
+        "post_id": 105984689,
+        "title": "",
+        "text": "&gt;&gt;105984434&gt;Ubuntubro doesn&#039;t realize its not 2015 anymore"
+      },
+      {
+        "post_id": 105984716,
+        "title": "",
+        "text": "&gt;&gt;105981523Stick to mainstream distributions like Fedora, Ubuntu, Debian, Arch. Random one-off forks like MX Linux or CachyOS cause more problems than what they&#039;re worth eventually. If you have zero idea of anything you should run Ubuntu. MAYBE an Ubuntu spin like Pop_Os! (the name is garbage, but is just prepackaged Ubuntu by some vendor selling laptops with Linux support)"
+      },
+      {
+        "post_id": 105984717,
+        "title": "",
+        "text": "&gt;&gt;105981523don&#039;t ask generic questions because you will get answers from people who know less than you, and are probably retarded.since you have some time before the switch, start using MSYS2 and familiarize yourself with the terminal, shell (bash, zsh), coreutils (ls,cp,...), package manager (pacman), and the workflow of installing packages via the said package manager. that alone will give more applicable knowledge than 99% of &quot;linux noobs&quot;, before you even install a linux-based OS. and you will be aware of how using the CLI is not a &quot;limitation&quot;, but rather an advantage. the biggest advantage of all in fact.if you get this far, you can start looking at PKGBUILDs to see how packages get built, although that&#039;s not strictly necessary for you as a beginner.when the time comes for the switch, install Arch, which will be relatively easy since you already familiarized yourself with pacman.don&#039;t install KDE, or any DE. all you&#039;ll get from them is unnecessary bloat and bugs. all you need is a window manager, and a panel (if the WM doesn&#039;t come with one). Openbox is a good choice. it&#039;s also an X11 choice instead of Wayland, which you should avoid, at least for another 3 years."
+      },
+      {
+        "post_id": 105984755,
+        "title": "",
+        "text": "&gt;&gt;105981663&gt;You can do anything in the terminal, you don&#039;t have to do everything in the terminal. Just because a guide sends yo to the terminal it doesn&#039;t mean there is an easier way to do it by GUIdoesn&#039;t mean there isn&#039;t*, you meanand yea, just because generic instructions are often terminal commands, it&#039;s usually just because it&#039;s a common denominator. like checking free space with &quot;df -h&quot; is something you can do in all distros, while there is often a gui way to do it, it depends on what DE you have, so in many cases people just give the answer that works on everything"
+      },
+      {
+        "post_id": 105984764,
+        "title": "",
+        "text": "&gt;&gt;105984717Ignore everything this retard has said. Guys like this equate familiarity with obscure technical knowledge with intelligence. They value the kinds of things that grandma thinks makes them smart. He&#039;s good on the computer! Install a mainstream distro like Mint and make your life easy. All the more low level Linux-y stuff will come naturally over time."
+      },
+      {
+        "post_id": 105984770,
+        "title": "",
+        "text": "LFS. Learn from the ground up (inside a VM so you don&#039;t do silly unrecoverable shit. You actually don&#039;t need a distro, but if you really want one I would recommend crux linux.The only way to learn is to do the difficult things early."
+      },
+      {
+        "post_id": 105984783,
+        "title": "",
+        "text": "&gt;&gt;105984764this, i use gentoo now, but don&#039;t make something like this or arch your first experience with linux/another os. you&#039;re going to have to get the hang of the surface level stuff first (which DE do i like the most, what software is available, how do i find/use basic gui functionality). going beyond that is optional and most people don&#039;t care about it, while more people do here being a technology board, it doesn&#039;t mean /this/ is what they&#039;re interested in"
+      },
+      {
+        "post_id": 105984793,
+        "title": "",
+        "text": "&gt;&gt;105982220Majaro was nice, but honestly, why not just dive into Arch? The install is ez now."
+      },
+      {
+        "post_id": 105984798,
+        "title": "",
+        "text": "&gt;&gt;105983418Arch is ez for beginners now."
+      },
+      {
+        "post_id": 105984827,
+        "title": "",
+        "text": "&gt;&gt;105981523&quot;I don&#039;t need that anyways&quot;Practice saying that phrase, because you&#039;ll use it a lot"
+      },
+      {
+        "post_id": 105984828,
+        "title": "",
+        "text": "&gt;&gt;105984783&gt;optional&gt;&gt;105984783&gt;optionalThis is important. Your computer is an awesome tool to do great things with. Not a fucking boat anchor that makes you some kind of genius because you can remember a half dozen typical remedies when it breaks. You don&#039;t need to be modifying inodes with a magnetized knitting needle to fit in. Also, Linux is most importantly an escape hatch from the unhinged malice of Microsoft/Apple/Google. Be free."
+      },
+      {
+        "post_id": 105984964,
+        "title": "",
+        "text": "&gt;&gt;105981803You do not want to know how often over the last decade I tried to switch to Linux while using an Nvidia GPU and would just say &quot;oh well&quot; when this shit happened to me.Nvidia employees deserve to be dragged through the fucking streets."
+      },
+      {
+        "post_id": 105984980,
+        "title": "",
+        "text": "&gt;&gt;105984964you haven&#039;t upgraded your gpu in the last decade? i started linux with an nvidia gpu, and when it came time to upgrade, i got an amd gpu"
+      },
+      {
+        "post_id": 105985086,
+        "title": "",
+        "text": "&gt;&gt;105981523Cachy obviously"
+      },
+      {
+        "post_id": 105985096,
+        "title": "",
+        "text": "Don&#039;t listen to these fags, just get bazzite. It installs and runs with no hassle so you don&#039;t need to spend a weekend installing packages and configuring shit. It runs games perfectly with proton and wine pre installed and optimized. It comes with an app to install flatpaks so you don&#039;t need to screw around with the retard nigger autism simulator known as the console. If you mostly just game and browse the web, get bazzite and save yourself a headache. If you listen to these other fags then you might as well buy some programmer socks and say goodbye to your wife and kids so you can spend the rest of your golden years learning how to get basic programs to work on whatever jank ass distro programmed by a femboy commune they recommended"
+      },
+      {
+        "post_id": 105985173,
+        "title": "",
+        "text": "&gt;&gt;105981986kek"
+      },
+      {
+        "post_id": 105985191,
+        "title": "",
+        "text": "I&#039;ve never seen so much bullshit and false info in a /g/ thread holy shit"
+      },
+      {
+        "post_id": 105985237,
+        "title": "",
+        "text": "&gt;&gt;105985191Like what?"
+      },
+      {
+        "post_id": 105985246,
+        "title": "",
+        "text": "&gt;&gt;105985096Bazzite is corporate Fedora shit if you love corporations so much why dont you stays on Winblows you incredible cancerous faggot?"
+      },
+      {
+        "post_id": 105985326,
+        "title": "",
+        "text": "&gt;&gt;105985246&gt;it&#039;s corporate!!!So, what you&#039;re saying is it has developers which are actually paid to do their job and improve the product, instead of random autistic poor people who don&#039;t give a fuck about the users?You do realize Linux itself wouldn&#039;t be half as good if corporations weren&#039;t heavily investing in it?"
+      },
+      {
+        "post_id": 105985425,
+        "title": "",
+        "text": "&gt;&gt;105981523&gt;A) install rufus and make a linux live usb stick&gt;B) install virtualbox and run linux in itThat&#039;s the bare minimum for checking the system and testing your hw (A) and for trying some advanced shit (if you need to) ahead of time (B). Once you feel confident enough simply install linux on bare metal. That&#039;s what i did circa 20 years ago before switching, i never looked back since."
+      },
+      {
+        "post_id": 105985496,
+        "title": "",
+        "text": "&gt;&gt;105985096A counterpoint. Bazzite sounds like the name of a demon."
+      },
+      {
+        "post_id": 105985600,
+        "title": "",
+        "text": "&gt;&gt;105984764&gt;obscure technical knowledge&gt;obscure^ this is one of the retards i was talking about OP ^"
+      },
+      {
+        "post_id": 105985675,
+        "title": "",
+        "text": "&gt;&gt;105983418&gt;And somebody should eventually graduate from a &quot;beginner&quot; distro to Gentoo, right?I just wanted to post it&gt;WE JUST HAVE GOOD OPERATING SYSTEMS NOW THAT ANY NOOB OR VETERAN ALIKE CAN PICK UP AND STICK WITH.And what distro is it?&gt;longtime Linux users pretend it doesn&#039;tBut it doesn&#039;t? I installed Ubuntu some time ago and installer crashed. I installed devuan and had to manually edit /etc/apt/sources.list and add kernel cmdline args to enable fixes for CPU vulnerabilities. I think the advice to use &quot;easy&quot; distro, then arch, then gentoo is still valid and that you are still considered a linux user officially after you used arch for some time."
+      },
+      {
+        "post_id": 105985723,
+        "title": "",
+        "text": "&gt;&gt;105985675&gt;I installed devuan and had to manually edit /etc/apt/sources.list and add kernel cmdline args to enable fixes for CPU vulnerabilitiesNta but wtf are you even talking about? Devuan is a diy distro but i never needed to alter the sources.list (the fucking installer asks you what repos to enable) and the &quot;CPU vulnerability fix&quot; is just a fucking packet for injecting microcode updates, like just open synaptic and click to &quot;install&quot; the shit, done, no need to edit anything."
+      },
+      {
+        "post_id": 105986077,
+        "title": "",
+        "text": "&gt;&gt;105981693"
+      },
+      {
+        "post_id": 105986088,
+        "title": "",
+        "text": "&gt;&gt;105981693&gt;No support for razer and Logitech devices so I&#039;m using my on board memory for the config.You can use polychromatic to manage Razer devices on Linux. https://polychromatic.app/download/pop_os/"
+      },
+      {
+        "post_id": 105986195,
+        "title": "",
+        "text": "&gt;&gt;105985723&gt;&quot;CPU vulnerability fix&quot; is just a fucking packet for injecting microcode updatesHmmm maybe. But maybe it also depends on hw. Once I had to install that packet from testing or unstable because stable one didn&#039;t fix all of them.Could you please post output of &quot;lscpu&quot; just in case? The last section called &quot;vulnerabilities&quot;."
+      },
+      {
+        "post_id": 105986212,
+        "title": "",
+        "text": "&gt;&gt;105986195&gt;Could you please post output of &quot;lscpu&quot; just in case? The last section called &quot;vulnerabilities&quot;.I can&#039;t, i&#039;m currently on windows, i just reported my personal experience with devuan."
+      },
+      {
+        "post_id": 105986524,
+        "title": "",
+        "text": "&gt;&gt;105986195&gt;Could you please post output of &quot;lscpu&quot; just in case? The last section called &quot;vulnerabilities&quot;.Nta but picrel is mine, the devuan machine in question doesn&#039;t have the *-microcode package installed."
+      },
+      {
+        "post_id": 105986553,
+        "title": "",
+        "text": "&gt;&gt;105982028it&#039;s a small price to pay for a working computer"
+      },
+      {
+        "post_id": 105986721,
+        "title": "",
+        "text": "&gt;&gt;105982237&gt;windows serveri use that as my desktop OSnot a single explorer.exe restart. desktop leunuch can&#039;t do this uptime and that&#039;s a fact."
+      },
+      {
+        "post_id": 105986729,
+        "title": "",
+        "text": "&gt;&gt;105986524&gt;smt disabledthat&#039;s what I meant with&gt;add kernel cmdline args"
+      },
+      {
+        "post_id": 105987010,
+        "title": "",
+        "text": "&gt;&gt;105984689you smell like you use Arch."
+      },
+      {
+        "post_id": 105987033,
+        "title": "",
+        "text": "&gt;&gt;105987010with KDE yeah"
+      },
+      {
+        "post_id": 105987041,
+        "title": "",
+        "text": "You&#039;ll be a tranny within 12 months"
+      },
+      {
+        "post_id": 105987147,
+        "title": "",
+        "text": "&gt;&gt;105985675&gt;WE JUST HAVE GOOD OPERATING SYSTEMS NOW THAT ANY NOOB OR VETERAN ALIKE CAN PICK UP AND STICK WITH.Bazzite and Aurora"
+      },
+      {
+        "post_id": 105987446,
+        "title": "",
+        "text": "&gt;&gt;105983765"
+      },
+      {
+        "post_id": 105987579,
+        "title": "",
+        "text": "&gt;&gt;105981523I tried switching to Linux and it wasn&#039;t as good as I imagined. The fonts were noticeably fuzzy &amp; out of focus compared to Windows. As much as Linux people talk about how modular shit is, Desktop Environments are all packaged together in a way that you can&#039;t remove much or it breaks everything. When I tried to use Windows programs that I needed, the text was all kinds of fucked. I also couldn&#039;t get a game to run, probably because it was portable so no way to install it. I&#039;ll stick to my customized Windows 11 IoT Enterprise."
+      },
+      {
+        "post_id": 105987665,
+        "title": "",
+        "text": "&gt;&gt;105987147&gt;gaymen distrospass"
+      },
+      {
+        "post_id": 105987683,
+        "title": "",
+        "text": "&gt;&gt;105987665&gt;Aurora&gt;gaymen"
+      },
+      {
+        "post_id": 105987741,
+        "title": "",
+        "text": "&gt;&gt;105981523&gt;What should I know as a windows faggot about running linux?there is 100% going to be a program you want to run that wont work on linux and its up to you to decide if you want to learn a alternative that does or keep a dual boot to retain access to it[spoiler]i dont like reaper and FLstudio is broken on linux so i have a second PC running W11 for the express purpose of using it[/spoiler]"
+      },
+      {
+        "post_id": 105987808,
+        "title": "",
+        "text": "&gt;&gt;105981523here&#039;s the only advice you need: ask GPT for help. he&#039;s really good with linux.furthermore, give tiling WMs a try, they&#039;re quite comfy."
+      },
+      {
+        "post_id": 105988959,
+        "title": "",
+        "text": "OP. Start using linux now. Getting used to stuff and setting it up over time is better than doing it abruptly. Fonts look a bit different and can be offputting at first, took me around a month to stop noticing."
+      },
+      {
+        "post_id": 105989027,
+        "title": "",
+        "text": "&gt;&gt;105986721You can do that uptime, but why would you? When updating Linux, you do typically need to restart."
+      },
+      {
+        "post_id": 105989045,
+        "title": "",
+        "text": "&gt;&gt;105989027no you literally can&#039;t without something x/wayland related shitting its pants and usually hanging the system"
+      },
+      {
+        "post_id": 105989086,
+        "title": "",
+        "text": "&gt;&gt;105989045Yeah nah. I&#039;ve never seen anything hang on Linux that isn&#039;t a windows application. If I decided not to update my arch I could just keep the computer running 24/7 for months and years. If anything restarting it is the scary part."
+      },
+      {
+        "post_id": 105989128,
+        "title": "",
+        "text": "&gt;&gt;105989086&gt;If I decided not to update my arch I could just keep the computer running 24/7 for months and yearsnot in my extensive experience. prove it. protip you can&#039;t because for one, X has a hardcoded limit on handles &gt;If anything restarting it is the scary part.literally held hostage, desktop linux users beyond are pathetic. everything is a clusterfuck"
+      },
+      {
+        "post_id": 105989185,
+        "title": "",
+        "text": "&gt;&gt;105989128I use gayland, faggot. By the way, a windows video game completely crashed that one time with old Nvidia driver which was really shit and nothing happened. It just restarted itself."
+      },
+      {
+        "post_id": 105989207,
+        "title": "",
+        "text": "&gt;&gt;105989185no gayland implementation is stable if your system wasn&#039;t so neurotic and gay you would have no reason to restart so often. and even if you didn&#039;t it would all begin collapse around the 1-2 month mark at best  /trvke"
+      },
+      {
+        "post_id": 105989239,
+        "title": "",
+        "text": "&gt;&gt;105989207I don&#039;t restart it &quot;often&quot;, I restart it whenever I update KDE or the kernel. I&#039;m almost tempted to go months without update after you said that because current version of the kernel and KDE are both really good."
+      },
+      {
+        "post_id": 105989443,
+        "title": "",
+        "text": "&gt;&gt;105989239&gt;implying you&#039;ve noticed improvements from a lesser state while my uptime clock has been tickingthe kernel is in a worse place than ever and i highly doubt krashde plasma has stopped being a complete piece of shitadmittedly it was years ago i used desktop linux in a serious fashion. still it&#039;s beyond nuts how you have faith in fucking kde to be stable.but sure, let&#039;s go. where do we keep ourselves updated on how it&#039;s going? i&#039;m going to keep this fucker going for at least 200 days just for the sake of it.but remember, uptime only matters as long as the head is on. i&#039;m sure both linux and windows can have an infinite uptime when headless. so, if plasma shell krashes you&#039;re out. if explorer.exe crashes, i&#039;m out. i trust you to be honest."
+      },
+      {
+        "post_id": 105989558,
+        "title": "",
+        "text": "&gt;&gt;105989443Yeah sure, you can keep seething about things you&#039;ve never used all you want, it&#039;s not my business how you spend your time. I didn&#039;t expect you&#039;ve never used windows though - explorer crashing doesn&#039;t compromise the os in any way. You can just manually restart it if it doesn&#039;t restart automatically. The uptime keeps ticking. The shell is a non critical component. Hell you can manually close it. If you ever have access to a pc with windows, give it a try. Don&#039;t even need admin.Maybe try using the software you talk about, it&#039;ll make you a more interesting person to talk to over some seething retard who knows nothing about anything."
+      },
+      {
+        "post_id": 105989600,
+        "title": "",
+        "text": "&gt;&gt;105981986&gt;Does your breath smell like cow shit?&gt;yes&gt;Windows 11"
+      },
+      {
+        "post_id": 105989667,
+        "title": "",
+        "text": "&gt;&gt;105981523In my humble opinion you should do like what /fglt/ people say:&gt;test on a VM (I do it via distrosea, but you can always install Qemu)&gt;check your PC specs, as some distros can be quite demanding&gt;download the live cd and test on PC for a couple of hours (I did so in order to install Zorin, since it&#039;s beginner-friendly and has humble spec requirements, but I ended up not doing so due to OOM freezes, so AVOID ANY UBUNTU-BASED DISTROS LIKE THE PLAGUE)"
+      },
+      {
+        "post_id": 105989705,
+        "title": "",
+        "text": "&gt;&gt;105989558&gt;so used to his shell krashing he copes and thinks it&#039;s normal and fine to krashit&#039;s not acceptable. you&#039;re a cuck and held hostage. restarting explorer.exe would fuck up and rearrange my taskbar and windows.&gt;The uptime keeps tickingwhich is exactly why i said uptime is only impressive and matters as long as there hasn&#039;t been any shell crashes. and that&#039;s me being generous. plenty of other things will krash in plsma on a regular basis, while everything is like day 1 for me &gt;&gt;105986721&gt;not a single explorer.exe restart"
+      },
+      {
+        "post_id": 105989752,
+        "title": "",
+        "text": "&gt;&gt;105986721I&#039;ve seen unix boxes with uptimes in years you stupid faggot. there is no way in hell you don&#039;t have critical patches that would normally force you to reboot."
+      },
+      {
+        "post_id": 105989773,
+        "title": "",
+        "text": "&gt;&gt;105989752try reading the thread"
+      },
+      {
+        "post_id": 105989803,
+        "title": "",
+        "text": "&gt;&gt;105989773try reading what?"
+      },
+      {
+        "post_id": 105989844,
+        "title": "",
+        "text": "&gt;&gt;105989803you missed important context:desktop linux specifically (assumed active use), not a forgotten (possibly headless) unix boxwindows server (LTSC) specifically, not consumer windows that shoves updates in your throat"
+      },
+      {
+        "post_id": 105989861,
+        "title": "",
+        "text": "&gt;&gt;105989705I used windows for 30 years, so yes I am used to the shell (explorer) crashing or having to manually restart it.  Specially since I used to have video thumbnails enabled on windows a long time ago. I learned not to later on. Also, there is nothing impressive about uptime in general, it just shows that your hardware is stable. The only time I was ever forced to restart a computer by anything was on windows 10 with a CPU that became brain dead in about 30 to 60 days. Not counting windows updates, because those don&#039;t exactly give you a lot of choice either."
+      },
+      {
+        "post_id": 105989904,
+        "title": "",
+        "text": "&gt;&gt;105989844huh? my desktop linux is stable thougheverbeit. same with my server."
+      },
+      {
+        "post_id": 105989911,
+        "title": "",
+        "text": "&gt;&gt;105989844Why the fuck are you comparing desktop Linux to server windows? You retarded or something?"
+      },
+      {
+        "post_id": 105989972,
+        "title": "",
+        "text": "&gt;&gt;105989861&gt;I used windows for 30 years, so yes I am used to the shell (explorer) crashing or having to manually restart it.yes, but the entire premise is that server/ltsc editions of windows are far more stable than consumer editions of windows, and my claim is that it even is superior to the sorry state of desktop linux in stability&gt;CPU that became brain dead in about 30 to 60 dayswhich CPU?&gt;&gt;105989904what&#039;s your uptime record?&gt;&gt;105989911read the fucking thread &gt;&gt;105986721&gt;i use that as my desktop OS"
+      },
+      {
+        "post_id": 105989991,
+        "title": "",
+        "text": "ya, I just checked coredumpctlall my coredumps are spotify and some kde shitware, which is why I stopped using KDE, kek.&gt;&gt;105989972&gt;what&#039;s your uptime record?I don&#039;t fucking know. I never bothered to actually check. I pretty much reboot everything every week just to boot into the newest kernel."
+      },
+      {
+        "post_id": 105990028,
+        "title": "",
+        "text": "&gt;&gt;105989991&gt;all my coredumps are spotify and some kde shitware, which is why I stopped using KDE, kek.no shit. the shrinking pool of kde evangelists are becoming increasingly delusional. accepting krashes as normalcy.&gt;I pretty much reboot everything every week just to boot into the newest kernel.meaningless. even windows 11 home dogshit is stable on a 1 week uptime."
+      },
+      {
+        "post_id": 105990053,
+        "title": "",
+        "text": "&gt;&gt;105989972I used server windows too, it&#039;s worse than consumer windows because of version whitelists. Really annoying to deal with if you encounter it. Issues are broadly the same. Thumbnails for videos are no more stable on server os.The CPU was an engineering sample of a 12 core broadwell-ex Xeon."
+      },
+      {
+        "post_id": 105990117,
+        "title": "",
+        "text": "&gt;&gt;105990053&gt;Really annoying to deal with if you encounter it.i really only did for my gpu driver and it was a fairly trivial workaround. i do all kinds of stuff with my machine but mostly use open source stuff. but steam and all my games and their anticheats don&#039;t have any issues either"
+      },
+      {
+        "post_id": 105990132,
+        "title": "",
+        "text": "&gt;&gt;105989086If scared, just automate timeshift or do manual backups of your kernel (rsync, which timeshift uses) before an update/restart desu"
+      },
+      {
+        "post_id": 105990169,
+        "title": "",
+        "text": "&gt;&gt;105981803Thank god this has been fucking me over for months on tumblweed"
+      },
+      {
+        "post_id": 105990178,
+        "title": "",
+        "text": "&gt;&gt;105990053&gt;because of version whitelistsI memberberries trying to run Windows Server 2012 (Edu license from university MSDN) as a desktop OS for lel&#039;s and I ran into this a lot. the amount of licensing judaism around windows editions is hilarious. my VM is Windows 11 Enterprise for a reason. You can still run it headlessly if you want to practice headless winshit + run crap like IIS and what not. only real shit deal is figuring out how to get all the Windows Server snap-ins and powershell modules installed so you can 1-for-1 replicate the experience."
+      },
+      {
+        "post_id": 105990219,
+        "title": "",
+        "text": "&gt;&gt;105990028&gt;&gt;I pretty much reboot everything every week just to boot into the newest kernel.&gt;meaningless. even windows 11 home dogshit is stable on a 1 week uptime.ok sure? but I want the latest kernel releases because usually the kernel gets better every point release. sometimes it gets worse so it&#039;s good to be ahead of it, find the issue and report it upstream as well. I mostly use my personal stuff as a test bed so I know what to expect in the future of corporate shitware.I remember some wage cuck telling me about their AWS EKS experience recently with random OOM killer shit and told them it was probably Amazon Linux 2 shipping systemd-oomd in their systems and how, on release, it aggressively killed high IO pressure apps for no good reason. It was later confirmed to be the case. I knew about this because I&#039;m on the edge of Linux and was ready.I don&#039;t care about uptime or any of that gay shit, I just want shit to work and have a very rapid path forward to better shit in the future. keep your half a year uptime faggot."
+      },
+      {
+        "post_id": 105990222,
+        "title": "",
+        "text": "&gt;&gt;105990132I have timeshift enabled in btrfs mode, it&#039;s just that I use NTFS drives and those never get issues unless there&#039;s a restart.Linux specific issues are trivial to fix since I actually know how it works and how to gather information.&gt;&gt;105990178For me it was in windows 2003. Decent OS.I think the worst issue I have with windows is how everything breaks when your user account isn&#039;t admin, though. Windows software is absolute dog shit written by cretins. Why does a game need admin password to run?"
+      },
+      {
+        "post_id": 105990280,
+        "title": "",
+        "text": "&gt;&gt;105990219absolutely fair and thanks for the fun story but i personally value sitting at my puter and it being exactly how i left it the day before just how i like it. i have a lot of things going on and don&#039;t like wasting too much time."
+      },
+      {
+        "post_id": 105990344,
+        "title": "",
+        "text": "&gt;&gt;105990280Not that dude, but my guy, when you restart Linux you do it after you returned to it being the same as it was yesterday where you left it off. It&#039;s not automatic while you&#039;re not looking. Also at least in KDE and I doubt it&#039;s unique to kde, when you restart all the shit you had open last session is right there open for you also. A restart takes like a minute on a bad day."
+      },
+      {
+        "post_id": 105990424,
+        "title": "",
+        "text": "&gt;&gt;105990344&gt;last session is right thereIt&#039;s in X11. UNIX does this for ages already"
+      },
+      {
+        "post_id": 105990462,
+        "title": "",
+        "text": "&gt;&gt;105981986Windows USED to be the working choice but its updates are so slow they&#039;re basically non-functional.Yeah you don&#039;t have to do them every time, yeah they run in the background but on a new N97 4 core laptop that has 0 issues running W11 when its not doing windows defender scans and updates it becomes a real problem when your system suddenly becomes way less usable because MS NEEDS to scan your whole fucking OS and start downloading + installing updates.I turned them all off with WAT on that machine and its stunning how much more performant and low on RAM usage windows becomes.&gt;goes from 5-6GB idle to 3GB idle&gt;CPU usage stays low and doesn&#039;t randomly spike&gt;disk usage doesn&#039;t get locked to 100% for ages at a timeAbsolutely stunning how bad windows is for this honestly, MS need to lock out the downloading and installing of updates until the user actually says they&#039;re ok with it and actually listen."
+      },
+      {
+        "post_id": 105990480,
+        "title": "",
+        "text": "&gt;&gt;105981523There are hypervisors which let you run virtual machines with whatever linux on your win10. Vmware, virtualbox are ones I&#039;ve used. Vmware is commercial, but just works and tends to be better at gpu things. Virtualbox also works. For better perfomance enable vt-x/vt-d.You can (and should to unbrick yourself when you fuck up) also buy a flash stick, burn an iso with livecd support via rufus, change boot order in bios or efi to try boot from a usb drive first, get welcomed by grub.Now.&gt;disable secure boot&gt;be precise with disk partitioning and partition formatting, one mistake can mean bye bye to your windows&gt;it&#039;s very ez to get fucked by a bootloader thanks to a typo, use that livecd stick to fix your bootloader config&gt;bad fstab == no bootable linux 99% of the times&gt;it&#039;s infinitely better to learn the system with a functional gui, but you should not avoid the tty. tty is your friend. btw wheel click pastes from clipboard and selecting shit within xterm copies it&gt;dont hurry, be methodical, dont overload yourself, take breaks&gt;read archwiki&#039;s articles about installing and setting the system up. even if you&#039;re not on arch (then rtfm the commands, dont be a c-c c-v monkey)&gt;check out your hardware, see if it has the drivers or needs to be worked on. lshw, lspci. if there are no drivers for your network card, u are fucked (it can be fixed, but it&#039;s not a trivial task for a noob)&gt;for typical wired just do ip link, then dhcpcd {whatever-name-which-isnt-a-lo}. for wifi, install wpa_supplicant. use wpa_cli to make a config for your network at whatever/loc/wifi.conf, then run wpa_supplicant -B -i {wireless-interface-name-given-by-ip-link} -c /whatever/loc/wifi.conf, then dhcpcd {wireless-interface}. should get you the internet. anything more complicated than that should burn in hell&gt;dont overthink about muh text editor. nano does the job.&gt;fucken google it. ubuntu forums have way too many answers to stoopid noob questions."
+      },
+      {
+        "post_id": 105990573,
+        "title": "",
+        "text": "&gt;&gt;105990344there&#039;s a lot of stuff open in memory that wouldn&#039;t be recovered by restoring the session"
+      },
+      {
+        "post_id": 105990589,
+        "title": "",
+        "text": "&gt;&gt;105981523&gt;what should I know as a windows fagThat &quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;loosing support&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot; does not magicly mean hacker man is going to break in to your PC. You can keep using Windows 10 for years without issue, literally just don&#039;t worry about it. I say this as a linux user even."
+      },
+      {
+        "post_id": 105991335,
+        "title": "",
+        "text": "&gt;&gt;105981523Was literally gonna say use Bazzite and use KDE and you&#039;ll have a fucking good time. But you&#039;ve got that covered already. CachyOS is a good choice as well.I think you&#039;ve looked into this and will be just fine.Don&#039;t run games from an NTFS drive."
+      },
+      {
+        "post_id": 105991723,
+        "title": "",
+        "text": "&gt;&gt;105991335&gt;Don&#039;t run games from an NTFS drive.Don&#039;t know why Steam still does not allow games on NTFS drives when the NTFS driver since kernel 5.15 fully supports all the features that Steam would need (namely soft symlinks).Gone are the days of the dog shit NTFS-G3 driver."
+      },
+      {
+        "post_id": 105991731,
+        "title": "",
+        "text": "why is every fucker suddenly aware of Bazzite but not well-established distros like Ubungo or Arch or Debian?wtf is bazzite"
+      },
+      {
+        "post_id": 105991793,
+        "title": "",
+        "text": "&gt;&gt;105991723Does it not? If I try to add my NTFS drive to steam it&#039;s an option, but I&#039;ve never tried installing games on it."
+      },
+      {
+        "post_id": 105991818,
+        "title": "",
+        "text": "&gt;&gt;105991793it creates mustard gas"
+      },
+      {
+        "post_id": 105991826,
+        "title": "",
+        "text": "&gt;&gt;105991793HuhJust tried and it did let me install to a NTFS drive just now. Wonder when they changed that since it still blocked it just but a year ago. But either way, its nice they&#039;re finally letting you do it since the current NTFS driver for linux is substantially more stable then the old one."
+      },
+      {
+        "post_id": 105991843,
+        "title": "",
+        "text": "&gt;&gt;105991731Fedora Kinoite for Gamers"
+      },
+      {
+        "post_id": 105992188,
+        "title": "",
+        "text": "&gt;&gt;105991731Because Fedora is Ubuntu/Debian but good, and Bazzite is to Fedora what Ubonga is to Debian.Zoomers can&#039;t use Arch."
+      },
+      {
+        "post_id": 105992242,
+        "title": "",
+        "text": "&gt;&gt;105991723&gt;Steam still does not allow games on NTFS drivesJesus fucking Christ Anon, why do Windows users know more about Linux than actual Linux users? EVERYONE knows you can just plug in your existing NTFS drive with games on it and get back to playing."
+      },
+      {
+        "post_id": 105992348,
+        "title": "",
+        "text": "&gt;&gt;105992242To be fair to him, NTFS on Linux is pretty sub optimal so few people use it. I literally need a windows livecd as part of my maintenance tools lmao."
+      },
+      {
+        "post_id": 105992376,
+        "title": "",
+        "text": "&gt;&gt;105991731bazzite is shilled to gamers by youtube ecelebs as a steamos alternative"
+      }
+    ]
+  }
+]

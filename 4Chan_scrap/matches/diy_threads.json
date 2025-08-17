@@ -1,0 +1,1621 @@
+[
+  {
+    "board": "diy",
+    "thread_id": 2894379,
+    "thread_title": "/wg/ Welding General",
+    "thread_text": "A place for anything to do with Welding.Post your welds, ask questions and discuss sticking metals together.IDK I just want a place to talk about welding.Thread Theme: Wintertime Edition",
+    "matched_ai_tools": [
+      "Rosebud"
+    ],
+    "matched_cybercrime": [
+      "worms"
+    ],
+    "posts": [
+      {
+        "post_id": 2894379,
+        "title": "/wg/ Welding General",
+        "text": "A place for anything to do with Welding.Post your welds, ask questions and discuss sticking metals together.IDK I just want a place to talk about welding.Thread Theme: Wintertime Edition"
+      },
+      {
+        "post_id": 2894382,
+        "title": "",
+        "text": "&gt;&gt;2894379old thread: https://warosu.org/diy/thread/2849067"
+      },
+      {
+        "post_id": 2894849,
+        "title": "",
+        "text": "white collar here. I&#039;m awaiting my first angle grinder. Am I gonna die?"
+      },
+      {
+        "post_id": 2894967,
+        "title": "",
+        "text": "&gt;&gt;2894379piddling away on turning an old worm reducer into a positioner with a 1 1/2&quot; - 8 threaded spindle so chucks off my sb9 lathe will fit directly biggest assache is trying to figure out how to make a foot pedal variable speed control. getting close with a 35 cent NE555 pulse generator board triggering the stepper driver. lots of trial and error with pot sizing to get the right pulse hz rangehave to get the carbon brush rotary ground mounted upstill waiting on chinkshit timing pulleys and belt ordered during cnytotal cost should be under $200"
+      },
+      {
+        "post_id": 2895013,
+        "title": "",
+        "text": "&gt;&gt;2894379Any advice on stick welding thin metal pipe together? The type of pipe you’d find on the posts of a chain link fence… about 1/8 inch thick. What works best?"
+      },
+      {
+        "post_id": 2895017,
+        "title": "",
+        "text": "&gt;&gt;28950133/32&quot; 6010/6011 @50-60A DCEN which is backwards polarity to normal stick welding. if you only have an AC machine just turn it all the way down. its gonna suck major donkeyballs and youre gonna cuss a lot and burn a lot of holes until you figure it out. or more like youll rage quit"
+      },
+      {
+        "post_id": 2895205,
+        "title": "",
+        "text": "&gt;&gt;2894967got changs $23 grounding block mounted up. still needs some fine tuning and a stud on the back to land the lead"
+      },
+      {
+        "post_id": 2895208,
+        "title": "",
+        "text": "&gt;&gt;2894967Why not just use a variable speed DC motor instead of a stepper?"
+      },
+      {
+        "post_id": 2895213,
+        "title": "",
+        "text": "&gt;&gt;2895208i already had several of the nema 23 425 oz and drives laying around. also i have some other projects in mind where i want the same manual speed control so i want to figure it out anywaysplus a nema 23 and driver is half the price of a 50mm planetary reduction dc motor and has twice the low speed torque. a positioner usually has a heavier part on it when running at the slowest so the backwards speed/torque curve on the stepper is better than a dc motor in this application"
+      },
+      {
+        "post_id": 2895232,
+        "title": "",
+        "text": "&gt;&gt;2895213Sounds like you got it all figured out. I just don&#039;t mess with steppers at all so didn&#039;t know if there was any reason to not run a simple &quot;stupid&quot; dc motor with speed control and pot to set the speed. Do you do a lot of round welded parts? There are times when one would be handy and I even bought an old clutch machine that would be stupid simple to convert over to a rotary positioner (pic rel). Really though, on the rare occasion it would be &quot;nice&quot; I&#039;d probably just fucking send it and be on my way in less time than setting up the positioner."
+      },
+      {
+        "post_id": 2895237,
+        "title": "",
+        "text": "&gt;&gt;2895232&gt;was any reason to not run a simple &quot;stupid&quot; dc motor nope. it would have been easier especially with the cheap pwm boards. but im a retard and get fixated on doing shit the most retarded way possible &gt;Do you do a lot of round welded parts?once in awhile. there one of those things that once you have one sitting on the bench itll get used more and more until it becomes a necessity. even silly little shit like welding nuts on plates goes so much smoother. and smooth is fast&gt;bought an old clutch machinethats a sweetheart and you should absolutely figure out how to power it. you can get large welding positioner chucks from chinkistan on ebay for much less than a lathe chuck. i think a 12&quot; is around $200. if you were down the street i give you a beat up 12&quot; 3 jaw ive been hoarding for too long"
+      },
+      {
+        "post_id": 2895238,
+        "title": "",
+        "text": "&gt;&gt;2895232and for me being retarded i already have an mk aircrafter which is the cadillac of bench positioners. but it was modified to the vertical plate in picel and doesnt quickly change back. i wanted a horizontal unit and needed another busywork wintertime project so here i am"
+      },
+      {
+        "post_id": 2895379,
+        "title": "",
+        "text": "currently learning stick welding. I know i fucked up with the ends but besides that, what do y&#039;all think? Any tips?"
+      },
+      {
+        "post_id": 2895386,
+        "title": "",
+        "text": "&gt;&gt;2894849Your balls will whither and die if you even think about putting on that guard. You’ve been warned"
+      },
+      {
+        "post_id": 2895396,
+        "title": "",
+        "text": "&gt;&gt;2895379your rod angle is changing as you progress across. focus on keeping it consistentstarts/stops are 75% of the skill so make ot a point to have several restarts in every bead. the goal is to have a start not even be noticeable mid bead. 6010 is easier to learn good starting technique with than 7018 that wants to make a glob"
+      },
+      {
+        "post_id": 2895418,
+        "title": "",
+        "text": "&gt;&gt;2895396i only have 7018 at my class to use but yeah, i do struggle a bit with my hand placement and handling. I often find that as the rod gets shorter, my left hand ends up getting in the way and I&#039;ll mess up a little as a try to adjust or move my hand out of the way. Any advice?"
+      },
+      {
+        "post_id": 2895449,
+        "title": "",
+        "text": "&gt;&gt;2895418focus on keeping your dominant arm locked in sync with your torso but not too rigid. hard to explain but you want to hold tight but not tense up. dont use you other hand for anything but a steady reference. your right hand with the stinger should be doing most of the directional controlholding the rod with your left hand doen by the plate like a cigarette is the best way to have good starts and stop shaking around plus turn your welder up 5 or 10 amps. seems counterintuitive but most welds run better hotter. 1/8&quot; 7018 runs well at 130-5 with the rod jammed completely in the puddle bumping on the flux and pushing itself along"
+      },
+      {
+        "post_id": 2895927,
+        "title": "",
+        "text": "&gt;&gt;2895379looks like youre moving too fast. Thats why you get those long uneven ripples. if you start getting uncomfortable dont panic, slowly loosen your grip and let go then pull away, everything has to be slow and steady. do a dry run over the metal to make sure your comfortable the whole way around. for flat welds like that id rest my right elbow on the table and hold the rod with my left hand just for the first few seconds then let go, try welding a bit one handed. The whole weld looks rushed. when you strike that arc you gotta hold it there for a second or two to let everything warm up and establish a puddle, At the end you do the same to fill in that end so you dont leave a big hole like you did in the last weld. Just dont rush and stay calm."
+      },
+      {
+        "post_id": 2895988,
+        "title": "",
+        "text": "Qrd on laser welding.Saw it on some (probably many years old) brit tv show (car sos). Guy did a neat weld off the starting block. Had never heard about it before."
+      },
+      {
+        "post_id": 2896366,
+        "title": "",
+        "text": "Never welded, but want to learn how to, any good tutorial recommendations?I have a welder, old one and heavy like a motherfucker.No idea if it even works, the knobs hardly even turn, everything is in german and I think it may have sat in damp basement for a while.Im honestly kinda scared to even plug it in to test and I don&#039;t even have any electrodes.What do?"
+      },
+      {
+        "post_id": 2896383,
+        "title": "",
+        "text": "&gt;&gt;2896366that sounds like a eurotrash oil filled transformer old style welder. i think theyre ac. not much to go wrong inside as long as its still fill of oil for cooling. get some rod and burn away"
+      },
+      {
+        "post_id": 2896385,
+        "title": "",
+        "text": "&gt;&gt;2896366Don&#039;t mess with sketchy high amperage power supplies, just buy a cheap new stick welder and get some TIG leads for it if you want after. Youll need a decent welding mask that wont send you to the ER with arc eye and some welding gloves.For learning Weld.com, Timwelds and weldingtipsandtricks on youtube are good"
+      },
+      {
+        "post_id": 2896387,
+        "title": "",
+        "text": "&gt;&gt;2896366https://presearch.com/search?q=oil+filled+welder+site%3Awww.mig-welding.co.uk%2Fforum"
+      },
+      {
+        "post_id": 2896879,
+        "title": "",
+        "text": "i have a family history of skin cancer and i want to avoid having to get shit cut off me. what works to keep the UV off me? i&#039;ve tried sunscreen but i&#039;m in the south and i just pour sweat the whole time. i thought about those things fishermen wear but they&#039;re polyester so i dunno if that would fly.i don&#039;t really care about looking like an idiot. i don&#039;t wanna get skin cancer."
+      },
+      {
+        "post_id": 2896896,
+        "title": "",
+        "text": "&gt;&gt;2896879Im sure you could sew yourself a burka out of old tshirts or something."
+      },
+      {
+        "post_id": 2896933,
+        "title": "",
+        "text": "&gt;&gt;2896879Full-coverage densely-woven cotton (jean material, not T shirt material). So boots, long socks, jeans, long-sleeved denim shirt, gauntleted welding gloves, welding helmet. If you want coverage for your neck/ears, they make welding hoods like pic related."
+      },
+      {
+        "post_id": 2897160,
+        "title": "",
+        "text": "did tig for first time today. aluminum went well. steel felt kind of sticky, if that makes sense. like, there&#039;s no resistance with the aluminum filler at all.but the steel, every time i&#039;d touch the puddle there was some resistance when i pulled away. it reminded me of when you get the mig wire stuck on the table or something and you have to pulse it to get it off.does that make sense? is tig welding steel just like that? it kind of fucks up my rhythm because i&#039;m worried i was going to move the work with the rod."
+      },
+      {
+        "post_id": 2897185,
+        "title": "",
+        "text": "&gt;&gt;2896879If you become a welder you’re gonna get cancer"
+      },
+      {
+        "post_id": 2897206,
+        "title": "",
+        "text": "&gt;&gt;2895927This is good knowledge sharing."
+      },
+      {
+        "post_id": 2897385,
+        "title": "",
+        "text": "do you have any recommendations for decent TIG welders without breaking the bank? A friend&#039;s birthday is coming soon and he started some projects which require welding. I know absolutely nothing about welders aside from what i learned in a total of 5h at university. I think my budget for the present would be around 350€"
+      },
+      {
+        "post_id": 2897441,
+        "title": "",
+        "text": "Why is welding vertically with MAG so fucking hard bros?Regular tee joints comes out great, but I just can&#039;t weld vertically for shit, no matter how much theory I get or someone show me how.It&#039;s tiresome."
+      },
+      {
+        "post_id": 2897466,
+        "title": "",
+        "text": "&gt;&gt;2897385why tig?mig is far handier for general purpose"
+      },
+      {
+        "post_id": 2897488,
+        "title": "",
+        "text": "&gt;&gt;2897466cannot answer that myself, he talked about getting a tig welder specifically. He&#039;s the mechanical engineer and he knows about this stuff so who am i to argue"
+      },
+      {
+        "post_id": 2897717,
+        "title": "",
+        "text": "&gt;&gt;2897160&gt;steel&gt;stickynever weld titanium then.aluminum you&#039;re blasting the fuck out of it. steel/stainless should not feel sticky unless you&#039;re cold or ramming in too much wire(hence cooling the puddle) or your tungestens too far away and you&#039;re blobbling metal on each end without tying the edge together. The does look slight crowned so probably one of those 3 things.&gt;&gt;2897385&gt;&gt;2897488because he probably wants to prototype parts and shit. small stuff so speed(slow tig) isn&#039;t an issue.a bottle of gas(pure argon) will likely cost him what a cheap welder will.if he only wants to do steel and stainless it will be cheaper. a tig welder that can do aluminum will be more expensive(likely out of that price range)."
+      },
+      {
+        "post_id": 2897722,
+        "title": "",
+        "text": "&gt;&gt;2897717oh that&#039;s aluminum. i thought it was oldd the edge was gone but the puddle so high(hence your &#039;sticky&#039;) hence the crown.also could be your size of filler/type. on the outer ranges of heat for filler(too low for filler) it can feel &#039;sticky&#039;). and vice versa the rod might just ball off and vaporize(too high for filler/not enough feed).you can get away with 1/16 on too high heat but you&#039;re going to be ramming feeding quickly(skill don&#039;t have yet). you can get away with 3/32 on too low of heat by dabbing like you would aluminum. s2 and s6 carbon feel different, but you&#039;re not likely to notice starting out."
+      },
+      {
+        "post_id": 2897752,
+        "title": "",
+        "text": "&gt;&gt;2897722&gt;i thought it was oldd the edge was gone but the puddle so highyeah. i was struggling with letting off the gas at the end. it would start to heat up and i&#039;d notice the puddle getting bigger and i&#039;d either try to go faster or lift the tungsten away, both of which are bad. obviously i should just lift my foot a little.i also find it unintuitive that pulling the torch away puts more heat into the weld. my brain imagines it like a flame. pull the flame away to make it cooler.i think the most likely thing is that i&#039;m poking the filler too far from the puddle. i could imagine that because the aluminum transfers heat so fast, i can get away with being further from the arc. i was really paranoid about poking the tungsten and i was putting the filler right at the edge of the puddle generally.i&#039;ll play with it some more in a week or so. i appreciate the input."
+      },
+      {
+        "post_id": 2897809,
+        "title": "",
+        "text": "I want to get into welding so that I can work in remote areas and or on a boat. What certifications and otherwise skills would I need to do that?I&#039;ve been to Alaska before trying to work on a boat, but those guys are all drug addicts. Unknowingly hired my own replacement after a few weeks. I have no friends, no family. I have two grand but can get more money if needed, and I have all the time in the world because I&#039;m sleeping in my truck. The ultimate goal would likely be to end up in Alaska, permanently. I&#039;m in my late 20s. Is this reasonable?"
+      },
+      {
+        "post_id": 2897921,
+        "title": "",
+        "text": "&gt;&gt;2897809theres money around the boats if you can tig weld shitty broken aluminum. get a dynasty 210 with a tl26 torch and the typical support tools and put them in the smallest knaack box you can get away with. start at the boat works in seattle for leads. expect to get ripped off and have to buy expensive puddle jumper flights. pick a different career by 32"
+      },
+      {
+        "post_id": 2898033,
+        "title": "",
+        "text": "&gt;&gt;2897921&gt;pick a different career by 32Thanks, but why&#039;s that?"
+      },
+      {
+        "post_id": 2898040,
+        "title": "",
+        "text": "&gt;&gt;2897921What&#039;s the deal with a welder&#039;s log? I hear if you don&#039;t weld for 6 months you lose your certifications. That&#039;s fucking insane.&gt;https://youtu.be/xJV6SGaGrLk?feature=shared6:29"
+      },
+      {
+        "post_id": 2898050,
+        "title": "",
+        "text": "Suppose I&#039;m an noob welder, but has more money than I need Is the ESAB Rebel 205ic the best multi-process welder I can get? And an oxy-torch? And a $1000 plasma cutter?"
+      },
+      {
+        "post_id": 2898141,
+        "title": "",
+        "text": "&gt;&gt;2898040When your welding at a high level you gotta be welding non stop to stay good at it, idk what it is probably muscle memory but its like your brain forgets how to weld pipes after a few months of not welding. The jump in difficulty between just sticking a few bits together at home vs welding pipes to X-ray standards in awkward positions is massive and if you fuck up you can cost companies millions in lost production time or cause some kind of an enviromental disaster.Its just like playing video games, if you dont touch them for a few months and try to play again all of a sudden youre shit at them and you have to relearn that muscle memory."
+      },
+      {
+        "post_id": 2898143,
+        "title": "",
+        "text": "&gt;&gt;2898033&gt;why&#039;s that?being a field welder is typically a contortionist act. after 30 your tolerance for doing handstands in oily bilge water and rotten fish guts will rapidly disappear. even doing simple tasks start to come with new aches and pains that linger for a week&gt;&gt;2898040&gt;What&#039;s the deal with a welder&#039;s log?idk. never heard of it. certs are mostly a meme. structural and pipeline shit are the only jobs that typically require them. and anything critical youll have to retest for each new inspector on site and retest if the engineers have a different weld process specd. its not that big of a deal. mostly its just tun a joint and the inspector does a visual between passes. big jobs with lots of welders will have the heartbreaker set up to bend stripsaluminum shops typically only care about visual aesthetics and production speedgeneral fab will give ask you to weld 2 pieces of scrap together just to see if you know how to turn a welder on and which end of the gun to pick up"
+      },
+      {
+        "post_id": 2898146,
+        "title": "",
+        "text": "&gt;&gt;2898050&gt;ESAB Rebel 205ic the best multi-process welder I can get?maybe. that&#039;s a little low on the top amperage for when you get better. i see cyberweld has the ac/dc on on a big discount which would let you tig aluminum if needed but nothing thicker than about 1/4&quot;the early generation rebels had issues but i think they got them fixed. hard to say. esab changes models and suppliers constantly these days. i have their 180i stick box and a couple firepower (rip) migs and plasma and theyre good shit&gt;And an oxy-torch? o/a is all about what you do for gas cylinders which depends on the suppliers in you area. best is to buy a complete torch with tanks used. make sure theres no company name embossed in the ring on the tank neck. a victor torch is the most universal&gt;And a $1000 plasma cutter?primeweld cut60"
+      },
+      {
+        "post_id": 2898513,
+        "title": "",
+        "text": "&gt;&gt;2894967&gt;&gt;2895205been working on getting the potentiometer control for the pulse gen dialed in. found a 20k on the bay that should workplus a saw blade for a good price. can never have enough spares"
+      },
+      {
+        "post_id": 2899438,
+        "title": "",
+        "text": "I picked up an o/a rig last night, buddy gave me a bunch of Victor top halves and tips. Paid 250, tanks were full but the torch is dog shit, buying a victor handle off eBay probably. Can&#039;t wait to burn puddles on exhaust pipes in my driveway"
+      },
+      {
+        "post_id": 2899695,
+        "title": "",
+        "text": "&gt;&gt;2894849I almost lost a finger today with an angle grinder that had a tungsten carbide disc."
+      },
+      {
+        "post_id": 2899817,
+        "title": "",
+        "text": "&gt;&gt;2899695Had a grinder catch the lace on my hoodie one time and it shot up out of my hands straight for my neck.got lucky and it tangled into the grinder and stalled it before it took my head off. took those stupid strings out of all my work hoodies after that one."
+      },
+      {
+        "post_id": 2900055,
+        "title": "",
+        "text": "I&#039;m about to do a 1 month, lvl 1+2, full time welding course because i cant find a second coding job after my first ended. Is this a good idea?"
+      },
+      {
+        "post_id": 2900622,
+        "title": "",
+        "text": "&gt;&gt;2898513pedal isnt exactly perfect. the pot is dirty and needs replaced even though its nos. it also lacks a trigger switch but nothing i cant fabricobble together. the guts are a hd gear segment thatll last several lifetimes so its a good starting point new 30t sheave and belt came in on a slow boat from the orient. i had too much reduction with a 20/50t &amp; 50:1 on the box"
+      },
+      {
+        "post_id": 2900640,
+        "title": "",
+        "text": "I need someone to help me repair the battery tray for my golf cart. See pic related. They would be welding angled aluminum(probably over the existing angled aluminum). Three pieces total, the two sides and the middle piece. You couldn&#039;t see the other side in the picture which is why there&#039;s a x2.What&#039;s a reasonable amount to ask someone to charge to help me weld this? Preferably someone mobile."
+      },
+      {
+        "post_id": 2900641,
+        "title": "",
+        "text": "&gt;&gt;2900640Forgot Pic"
+      },
+      {
+        "post_id": 2900644,
+        "title": "",
+        "text": "&gt;&gt;2900640&gt;aluminum&gt;mobile&gt;reasonable amountnot going to be cheap. dirty, fatigued, corroded aluminum is kill even in a perfect shop environment. onsite is a total shitfestyour going to find some yesmen with a harbor freight spoolgun thatll squirt a few drops of bird shit that wont stick and theyll want $500go to a semi truck shop and ask who does the alloy trailer repairs. hell be expensive. like $1k for 2 hrs. half if you can get it to his shop and give him a week to get to it. boat repair or irrigation shops are the other best bets to find a good aluminum welder"
+      },
+      {
+        "post_id": 2900660,
+        "title": "",
+        "text": "some shit i threw together at work, still dont really have a clue how to do this properly"
+      },
+      {
+        "post_id": 2900690,
+        "title": "",
+        "text": "&gt;&gt;2900644What&#039;s so shitty about aluminum welding? For those prices, I&#039;d be inclined to buy a cheap welder from harbor freight and try it myself. Is that a terrible idea?"
+      },
+      {
+        "post_id": 2900744,
+        "title": "",
+        "text": "&gt;&gt;2900660looks better than mostturn the amperage up and use the next size bigger filler rod&gt;&gt;2900690&gt;What&#039;s so shitty about aluminum welding?alum is perpetually in an oxidation state which makes it want to reject bonding. it needs to be super clean for good fusion to happen. tig welding has the advantage of using part of the ac electrical current to boil off surface oxides. spoolgun welding relies on the heat of the arc to cook through the oxide which takes tons of heataluminum is a fantastic conductor so the heat youre trying to dump in to melt it instantly moves away from the joint. so the weld start is too cold then the heat builds and gets too hot towards the end which can blow throughadditionally aluminum wire is soft shit that doesnt feed well so youre constantly battling itand you need a tank of pure argon to weld it regardless of process if you want to get into welding it would be a hard place to start but not impossible and its not a space shuttle so order a primeweld with spoolgun and blast away"
+      },
+      {
+        "post_id": 2900840,
+        "title": "",
+        "text": "&gt;&gt;2900660When weaving or walking watch the edges of your puddle. Ensure they&#039;re inline with what&#039;s just frozen. Usually you focus on one side and the other one will sort itself out from just natural movement(assuming flat welding and consistent feeding).I&#039;d just practice little weaves with no filler on thin stainless sheet(1/8th or less). So you can run a lighter shade and really see what amperage, arc length and travel speed does. Stainless color will give you a better indicator of how much heat you&#039;re dumping into it.&gt;&gt;2900690&gt;aluminum&gt;cheapAluminum is expensive to weld. Tig you&#039;ll need AC and amperage. Most cheap machines will have neither. And if they do they sacrifice quality or something else to get them.For mig(wire), Spool Guns attachments are an extra cost on an already noncheap welder. And now you&#039;ll need another gas bottle.If you&#039;re deadset get a cheap Tig Welder with AC and a bottle argon. It will teach you the most about welding. You will need 220v to do aluminum."
+      },
+      {
+        "post_id": 2900853,
+        "title": "",
+        "text": "&gt;&gt;2900744&gt;&gt;2900840Thank you both for the most in-depth, descriptive posts I&#039;ve encountered on 4chan. Based on these responses I probably wouldn&#039;t attempt to get someone to weld it. I may just get some Angled Aluminum and rivet it to the pieces that are currently failing. I won&#039;t really know until I get the batteries out and I don&#039;t want to do that yet as they are still holding a charge.What sucks though is I have a neighbor who is a welder, and I know either he or one of his coworkers would have the tools/experience to help me with this, but he gives a vibe that he wouldn&#039;t want to open up a can of worms for helping every neighbor that might think they need two pieces of metal connected together. I may need to start working my way into his good graces..."
+      },
+      {
+        "post_id": 2901961,
+        "title": "",
+        "text": "&gt;&gt;2900055Not an answer to the question but I&#039;m a webshit and currently looking for a short course in welding to see if I could reasonably* get into this field and register for a longer and more in depth training.*I&#039;m a nerd AND have bad eyesight, I already spotted some courses where the prerequisites state clearly candidates should have no eyesight issues"
+      },
+      {
+        "post_id": 2902633,
+        "title": "",
+        "text": "&gt;&gt;2899438me again. oa welding isn&#039;t as simple as I thought it was. seems to be taking me a lil while to get it figured out. anywho, anyone with experience on oxyfuel know about welding without a gap? for instance, I have been trying to weld in a O2 bung into my exhaust and keep fucking up somehow. I think it&#039;s excess heat, but I&#039;m keeping a good puddle, and at the same time not penetrating enough. hard for me to explain, idk what you guys are familiar with. weak welds! I blow through the mild steel under the bung and end up with my puddle traveling up the threads. I let it cool for a while and hit it with a thread chaser and it&#039;ll be fine for a few turns but after I get to like 20 ft/lbs i take the bung clean off, leaving a lot of the filler behind. maybe it&#039;s bc it&#039;s stainless vs mild steel? maybe someone has an idea"
+      },
+      {
+        "post_id": 2902636,
+        "title": "",
+        "text": "&gt;&gt;2900853you should 1000% do that without the intentions of using his tradecraft for your benefit. My buddy is an engine builder, builds Toyota engines for folks, and himself. real technical dude, tight tolerances yada yada. we were good friends for a while, one day shows me his race bike. sick ass supermoto. He knew that I&#039;m a carpenter. talked about work 15 dozen times.. one day has a wild idea he&#039;s trying to breakdown. I help him. he casually guided me into helping him finish his kids &#039;treehouse&#039; [read:tiny home between two cedar trees] in exchange for his race bike. about 18k into this bike with a sale value of around 9k-12k, in exchange for about 6k-7.5k in labor. be friends with the dude, not to use him for your benefit, but benefit instead from him being your friend. Homies help each other out in the real world."
+      },
+      {
+        "post_id": 2902689,
+        "title": "",
+        "text": "Is this really worth showing off? This one&#039;s in a museum"
+      },
+      {
+        "post_id": 2902693,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 2902695,
+        "title": "",
+        "text": "&gt;&gt;2901961I&#039;m sure you&#039;ll do just fine"
+      },
+      {
+        "post_id": 2902699,
+        "title": "",
+        "text": "&gt;&gt;2902693I&#039;m an idiot, but how is &quot;&quot;&quot;she&quot;&quot;&quot;&quot; holding the bolt with bare skin while TIG welding? Short pulses like that probably wouldn&#039;t diffuse too much heat through the bolt, but what about the electricity?"
+      },
+      {
+        "post_id": 2902702,
+        "title": "",
+        "text": "&gt;&gt;2902633I specialize in TIG, not oxy and I also don;t know exactly what youre talking about but it sounds like youre trying to weld a stainless steel bung made of thick material to a thinner mild steel exhaust pipe. If thats the case, angle the torch to dump most of the heat into the bung near the joint, taking care not to burn the top edges off the bung, and when you add filler, try to &quot;wash&quot; it down onto the thinner tube indirectly by moving the torch downwards (move the torch, dont change the angle) each time you dab filler"
+      },
+      {
+        "post_id": 2902704,
+        "title": "",
+        "text": "&gt;&gt;2902699TIG isnt instant like that. someone has used video editing software to cut out the part where they make a weld pool"
+      },
+      {
+        "post_id": 2902706,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 2902710,
+        "title": "",
+        "text": "&gt;&gt;2902633&gt;welding isn&#039;t as simple as I thought it wasYou just need the right tools for the job"
+      },
+      {
+        "post_id": 2902777,
+        "title": "",
+        "text": "&gt;&gt;2898050You don&#039;t need all of that"
+      },
+      {
+        "post_id": 2902787,
+        "title": "",
+        "text": "&gt;&gt;2902777Reminds me of that pakastani truck channel."
+      },
+      {
+        "post_id": 2902790,
+        "title": "",
+        "text": "Combine /a/ and /diy/ and you get..."
+      },
+      {
+        "post_id": 2902794,
+        "title": "",
+        "text": "&gt;&gt;2902710Thermite welding is kinda based"
+      },
+      {
+        "post_id": 2902803,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 2902823,
+        "title": "",
+        "text": "&gt;&gt;2902695First rule of welding: grab things that are red hot with your bare hands.Second rule: use gloves"
+      },
+      {
+        "post_id": 2902847,
+        "title": "",
+        "text": "&gt;&gt;2902790that&#039;s not soijacks in the rear window is it"
+      },
+      {
+        "post_id": 2903035,
+        "title": "",
+        "text": "&gt;&gt;2895418&gt;&gt;2895379I hope you&#039;re wearing a welding respirato p100I spent too long trying to figure out how you welded a 100 year old wooden plank to steel"
+      },
+      {
+        "post_id": 2903037,
+        "title": "",
+        "text": "&gt;&gt;2896366Pop it open and post some picsIf there&#039;s big beefy capacitors don&#039;t touch anything in it"
+      },
+      {
+        "post_id": 2903039,
+        "title": "",
+        "text": "&gt;&gt;2897441Are you going uphill or downhill?You&#039;re gonna need to understand it&#039;s an entirely different technique required"
+      },
+      {
+        "post_id": 2903044,
+        "title": "",
+        "text": "&gt;&gt;2899438&gt;picked up an o/a rig last night, buddy gave me a bunch of Victor top halves and tips. Paid 250, tanks were fullIf you didn&#039;t get the paperwork, the shop won&#039;t switch out your tanks"
+      },
+      {
+        "post_id": 2903062,
+        "title": "",
+        "text": "&gt;&gt;2902803honestly, caulk application is harder than welding dimes."
+      },
+      {
+        "post_id": 2903065,
+        "title": "",
+        "text": "&gt;&gt;2902704It is chink special welding inverter. They have &quot;cold weld&quot; mode which dumps a lot of current in a very short pulse."
+      },
+      {
+        "post_id": 2903066,
+        "title": "",
+        "text": "&gt;&gt;28950131/8 thick.. that is 3 mm...So 3/32 rod, any really. 6010, 6011, 6013. Maybe even 7018. Go fast. Make sure fit is tight. If you blow through holes, reduce current. If you still do blow holes, just tack weld it (like idk, make a blob, wait it to cool, weld another blob, etc)"
+      },
+      {
+        "post_id": 2903074,
+        "title": "",
+        "text": "&gt;&gt;2903044&gt;If you didn&#039;t get the paperwork, the shop won&#039;t switch out your tanksDepends on the shop and area. I don&#039;t have paperwork on any of my tanks. As long as they don&#039;t say Airgas on the collar and you try to swap them out at the LWS here you&#039;re golden. And actually they might even take Airgas tanks now, because the somewhat local Airgas shop has been closed down for quite some time now... If they are out of hydro I think you gotta pay a $20 re-hydro fee or some bullshit like that for them to hydro it and get it into their system."
+      },
+      {
+        "post_id": 2903091,
+        "title": "",
+        "text": "&gt;&gt;2903074Neat, Ive got some expired shit I didn&#039;t know what to do with. Thanks"
+      },
+      {
+        "post_id": 2903108,
+        "title": "",
+        "text": "&gt;&gt;2903062It&#039;s not. Especially when it&#039;s epoxy like that."
+      },
+      {
+        "post_id": 2903250,
+        "title": "",
+        "text": "When I get a brand new printer and print my first print does it matter what kind of filament i use ? Can I just immediately start printing with PETG CF or is it recommended to start with PLA ?"
+      },
+      {
+        "post_id": 2903256,
+        "title": "",
+        "text": "&gt;&gt;2902704Do you even into high frequency ?"
+      },
+      {
+        "post_id": 2903279,
+        "title": "",
+        "text": "&gt;&gt;2903091That is how it is in my area. Yours may be different, but it couldn&#039;t hurt to ask. Usually if your tank is out of hydro they will take it and charge you the hydro fee and keep it for a week or two until it gets tested and refilled and then they give you that exact tank back. Once it is in the system and up to date you can then swap it out for any of their tanks when you bring it back empty next time."
+      },
+      {
+        "post_id": 2903300,
+        "title": "",
+        "text": "&gt;&gt;2903279Funny, my shop just switches tanks.Technically I &quot;own&quot; the tank. In practice they just swap them out as I buy gas. Saves on rental fees and hydro testing."
+      },
+      {
+        "post_id": 2903329,
+        "title": "",
+        "text": "&gt;&gt;2903279I did call and ask years ago, they said I had to have paperwork and one tank was so sold it was a different style as me they wouldn&#039;t do anyone with it anyway.I&#039;ll try again, thanks for the info"
+      },
+      {
+        "post_id": 2903426,
+        "title": "",
+        "text": "&gt;&gt;2903300&gt;Funny, my shop just switches tanks.&gt;Technically I &quot;own&quot; the tank. In practice they just swap them out as I buy gas. Saves on rental fees and hydro testing.That is what they do after the first time in with a new bottle. I assume they do this in case it doesnt pass the hydro. That way they can give you back your shitty bottle. After it passes the first time you can swap it out for any bottle they have on hand in similar size and holding the same gas."
+      },
+      {
+        "post_id": 2904350,
+        "title": "",
+        "text": "first time oxyfuel welding, what do you guys think?did it for class"
+      },
+      {
+        "post_id": 2904351,
+        "title": "",
+        "text": "&gt;&gt;2904350also it looks like welding jobs in my area all pay $20/hr. it can&#039;t be that bad, right?TIG stainless steel and aluminum under $25 seems wrong."
+      },
+      {
+        "post_id": 2904474,
+        "title": "",
+        "text": "&gt;&gt;2894379&gt;get new tig box&gt;go to swap out retarded eurofag limp wrist torch for normal ck&gt;single model proprietary 1/8 bspp compression fitting why are engineers like this?"
+      },
+      {
+        "post_id": 2904511,
+        "title": "",
+        "text": "&gt;&gt;2900622Have you tried using this yet? Welding is electrically noisy, AC/high frequency doubly so. If you dont isolate your drive/ motor electricals you can have wacky things happen. The pulse input to the stepper driver can be particularly prone to noise. So test it before you get too committed."
+      },
+      {
+        "post_id": 2904963,
+        "title": "",
+        "text": "&gt;&gt;2894379Fuck welding. Either find me a worthwhile laser welder for $500ish, or fuck off with this impossible skill bullshit I myself suck balls at."
+      },
+      {
+        "post_id": 2905007,
+        "title": "",
+        "text": "&gt;&gt;2904963&gt;impossible skillits all in the wristquit jerking it so much and reclaim your natural cognitive and motor skills"
+      },
+      {
+        "post_id": 2905015,
+        "title": "",
+        "text": "&gt;&gt;2894379Guys my cars muffler broke where it meets the pipe. It&#039;s $300 for the sketchiest offbrand replacement and $700 oem. Which harbor freight welder should I buy to try fixing this? I&#039;d like a welder that&#039;s good for general purpose car work. Will $150 get me what I need out of a welder?"
+      },
+      {
+        "post_id": 2905815,
+        "title": "",
+        "text": "&gt;&gt;2894379shitty news from the goat welding teacher hex chrome is bad shit. be careful out there stainless anons"
+      },
+      {
+        "post_id": 2906013,
+        "title": "",
+        "text": "&gt;&gt;2902633first successful coupon practice about a week ago"
+      },
+      {
+        "post_id": 2906014,
+        "title": "",
+        "text": "&gt;&gt;2906013progression, this time with filler"
+      },
+      {
+        "post_id": 2906123,
+        "title": "",
+        "text": "&gt;&gt;2905815First time i felt genuine sadness for someone i didnt know personally.I learned how to weld from his videos and now im a pipe welder.Hope he gets better"
+      },
+      {
+        "post_id": 2906128,
+        "title": "",
+        "text": "I soon would need to weld 15x15x1.5 mm box section between each other and to a griddle form a grill (it&#039;s a bird cage).All I have is a stick welder. Should I get 2.0mm rods, or 3/32 would be fine? Im planning to use 6013, because removing slag from 6010/6011 is too much of a pain, especially if weld is shit, and last time i checked, slag cracks under paint and falls off."
+      },
+      {
+        "post_id": 2906147,
+        "title": "",
+        "text": "&gt;&gt;2906128https://www.youtube.com/watch?v=2oyNpHLoJTAget it so youre welding downhill everywhere you can to make it easy"
+      },
+      {
+        "post_id": 2906185,
+        "title": "",
+        "text": "&gt;&gt;2906147Ehh... I&#039;ll do pakistani weld, where they basically make bunch of spot welds. Other thing, what would be the best way to attach galvanized sheet (0.35mm... or maybe not galvanized since welding galvanized is a pain since that shit burns and makes junk and cancerous white-yellow flake feather things) to the box section? Riveting? Or I can blast it with welder. And how can I avoid tin-can effect? By heating shit before I fasten it to the box section (like idk, pouring boiling water and then quickly riveting/welding it)"
+      },
+      {
+        "post_id": 2906191,
+        "title": "",
+        "text": "&gt;&gt;2906185&gt;how can I avoid tin-can effect?figure out how to cross brake it. you can use a rounded over chisel blunt end to work along the line and deform the panel to give it some strength pop riveting panels on works great. self tapper screws are good as well"
+      },
+      {
+        "post_id": 2906367,
+        "title": "",
+        "text": "&gt;&gt;2906191Sound like a pain. It is not really a requirment to avoid tincan effect, but I&#039;m curious if heating the galvanized sheet will reduce it enough,"
+      },
+      {
+        "post_id": 2907096,
+        "title": "",
+        "text": "&gt;&gt;2894379Noob here. I have some xp w CO2 but now I wanna learn stick. I have the dough but don&#039;t wanna just blind buy the most expensive invertor on market, just something good enough to not make learning process needlesly hard. What sort of machine should I aim for?"
+      },
+      {
+        "post_id": 2907149,
+        "title": "",
+        "text": "&gt;&gt;2907096Stick welding powersupply is just a powersupply with current limit function and OCV of 60-80V.So even the chinkiest welder welds. What would piss you off, depending on what you weld, is a hot start feature (temporary current increase on the start to avoid cold metal), since if you&#039;re dealing with 2mm and less steel, you&#039;d blow it through. So maybe get a welder where hot start can be turned off"
+      },
+      {
+        "post_id": 2907152,
+        "title": "",
+        "text": "I just got my 1st welding machine that uses gas, so I should probably get gas. What&#039;s the magical cheap(preferably cheap) way for me to get a used cylinder? Not necessarily opposed to sucking dick or robbing someone for it. I guess a q size would be good, I can easily move one of those around by myself. I have a guy by my house who can fill them but they probably need to be certified because he doesn&#039;t run some rinkydink outfit. I want to mig weld steel using my mig welder, the internet tells me I want 75% argon/25% co2, am I being bamboozled? What should I expect to pay for a used cylinder, preferably q sized? In southeast Michigan."
+      },
+      {
+        "post_id": 2907214,
+        "title": "",
+        "text": "I&#039;ve just started my welding course (tig level 1, mig level 1 &amp; 2, fabrication), the town I currently live in has dockyard so I guess there is a strong chance I may end up working with marine related welding however I was wondering on what other options are out there from the experience of Anons in this thread.Could it be possible for me to get into working on huge ass machines and/or vehicle automation? Im kind of worried I will be told that I don&#039;t have enough experience and end up doing some small gigs like welding metal fence door brackets or something along these lines."
+      },
+      {
+        "post_id": 2907215,
+        "title": "",
+        "text": "&gt;&gt;2907152a 20lb co2 tank from a soda machine or dope grow is usually under $50 used. co2 is fine for steel especially if you have a newer welder with adjustable inductance"
+      },
+      {
+        "post_id": 2907248,
+        "title": "",
+        "text": "&gt;&gt;2907215&gt;a 20lb co2 tank from a soda machine or dope grow is usually under $50 used. That sounds sweet. Can&#039;t find any on Craigslist. Found 2 50#ers for $400. According to the ad &quot;THEY ARE STEEL&quot; do they use the same regulator as other cylinders?&gt;co2 is fine for steel especially if you have a newer welder with adjustable inductanceIt has a knob on it or some shit. If that&#039;s a feature of nicer welders it probably doesn&#039;t have it."
+      },
+      {
+        "post_id": 2907255,
+        "title": "",
+        "text": "&gt;&gt;2907248&gt;do they use the same regulator as other cylinders?co2 cylinders should all have the same regulator connection but its different than an argon tank. co2 is CGA320 male thread on the tank. argon is CGA580 female thread on the tank. you can get an adapter for about $20 if you already have an argon type regulatorhttps://www.amazon.com/CGA-580-CGA-320-Adapter-Bottle-Dioxide/dp/B06WGZYD54"
+      },
+      {
+        "post_id": 2907256,
+        "title": "",
+        "text": "&gt;&gt;2907255I was hoping to swipe an old one from work, might have to piece it together. I know there are some old demand flow regulators with a 580 fitting that will never be used again and some typical regulators that were hard piped in with 1/2 npt. So of the other half of the 580 fitting is 1/2 npt I&#039;m good to go."
+      },
+      {
+        "post_id": 2907285,
+        "title": "",
+        "text": "&gt;&gt;2907256you can change out the inlet stems on regulators too. its just pipe thread &gt;1/2 nptthose may be low inlet pressure (50-150psi) regulators for manifolds and will go bang if hooked to full tank pressure. tread carefully"
+      },
+      {
+        "post_id": 2907303,
+        "title": "",
+        "text": "&gt;&gt;2902699&gt;but what about the electricity?The bolt is resting on a metal surface, which is grounded. the fingers are there to hold the bolt steady while welding."
+      },
+      {
+        "post_id": 2907341,
+        "title": "",
+        "text": "&gt;&gt;2907285It&#039;s high pressure stuff, the nipples they thread onto are sch160 or xxs. It&#039;s a stupid setup, it looks like some engineer figured out the absolute cheapest way to do it but they do have some old regulators lying around, they swap the whole assembly if the gauge lens gets damaged."
+      },
+      {
+        "post_id": 2907356,
+        "title": "",
+        "text": "&gt;&gt;2907341&gt;3k psi piping system thats impressive overkill. sounds like a cya big company decision to avoid the liability of minimum wage monkies handling gas bottles on the floor"
+      },
+      {
+        "post_id": 2907403,
+        "title": "",
+        "text": "&gt;&gt;2907356They&#039;re not hooked to cylinders, they&#039;re hooked to 20-80ft tall pressure vessels. It&#039;s part of a sampling system, after the regulator they connect a small cylinder the size of a beer can and then send that to a lab to make sure the product is in spec. This is a place that makes gases among other things. But I&#039;ve been to other facilities with similar setups that will have seperate valves(usually 2 in a row) with a gauge on the inlet and outlet. It&#039;s not like they wandered around their fab shop and realized they can save a few hundred bucks per station by repurposing a non standard valve."
+      },
+      {
+        "post_id": 2907653,
+        "title": "",
+        "text": "&gt;&gt;2904511ive been on other stuff. and need to get back to it. i dont do much alum so im not too worried. hf start seems to be mostly ok. the ruskie vid guy does nice work with simple chinkshit electronics so hopefully they work for me as wellhttps://www.youtube.com/@Swarvar/videos"
+      },
+      {
+        "post_id": 2908693,
+        "title": "",
+        "text": "&gt;&gt;2907285Use only high pressure nipples and fittings. They&#039;re cheap enough. I prefer long nipple replacements. Western dominate the industry in the US and their parts are easy to find online. Just Google the part number of your regulator to find factory specs and rebuild kits if needed. Seal-Seat are an industry supplier of a variety of kits ( I rebuild my own torches and regulators which isn&#039;t difficult)."
+      },
+      {
+        "post_id": 2908975,
+        "title": "",
+        "text": "&gt;&gt;2908693&gt;I prefer long nipple replacements.Kek&#039;d hard at this.Yes I&#039;m an immature child at heart..."
+      },
+      {
+        "post_id": 2910643,
+        "title": "",
+        "text": "I need a large ultra high vacuum chamber (sub 10^−6 pascals). This means thick stainless steel walls and solid welds, so no molecular leaks. I would like it to be cylindrical or cubic (not spherical).Problem is, these things are FUCKING EXPENSIVE. Not to mention all the flanges/extras you&#039;d have to buy to get it up and running.How can I build up my skills to weld one of these things myself?"
+      },
+      {
+        "post_id": 2910662,
+        "title": "",
+        "text": "&gt;&gt;2907403I look forward to watching the YouTube animation about the workplace disaster when someone drops 3k psi of chlorine into the lab because the cheapest valve on grainger failed"
+      },
+      {
+        "post_id": 2911817,
+        "title": "",
+        "text": "What welding class should I enroll in next?Oxy-Fuel + TigStick 6010 and 7018 1G/1F/2G/2FTigRepeat of Intro to Welding (All Processes but flat, horizontal. Lap joints, butt joints, and filleting T&#039;s)"
+      },
+      {
+        "post_id": 2911854,
+        "title": "",
+        "text": "&gt;&gt;2911817&gt;What welding class should I enroll in next?what do you want to learn? for a job? for fun?&gt;Repeat of Intro to Weldingwhy would you repeat? did you not figure out?"
+      },
+      {
+        "post_id": 2911870,
+        "title": "",
+        "text": "&gt;&gt;2911854&gt;what do you want to learn? for a job? for fun?Am a tradesman, but not a welder. My area has TIG shops, a few autobody shops, a few engine block shops, so every process is possible for employment. I know stick is the best paying, and there are unions which employ (ironworkers, pipefitters, boilmakers, sheet metal). That said, after completing a 5 year trademen apprenticeship, I&#039;m not too keen on doing another apprenticeship. I do know that in my trade there are a few welding calls (which often are TIG/stainless steel or Stick to Galvanized; neither of which are ideal)&gt;why would you repeat? did you not figure out?Repeat is just more &#039;hood time. I&#039;ve asked if it was designed to be so, and they did say yes.I&#039;m currently in the intro class now, where we&#039;re given a demonstration of a process, then are given 2 hrs to recreate it. It&#039;s not that much time to master it, but I&#039;ve seen some students (even a chick) get it on her first time.They divide intro class into 2 separate classes: OxyFuel and TIG, thenStick, Mig/Flux, TIGI honestly prefer OxyFuel and TIG just because they&#039;re cleaner looking welds. I&#039;ve been ass at TIG so far. Getting good at stick to me, just seems like an occupational skill because I don&#039;t think anyone does stick for recreation.ok thanks for reading, I&#039;m rambling too muchAs for recreational options, it sucks because I can only see myself doing TIG/ OxyFuel welding on my free time. It looks like most advanced TIG machines can also stick weld; so maybe that&#039;s an option."
+      },
+      {
+        "post_id": 2912352,
+        "title": "",
+        "text": "&gt;&gt;2911870I think tig is for gays so do stick. unless you&#039;re gay."
+      },
+      {
+        "post_id": 2912465,
+        "title": "",
+        "text": "&gt;&gt;2896933blud got that villager fit. shitty leather hoods are somewhere between 5 to 10 bucks (around me at least) even for a begginer, they&#039;re worth checking out. gives peace of mind and lets you modify your actual hood to be lighter while not burning your scalp offI should go back to practicing. last time I stuck the stick was in january, but the darkness consumed me"
+      },
+      {
+        "post_id": 2912699,
+        "title": "",
+        "text": "which fab youtube channels do you lot sub to?&gt;https://www.youtube.com/@TheMetalist"
+      },
+      {
+        "post_id": 2913050,
+        "title": "",
+        "text": "Any tips for welding rocker panels of a car with a flux core welder? Keep blowing holes through it and I am losing hope desu. I&#039;ve tried butt and lap welding. Do I just need to git gud or should I try plug welding it instead. Completely new to welding"
+      },
+      {
+        "post_id": 2913054,
+        "title": "",
+        "text": "&gt;&gt;2913050fluxcore is high temp turn down settings and i would recommend spot welding and distribute the heat evenly to minimize warping"
+      },
+      {
+        "post_id": 2913746,
+        "title": "",
+        "text": "&gt;&gt;2907214If you&#039;re willing to travel you can make decent money working at remote construction sites. You&#039;ll need to know structural and/or pipe, TIG and/or stick, mild and/or stainless steel welding. You&#039;ll need to test at the site before they hire you, and if you&#039;re doing ASME code work, your first couple of welds will need to pass RT (X-ray). You&#039;ll easily make 6 figures."
+      },
+      {
+        "post_id": 2914163,
+        "title": "",
+        "text": "&gt;&gt;2899817Jesus, I would change my job soon after. Too much trauma"
+      },
+      {
+        "post_id": 2915115,
+        "title": "",
+        "text": "how do you weld aluminum with another aluminum?my project is made from soda can and some wires shaped into springs. I tried the generic strong adhesive that people use to fix ceramic but it&#039;s not that strong. there&#039;s also the china-made &quot;low melting point&quot; aluminum welding sticks but it&#039;s a waste of money as it doesn&#039;t bond with aluminum. Help please."
+      },
+      {
+        "post_id": 2915124,
+        "title": "",
+        "text": "&gt;&gt;2915115gtaw"
+      },
+      {
+        "post_id": 2915253,
+        "title": "",
+        "text": "&gt;&gt;2915115Oxyacetylene with flux paste. No rods needed."
+      },
+      {
+        "post_id": 2915260,
+        "title": "",
+        "text": "What happens if you are doing some arc welding technique and for some reason your ground comes lose from the table? Like say the clamp broke."
+      },
+      {
+        "post_id": 2915262,
+        "title": "",
+        "text": "&gt;&gt;2915260the arc just stops. usually with the wire stuck in the puddleits a poor niggers contactor for scratch tig. you kick the ground clamp off at the end of the weld so you dont lose gas coverage breaking the arc"
+      },
+      {
+        "post_id": 2915263,
+        "title": "",
+        "text": "&gt;&gt;2915260NO circuit, no power."
+      },
+      {
+        "post_id": 2915266,
+        "title": "",
+        "text": "&gt;&gt;2915262So the arc wouldn&#039;t continue in the air to seek the falling ground that&#039;s what I was concerned about"
+      },
+      {
+        "post_id": 2915267,
+        "title": "",
+        "text": "&gt;&gt;2915115You&#039;re going to have a rough time if you have to ask and are trying to weld on aluminum cans."
+      },
+      {
+        "post_id": 2915269,
+        "title": "",
+        "text": "&gt;&gt;2915266It might flash for a split second but theres no risk"
+      },
+      {
+        "post_id": 2915271,
+        "title": "",
+        "text": "&gt;&gt;2915266why would it be any different than before the arc is struck?put the ground clamp on your nipple and lick the stinger"
+      },
+      {
+        "post_id": 2915762,
+        "title": "",
+        "text": "&gt;&gt;2894379So I have a shitty MIG box my grandpa gave me but I don&#039;t know shit about welding.I got a car that&#039;s smashed up and I&#039;d like to put a roll cage in it but for PURELY COSMETIC PURPOSES. Too advanced for a knownothing scrub to fuck with or....?"
+      },
+      {
+        "post_id": 2915765,
+        "title": "",
+        "text": "&gt;&gt;2915762How are your fitting skills?"
+      },
+      {
+        "post_id": 2915766,
+        "title": "",
+        "text": "&gt;&gt;2915762What &gt;&gt;2915765 said. Welding is the easier part of that"
+      },
+      {
+        "post_id": 2915771,
+        "title": "",
+        "text": "&gt;&gt;2915765Let&#039;s jsut say that while I&#039;m familiar with &quot;measure twice, cut once&quot;, I&#039;m actually rather unsure how to cut pipe to mate with a round surface."
+      },
+      {
+        "post_id": 2915772,
+        "title": "",
+        "text": "&gt;&gt;2915771Practice welding on some scrap, look up how to cut round tubing and buy more than you need in case you&#039;re retarded and mess it up."
+      },
+      {
+        "post_id": 2915775,
+        "title": "",
+        "text": "&gt;&gt;2915772I say &quot;cosmetic&quot; but I don&#039;t expect it to actually be aesthetically pleasing. Surely so long as I don&#039;t fuck up enough times that the whole thing is awful bead, it&#039;s nothing an angle grinder wouldn&#039;t fix, right?"
+      },
+      {
+        "post_id": 2915782,
+        "title": "",
+        "text": "&gt;&gt;2915775Yes, just glob weld on there and grind it flush. If there are holes, fill them with caulk and paint it. You could use weld fittings (90s, 45s, tees, etc.) to save you making more complicated copes. It would look smoother and the corners would be less abrupt."
+      },
+      {
+        "post_id": 2915783,
+        "title": "",
+        "text": "&gt;&gt;2915771There&#039;s a little publication called &quot;The Pipefitter&#039;s Handbook&quot; that shows you how to make templates for cutting pipe connections if you don&#039;t want to use fittings. You could also bend the pipe. Fill it with sand, cap the ends, then heat it with a rosebud torch and bend it in some sort of jig."
+      },
+      {
+        "post_id": 2915784,
+        "title": "",
+        "text": "&gt;&gt;2915783I&#039;ll check that out, as fittings jsut seem to be extra cost and i have way more confidence in throwing together a bending mandrel than prettymuch any other part of this project"
+      },
+      {
+        "post_id": 2915785,
+        "title": "",
+        "text": "&gt;&gt;2915784I got faith in you, you seem retarded and dedicated enough to get it done"
+      },
+      {
+        "post_id": 2917902,
+        "title": "",
+        "text": "fucker got penetration now"
+      },
+      {
+        "post_id": 2917909,
+        "title": "",
+        "text": "&gt;&gt;2917902My biggest problem is that you got the cordless grinder those suck."
+      },
+      {
+        "post_id": 2917921,
+        "title": "",
+        "text": "&gt;&gt;2917909It has its purpose."
+      },
+      {
+        "post_id": 2917935,
+        "title": "",
+        "text": "&gt;&gt;2917902if youre using a stick welder as a power supply youll still have troubles burning hardwire in short circuit transfer. it takes about 350 amps instantaneous to melt off .035 solid wire when it stubs each time in the puddle. spray transfer works fine but needs minimum 80% argon to happen. innershield will run the best of any wire off a constant current stick welder"
+      },
+      {
+        "post_id": 2917937,
+        "title": "",
+        "text": "&gt;&gt;2917935It&#039;s feeding off a ranger something which has a mode for wire CV/wire feeder and I&#039;m using 75% argon 25% co2Tried that shit then tried stick trying to weld shit to a busted bolt but it&#039;s fucked."
+      },
+      {
+        "post_id": 2917942,
+        "title": "",
+        "text": "&gt;&gt;2917937its not a bad plan. guy i know bought a little crackerjack primeweld mig for $200 then used it like you are with a miller regency 250 cv he bought at auction for $50. works as well as a dedicated feeder for 1/4th the price"
+      },
+      {
+        "post_id": 2917948,
+        "title": "",
+        "text": "&gt;&gt;2917942For sure. I need t to find a different spot for the solenoid power though because the welder output holds it on for a few seconds after I let off."
+      },
+      {
+        "post_id": 2918617,
+        "title": "",
+        "text": "how do factories weld a neodymium magnet to iron?"
+      },
+      {
+        "post_id": 2918636,
+        "title": "",
+        "text": "&gt;&gt;2918617&gt;how do factories weld a neodymium magnet to iron?Probably some sort of braze or silver solder. Dunno what the hell sticks to neodymium though."
+      },
+      {
+        "post_id": 2918709,
+        "title": "",
+        "text": "&gt;&gt;2918636I&#039;ve damaged a few neodym magnets, they tend to be plated in what looks like nickel over a layer of copper over a layer of something dull and grey"
+      },
+      {
+        "post_id": 2918751,
+        "title": "",
+        "text": "&gt;&gt;2918636&gt;braze or silver solderheat damage or at least weaken magnetic field. these magnets are as strong as if they&#039;re brand new."
+      },
+      {
+        "post_id": 2918775,
+        "title": "",
+        "text": "&gt;&gt;2918751&gt;heat damage or at least weaken magnetic field. these magnets are as strong as if they&#039;re brand new.True, but what is the critical temperature at which that happens? There might be some low temp solder options that would be feasible for use... Or it could be some kind of epoxy maybe?"
+      },
+      {
+        "post_id": 2919388,
+        "title": "",
+        "text": "&gt;&gt;2902699Same reasons birds don&#039;t get zapped when sitting on power lines. The path to ground isn&#039;t through the hand/bird since it has a considerably higher resistance than the workpiece/power line. There&#039;s also all sorts of safety features on modern machines to ensure that even if you haven&#039;t grounded the work piece properly the machine will not run at full blast because there&#039;s simply too much resistance, at best you&#039;ll just get a tingle and you&#039;ll break the circuit by going &quot;FUCK&quot; and yanking your hand away and bang it against some bullshit . Supposedly electricity run through your body every single time you start an arc as its attempting to find the path of least resistance but we&#039;re talking about something that travels at light speed so the total amount of time you&#039;ll have the electricity running through you is like 1 nanosecond and when you do the calculations something like 150A at 10V results in a total energy of around 0.0000015 joules which is simply so low that it might as well be zero."
+      },
+      {
+        "post_id": 2919451,
+        "title": "",
+        "text": "&gt;&gt;2894379Welding virgin, here.What would I be able to do with picrel (alu, steel)?Seen some yt vids about it, mostly positive, for a low end entry point; what&#039;s your opinion though?"
+      },
+      {
+        "post_id": 2919464,
+        "title": "",
+        "text": "&gt;&gt;2919451Probably would do thin steel but not well"
+      },
+      {
+        "post_id": 2919465,
+        "title": "",
+        "text": "&gt;&gt;2919464How thin and how (not) well (e g. stainless, chromoly,...?) What about alu?"
+      },
+      {
+        "post_id": 2919475,
+        "title": "",
+        "text": "&gt;&gt;2918775&gt;True, but what is the critical temperature at which that happens?The Curie temperature is ~310C, but they can start to weaken at ~80C."
+      },
+      {
+        "post_id": 2919476,
+        "title": "",
+        "text": "&gt;&gt;2919465What about alu?Not a chance in hell. Judging by the front end of that torch I would doubt it can do anything other than gasless wire. Very very thin gasless wire. 120A is not enough."
+      },
+      {
+        "post_id": 2919477,
+        "title": "",
+        "text": "&gt;&gt;2917902Jesus christ. The MIG gun on these things is barely enough to handle the base machine let alone anything else. It&#039;s like a toy gun."
+      },
+      {
+        "post_id": 2919478,
+        "title": "",
+        "text": "&gt;&gt;2904474I&#039;ve got 3 of that exact machine in my shop right now because the operators fucked the threads on the front gas outlet. One has a broken plastic panel since they reefed on it so hard. &gt;find part numbers on the manufacturers parts manual&gt;ask the company that imports these things for price/avail. &gt;&quot;sorry we dont&#039; have that part number in our system&quot; &gt;...so can you LOAD it into your system so I can fix these fucking things? &gt;&quot;16-18 weeks ETA&quot; &gt;customer gets angry at me for taking so long to fix his machinesIt&#039;s been more than 6 months now, still no parts."
+      },
+      {
+        "post_id": 2919496,
+        "title": "",
+        "text": "&gt;&gt;2919476Yes it&#039;s gasless &quot;synergic&quot;, whatever that means.Also, why not a chance for aly, though, if it&#039;s ok for steel?Anyway, no idea what this guy&#039;s saying, but here it is in action:https://m.youtube.com/watch?v=ckN5UFedQho&amp;pp=0gcJCdgAo7VqN5tDThis guy here&#039;s testing an older version (A1; no idea what changed) on steel bike frame parts, without much experience wuth provided.9mm wure. Dropouts (5mm) held strong at 3mm setting (max); end to end tubing (1.5 mm) also held. Commenters were saying pores were due to low amp.https://m.youtube.com/watch?v=2YmSXbmSrXYBtw, is it true that thick material should be welded with negative electrode, and thin with positive electrode? Just read about that."
+      },
+      {
+        "post_id": 2919497,
+        "title": "",
+        "text": "&gt;&gt;2919496https://m.youtube.com/watch?v=LariCNWmY1w"
+      },
+      {
+        "post_id": 2919520,
+        "title": "",
+        "text": "&gt;&gt;2919496&gt;Yes it&#039;s gasless &quot;synergic&quot;, whatever that means.Synergic means that both wire speed and output voltage are adjusted together with a single knob. Traditionally on MIG there is separate knobs for voltage and wire speed. &gt;Also, why not a chance for aly, though, if it&#039;s ok for steel?Because aluminium needs shielding gas, it is absolutely required, not optional. 100% argon is necessary. Secondly that machine will only come with knurled (teeth) feed rollers for the gasless wire, aly wire requires a U groove roller with no teeth. Thirdly, aly wire needs a teflon/plastic liner in the torch lead plus a brass or other neck liner in the torch neck. Fourthly, that machine has no way of changing the electrode polarity. That is because it is only designed to use gasless wire on steel, which is always negative electrode. Alu MIG welding needs positive electrode. And a LOT more than 120 amps."
+      },
+      {
+        "post_id": 2919522,
+        "title": "",
+        "text": "&gt;&gt;2919520Should clarify, gasless wire is always negative electrode polarity. Gas shielded is always positive polarity."
+      },
+      {
+        "post_id": 2919603,
+        "title": "",
+        "text": "&gt;&gt;2919522Thx a lot"
+      },
+      {
+        "post_id": 2919618,
+        "title": "",
+        "text": "This is really more a fab question than welding but my gf wants me to make a pizza steel. The easiest answer is to us some mild steel plate (even some BMS replacing the pickling stuff in with cooking oil seasoning) but It doesn&#039;t seem very food safe and I&#039;d rather not have my pepperoni pizza flavoured with carcinoma"
+      },
+      {
+        "post_id": 2919647,
+        "title": "",
+        "text": "&gt;&gt;2919618Its not hard to find food grade steels. Hell you can probably just google what steel established pizza steel brands use and just call scrap yards if they have some of that."
+      },
+      {
+        "post_id": 2919654,
+        "title": "",
+        "text": "&gt;&gt;2919647&gt;food grade steellollmfao even food grade is way more about plant sanitation than anything else. i worked for a large company that built industrial processing equipment that i guarantee youve eaten shit thats been through one of their lines. wed do retrofits and installs for the biggest food processors and theyd often supply materials. they would buy the cheapest chinkshit pipe they could get. 6&quot; would be 3/8 out of round and have twice the millscale of good stuff. the welders would burn it onto existing system stubs with 6010 red rod and have big slag holes from the shitty steel. the plant managers were completely dilligaf just make it not leak too bad we need to be running again in 48 hours. these were hot oil systems that ran 3500 gal/min and nothing in the connection piping was stainless. it was fucking nasty at startup but would clear up after a couple caustic flushes&gt;&gt;2919618as long as you dont get an old piece of porous cast iron soaked in pcb transformer oil itll be fine"
+      },
+      {
+        "post_id": 2919675,
+        "title": "",
+        "text": "&gt;&gt;2910643&gt;Problem is, these things are FUCKING EXPENSIVE.The one in the pic looks like a steal. But it&#039;s also not a UHF vacuum vessel. Those use knife-edge flanges that bite into single-use copper gaskets.&gt;How can I build up my skills to weld one of these things myself?It&#039;s not just skills. You&#039;ll need a decent TIG welder, a separate purge setup, assorted cutting/grinding tools, maybe some inspection/testing stuff. Ten thousand hours producing code pressure vessels would also help. But absent that, you can look up the relevant weld procedures and fitups for something like that, and practice until you can reliably make defect-free welds.You making a fusor or something?"
+      },
+      {
+        "post_id": 2919676,
+        "title": "",
+        "text": "&gt;&gt;2915260Normally it would just cut the arc. But if the break is small, the arc can sustain itself through air, making a lovely green electric flame."
+      },
+      {
+        "post_id": 2919678,
+        "title": "",
+        "text": "&gt;&gt;2919618Resurface the steel with a flap disk, then season it like cast iron."
+      },
+      {
+        "post_id": 2919692,
+        "title": "",
+        "text": "Any recommendations for a home welder? I need to practice for the D1.1 and I got banned from the welding lab at college."
+      },
+      {
+        "post_id": 2919702,
+        "title": "",
+        "text": "&gt;&gt;2919654reminds me of a guy I was in a welding class with who was a millwright at a potato processing plant (very knowledgeable about potato varieties and PLCs). He told me that when the &quot;forklift certified&quot; line workers would load a hopper they&#039;d wallop the mounting and make the entire thing shudder. Every time a new crack would appear they&#039;d just run a single pass over the top with a stick welder, wait for it to reopen then do the same again."
+      },
+      {
+        "post_id": 2919712,
+        "title": "",
+        "text": "&gt;&gt;2919692Which process?"
+      },
+      {
+        "post_id": 2919713,
+        "title": "",
+        "text": "&gt;&gt;2919712stick, i&#039;m going for 3/8ths plate since I don&#039;t have experience doing the 1 inch one yet."
+      },
+      {
+        "post_id": 2919716,
+        "title": "",
+        "text": "&gt;&gt;2919713Would not be much fun with a 120v machine"
+      },
+      {
+        "post_id": 2919717,
+        "title": "",
+        "text": "&gt;&gt;2919716can 120v get enough amerage for 3/8ths? I was running 120 amps in the shop."
+      },
+      {
+        "post_id": 2919725,
+        "title": "",
+        "text": "&gt;&gt;2919702&gt;potato processing plantbingo. i was on the engr side and would go out to measure for builds. 1st thing id do coming out of a plant was strip buck naked in the parking lot and put fresh clothes on. even wearing tyvek coveralls youd get that grease down in your cracks crawling around under shit. the hottest shower wouldnt take it off. when i went out on the first one the other guys told me to go get junk store clothes before so i could just throw them out at the end of the day. i didnt eat french fry for the better part of a year and just the smell was enough to kill my appetite after&gt;&gt;2919692&gt;I got banned from the welding lab at collegewhatd ya do?&gt;&gt;2919717&gt;can 120v get enough amerage for 3/8ths?no. 85a is the top on a 15a breaker and itll pop if you long arc"
+      },
+      {
+        "post_id": 2919756,
+        "title": "",
+        "text": "&gt;&gt;2919725Apparently you&#039;re not allowed to take the welding lab twice in one semester without special permission, and I dind&#039;t know this. It&#039;s fine, there was only one more class left."
+      },
+      {
+        "post_id": 2919891,
+        "title": "",
+        "text": "&gt;&gt;2919713Buy a used DC Lincoln, Miller or Hobart 240v plugin.&gt;3/8ths plateGo for 1&quot;. It&#039;s the same test, just more passes."
+      },
+      {
+        "post_id": 2919895,
+        "title": "",
+        "text": "&gt;&gt;2919451What&#039;s the duty cycle? I&#039;ll bet it&#039;s something like 10%. You&#039;ll weld 3&quot; then have to wait 15 minutes for the machine to cool down before welding the next 3&quot;"
+      },
+      {
+        "post_id": 2919901,
+        "title": "",
+        "text": "&gt;&gt;2919895It says literally nothing about it in the manual (which, from a legal pov, means you couldn&#039;t be liable for misuse). It does have a thermostat, though:https://www.manualslib.com/manual/3532846/Parkside-Pifds-120-B2.html"
+      },
+      {
+        "post_id": 2919906,
+        "title": "",
+        "text": "&gt;&gt;2919901&gt;thermostatIt looks like a POS. You&#039;d just frustrate yourself with it.I bought a cheap Harbor Freight stick welder years ago that came with the same &quot;accessories&quot;. I junked it for scrap metal."
+      },
+      {
+        "post_id": 2919909,
+        "title": "",
+        "text": "&gt;&gt;2919906I&#039;m not going to buy it, but pretty much everyone here &gt;&gt;2919497 only has praise for it (for what it&#039;s worth for); I might&#039;ve if it did alu as well."
+      },
+      {
+        "post_id": 2919942,
+        "title": "",
+        "text": "&gt;&gt;2919465Probably up to 12ga steel and you&#039;d be able to break the welds with a hammer pretty easily."
+      },
+      {
+        "post_id": 2919945,
+        "title": "",
+        "text": "&gt;&gt;2919942Like i mentioned here &gt;&gt;2919520, this guy (https://m.youtube.com/watch?v=2YmSXbmSrXY), who&#039;s not particularly experienced, welded some steel bike parts, including a 5mm thick dropout and 1.5mm thick tubing, end-to-end, and they held strong, once he ajusted setting."
+      },
+      {
+        "post_id": 2920160,
+        "title": "",
+        "text": "&gt;&gt;2894379Bought a second hand welder, doubt it has gas but I just want to see if it works without spending much.Wise to give it a test run dry on some scrap?"
+      },
+      {
+        "post_id": 2920189,
+        "title": "",
+        "text": "&gt;&gt;2920160It should arc without shielding gas."
+      },
+      {
+        "post_id": 2920196,
+        "title": "",
+        "text": "somewhat related to metal, how do you gild aluminum using electroplating? I tried gilding my aluminum project (a circlet) using gold leaf but it looks like shit and my first experimental prototype was using the gold paint."
+      },
+      {
+        "post_id": 2920239,
+        "title": "",
+        "text": "&gt;&gt;2920196I would imagine electroplating aluminium would fail due to aluminium oxide being a very good electrical insulator. You would need to chemically remove the oxide layer before plating then not allow any further oxide to form during the plating, if that&#039;s even possible. Probably better to look at anodizing to a yellow/gold colour as this process utilizes the oxide layer."
+      },
+      {
+        "post_id": 2920360,
+        "title": "",
+        "text": "&gt;&gt;2920239Yellow anodizing looks very little like gold. Plating gold onto aluminum can be done, but it&#039;s done with intermediate layers. I&#039;ve seen copper on aluminum, then nickel on the copper, then gold on the nickel. Part of this is probably due to the increasing reactivity of plating solutions needed to work with decreasingly reactive metals. E.g. you can use aqua regia as a gold plating solution, and it will not only clean the aluminum oxide off by itself, it will eat the aluminum too."
+      },
+      {
+        "post_id": 2920365,
+        "title": "",
+        "text": "&gt;&gt;2920196i think the most practical way is to electroless nickel then plate on that substrate"
+      },
+      {
+        "post_id": 2920765,
+        "title": "",
+        "text": "My old Century AC/DC stick welder shit the bed on me the other day. Opened it up and couldn&#039;t see anything obviously wrong. Thinking one of the transformers straight up shorted out as it goes straight to humming/rattling like you are welding as soon as you start the machine and starts to get warm after a bit. Took the decent leads off, threw some old shitty leads on it, cut the cord short and put a different 220v plug than I use and had on hand. Going to take it to a local auction and unload it as a parts welder. Thinking about replacing it with the Vulcan Omnipro 220 from HF. Having a backup mig machine in the other room would be handy at times. I have several extra co2 tanks kicking around and am thinking I will make my own welding cart from a 2 drawer file cabinet and casters. Keep some welder accessories in the bottom drawer, grinder and consumables and some clamps in the top drawer..."
+      },
+      {
+        "post_id": 2920863,
+        "title": "",
+        "text": "&gt;&gt;2894379I want to learn some welding to supplement an automotive(car/truck) repairs careertech school near here offers about 7~8 different welding classes, but i&#039;m not sure which types(mig,tig,etc,etc) i should focus on for this.Any insight/tips are appreciated"
+      },
+      {
+        "post_id": 2920898,
+        "title": "",
+        "text": "&gt;&gt;2920863MIG for auto. That&#039;s regular MIG with gas, not flux core. Short-circuit transfer, not spray. This is suited to the thin steel encountered in auto work. TIG can be good if you want to do stainless exhaust pipes and such, but it&#039;s generally not necessary for auto work, and the larger heat input than MIG for a given weld increases distortion."
+      },
+      {
+        "post_id": 2920981,
+        "title": "",
+        "text": "&gt;&gt;2920863This &gt;&gt;2920898 for general auto work. TIG is useful for repair of smaller, more precise parts (planetary gears) and build up prior to machining (cylinder scores, heads). If you&#039;re going to be breaking down transmissions or rebuilding engines, then TIG is the preferred process."
+      },
+      {
+        "post_id": 2920986,
+        "title": "",
+        "text": "&gt;&gt;2920765The transformer is unlikely to fail (though not impossible) If it&#039;s got the option of DC output I&#039;d be more suspect of the output diodes."
+      },
+      {
+        "post_id": 2921027,
+        "title": "",
+        "text": "&gt;&gt;2920981&gt;&gt;2920898much thanks"
+      },
+      {
+        "post_id": 2921034,
+        "title": "",
+        "text": "&gt;&gt;2920986&gt;If it&#039;s got the option of DC output I&#039;d be more suspect of the output diodes.It is an ac/dc unit so yes it does. If I get a chance and feel like fucking with it I might tear it apart and look. I&#039;m guessing a person could check them with a multimeter without taking them out? I did already get the Vulcan Omnipro 220 and started on the welding cart last night..."
+      },
+      {
+        "post_id": 2921157,
+        "title": "",
+        "text": "&gt;&gt;2920863if they&#039;re offering classes you&#039;ll get most mileage out of a tig class. since it&#039;s the hardest process to get good at, but easiest to start. you&#039;ll learn the basics of welding and a good core fundamentals(puddle, weld size, heat, etc). Stick welding is the best process to learn welding with, but you won&#039;t use it much for auto except emergency repairs or outdoor building shit like trailers etc. Mig welding is much simpler after learning stick or tig welding, but not the other way.most body guys all use mig, since it&#039;s fastest for tack and spot welding and you can do it without a hood on fixing a panel in. also easier to use a whip one handed than trying to get a torch and filler in some places. most auto guys don&#039;t care what welds look like since they grind it all down, or just want it done quick(mig is quickest process).exhaust work, aluminum and fancy shit is all tig. though both are perfectly doable with mig.both processes require more expensive welders(though much cheaper nowadays) and shielding gas.Depending on cost of the class, I&#039;d just say buy&gt;a decent 180amp+ DC tig welder($400)&gt;bottle of argon($400)+regulator($30)+hose($15) &gt;1/16th S6 Filler Wire ($20)&gt;gloves($20)[leather], welding helmet($50-100)[tefawue], jacket or heavy cotton long sleeve shirt($40)&gt;4 1/2&quot; angle grinder($75) [bosch]&gt;scrap steel or whatever&gt;hours watching youtubeIf you have access to 220v you&#039;ll have a better time. Else you can still practice on thin 1/8th steel. And a tig welder will let you stick weld as well, learning more. Tig welding doesn&#039;t (usually) produce any sparks or smoke, so don&#039;t need a huge dedicated area to do it."
+      },
+      {
+        "post_id": 2921177,
+        "title": "",
+        "text": "&gt;&gt;2921034Sometimes you can just measure the output sockets in diode test mode, without opening the machine. If it&#039;s bad you&#039;ll get something like 0.00v on the DMM. Post pics of cart"
+      },
+      {
+        "post_id": 2921469,
+        "title": "",
+        "text": "&gt;&gt;2921177&gt;Post pics of cartDidn&#039;t have time to work on it anymore since that first evening. This is how it sits as of now. Bottom frame is fully welded up, caster plates are just tacked in place as of right now. Rolls really nice and sits flat on the floor with no rocking, so I&#039;m just doing the hugest of things... Will get a front handle, some way of securing the bottle on the back, some side hangers for coiling the leads and cord on, and the welder bolted to the top. After it&#039;s done I&#039;ll remove the casters and spray bomb it any color other than the original filing cabinet beige. Kek."
+      },
+      {
+        "post_id": 2922091,
+        "title": "",
+        "text": "&gt;&gt;2919675chamber for CVD and plasma deposition/etching"
+      },
+      {
+        "post_id": 2922270,
+        "title": "",
+        "text": "&gt;&gt;2921469That&#039;s bad ass, bruh."
+      },
+      {
+        "post_id": 2922326,
+        "title": "",
+        "text": "&gt;&gt;2922091&gt;chamber for CVD and plasma deposition/etchingThese do not require a UHF vacuum. Some processes can be done at atmospheric pressure. A UHF vacuum is for things where individual stray atoms are significant for what you&#039;re doing. So good news, that&#039;s a lot more DIY-able."
+      },
+      {
+        "post_id": 2922327,
+        "title": "",
+        "text": "&gt;&gt;2922091&gt;That&#039;s bad ass, bruh.Thanks man. Still haven&#039;t gotten any more done on the welding cart. Been using the welder a bit though. Made a seat mount for my newly acquired Ford 1700 tractor, and fixed the broken throttle pedal assembly. Also used it to patch up $720 worth of floor panels for my rotary swather header. Not that I couldn&#039;t have done that with my other welder, but I&#039;m putting this one through it&#039;s paces since I didn&#039;t buy the extended 2 year warranty for $300. (Hell that is practically 1/3 the cost of the entire welder!) I did manage to fuck up my ground cable by having one of those floor plates fall off my bench and chop it right in half. Oh well, I had some 50&#039; 1/0 leads laying around and cut one into a 20&#039; ground and 30&#039; stinger for it. Much beefier and way better than the 10&#039; leads it came with. Still haven&#039;t even tried the SMAW on it, only the MIG. It is definitely nice to just dial in your material thickness and it puts a recommended wire speed and voltage up. I&#039;ve been just running their recommended settings and they seem pretty damn good to me. I will definitely be upgrading the mig gun to a 15&#039; as the 10&#039; is just too damn short compared to my miller with the 15&#039;"
+      },
+      {
+        "post_id": 2922328,
+        "title": "",
+        "text": "anyone have a good hookup for getting p100 filters for the miller respirator in bulk?"
+      },
+      {
+        "post_id": 2922340,
+        "title": "",
+        "text": "&gt;&gt;2922328Have you checked an industrial supplier like Fastenal or McMaster-Carr?"
+      },
+      {
+        "post_id": 2922416,
+        "title": "",
+        "text": "Any pastabros can help out with this here welder? Got it for like 300 bucks but looks like after lincoln electric bought saf-fro they just deleted the site and any documentation about this model.Seems to have a foot pedal slot but I can&#039;t for the life of me find one with the right 5 pin connector.Any manual or documentation about it would greatly help, previous guy using it didn&#039;t seem to connect the ground on the 3 phase socket either and idk if it needs it or not."
+      },
+      {
+        "post_id": 2922562,
+        "title": "",
+        "text": "I&#039;m getting into cooking yakitori, I have a cheap, flimsy grill that barely handles the heat of hot coals and is buckled and fucked already. I want to make a yakitori grill out of some thicker mild steel that will actually handle heat, I can get scrap structural steel from work so I&#039;m not looking at using stainless or anything flash.I usually use cold galv for rust protection, but I need to keep this shit food safe when heated, what is the best way to treat mild steel like this? I can&#039;t find shit online, anything I find about making a BBQ is just talking about hot plates and stuff like that. Is it viable to just try and heat treat the whole grill with some sort of oil or do I need to use heat resistant paint or something, or is that shit gonna fuck up my food? Is this even possible with shite steel? I&#039;d appreciate if anyone knows about this.No BBQ pic today, file too large."
+      },
+      {
+        "post_id": 2922566,
+        "title": "",
+        "text": "&gt;&gt;2922562Don&#039;t paint it, don&#039;t use galv, don&#039;t do anything. You can eat off clean mild steel with no concerns. Clean it after use and a light coating of cooking oil to stop it rusting in between uses. &gt;&gt;2922416Post pics of the 5 pin socket, the one that has the plastic cap over it. You probably won&#039;t find a brand new pedal that will plug straight in. But it might be possilbe to retrofit a different pedal with the correct plug, which you would need to source from somewhere like RS components or Mouser. Then you would need to figure out the pin-out of that socket, this is more difficult. If it&#039;s 5 pin there is a hope that 2 of the pins are for the trigger, other 3 for the potentiometer/rheostat. Otherwise the trigger wires from the pedal will need to break out of the main cord and plug into those two banana sockets for the torch trigger. &gt;previous guy using it didn&#039;t seem to connect the ground on the 3 phase socket either and idk if it needs it or notIt definitely needs it, that guy is a moron. If he disconnected it because the machine tripped the earth leakage breaker with it connected, he&#039;s an even bigger moron and the machine is faulty."
+      },
+      {
+        "post_id": 2922570,
+        "title": "",
+        "text": "&gt;&gt;2922566Here&#039;s the socket"
+      },
+      {
+        "post_id": 2922571,
+        "title": "",
+        "text": "&gt;&gt;2922566And specs"
+      },
+      {
+        "post_id": 2922576,
+        "title": "",
+        "text": "&gt;&gt;2922570Jesus christ, they couldn&#039;t have made it much more difficult, could they? Took me a while but I found the part number of the cable connector you need for that, JMSP1305M-DPossible suppliers are severely fucky and limited, maybe this one is viable &gt;https://us.misumi-ec.com/vona2/detail/222000500427/?HissuCode=JMSP1305M-DPinout for that, fuck knows. I believe Lincoln sold a machine here in Ausfail made by that same manufacturer, the trigger was on pins 1 and 2. You could try poking a piece of MIG wire folded over into 1 and 2 on that socket, see if it triggers the HF. The other 3 for amp control I don&#039;t know, that would take trial and error. The value might be 1k ohms, 5k ohms, 10k ohms, something like that. Making pin 4 the wiper of the potentiometer would be logical but that thing is Italian so it&#039;s anybodies guess."
+      },
+      {
+        "post_id": 2922577,
+        "title": "",
+        "text": "&gt;&gt;2922576Thanks for the helpFound this site selling the connector,https://m.yoycart.com/Product/5610981039/whether it will actually arrive here remains to be seen.Will open up the welder later after I get home to see what&#039;s up inside, maybe I can get more info on it."
+      },
+      {
+        "post_id": 2922584,
+        "title": "",
+        "text": "&gt;&gt;2922577The one in that link won&#039;t work, notice how the panel mounted socket has the male pins in the photos. You need the male pins in the cable mounted connector. Post pics of where the wiring goes behind that control socket, inside the machine. If it&#039;s the same as the machine I&#039;m thinking of, the pinout should be the same."
+      },
+      {
+        "post_id": 2922586,
+        "title": "",
+        "text": "&gt;&gt;2922584It goes straight into a pcb, seems like a pain in the ass to get to it"
+      },
+      {
+        "post_id": 2922587,
+        "title": "",
+        "text": "&gt;&gt;2922584Side photo"
+      },
+      {
+        "post_id": 2922589,
+        "title": "",
+        "text": "&gt;&gt;2922584Plug entrance"
+      },
+      {
+        "post_id": 2922593,
+        "title": "",
+        "text": "&gt;&gt;2922586So this is the back of the control socket? It&#039;s soldered directly to the PCB? You&#039;re really stuck using that then, can&#039;t change it. It&#039;s completely different to how I was thinking, haven&#039;t seen one like that before. If you can get the right plug to plug into it, getting a generic pedal to work is just trial and error. &gt;&gt;2922589This is the mains input lead, isn&#039;t it? The green/yellow &quot;earth&quot; wire goes to the chassis, this is correct. It is for safety in case one of the 400v lines touches the chassis during a fault condition. The protective circuit breaker would trip. If the earth wire isn&#039;t connected inside the 3 phase plug, you would get electrocuted if you touched the machine chassis during the fault condition."
+      },
+      {
+        "post_id": 2922596,
+        "title": "",
+        "text": "&gt;&gt;2922593I went by the guy&#039;s words who got it from a welder, seems like the neutral is not connected, ground&#039;s fine, gonna have to change the plug from 32A to 16A because my home doesn&#039;t have socket for 32A and cba rewiring the damn house. Not like I need welds that thick anyway."
+      },
+      {
+        "post_id": 2922598,
+        "title": "",
+        "text": "&gt;&gt;2922593Forgot the damn picture"
+      },
+      {
+        "post_id": 2922605,
+        "title": "",
+        "text": "&gt;&gt;2922596&gt;&gt;2922598That plugs wired up fine, the machine doesn&#039;t need the neutral connection. Also here&gt;&gt;2922571Says the maxiumum current it will pull is 14A. 16A plug is fine."
+      },
+      {
+        "post_id": 2922667,
+        "title": "",
+        "text": "finally decided to give welding a chance so I could have a proper job in the future even if it turns out to be temporary. I had talks with a instructor in the local trade school and training in a month. key points are that it&#039;s gonna last about 8 hours a day for 30 working days (month and a half) and it&#039;s prolly gonna be TIG first, and a diploma at the end. however TIG is mostly on terrain and I lack a driving license, so I might switch to MIG/MAG from the getgo so that I could be stationed somewhere and simultaneously earn money and study for the license. after that I will be a lot more flexible with job opportunities, escaping my shithole country, etc. so tell me, o ye weldful, does 30 days (30*50 jewros per day) and TIG as a start sound like bullshit to you? of course I could dip out after first day or week so it&#039;s not gonna be a financial tragedy or whatever for me, but your opinions are still more than wanted. furthermore what could I do to learn more about welding with zero equipment and experience outside of jewtube tutorials? what do tutorials lack in general? perhaps some exercise for enduring certain positions? I&#039;m fit and do some basic lifting and posture exercise so I&#039;m certainly not gonna crawl my way home after the first day. that being said I always loved tinkering with stuff and basic electronics so welding should be alright for a job, if not then Imma look for doing chips or something."
+      },
+      {
+        "post_id": 2922669,
+        "title": "",
+        "text": "&gt;&gt;2922667also, I forgot to mention that starting paycheck in my shithole is 1200 jewros which means that a month and a half of labor would recuperate for money loss if I decide to quit"
+      },
+      {
+        "post_id": 2922701,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 2922702,
+        "title": "",
+        "text": "&gt;&gt;2922701didn&#039;t leak, can I get a pressure vessel certification now?"
+      },
+      {
+        "post_id": 2922743,
+        "title": "",
+        "text": "&gt;&gt;2922702&gt;can I get a pressure vessel certification now?No. The weld is visually rejected."
+      },
+      {
+        "post_id": 2922744,
+        "title": "",
+        "text": "&gt;&gt;2922667&gt;I lack a driving license,You&#039;ll get stuck with some shitty job in the place you live."
+      },
+      {
+        "post_id": 2922750,
+        "title": "",
+        "text": "&gt;&gt;2922667Starting out on TIG with no prior experience in any of the others sounds fucky to me."
+      },
+      {
+        "post_id": 2922758,
+        "title": "",
+        "text": "&gt;&gt;2922744fug&gt;&gt;2922750yeah the instructor did note that it&#039;s the hardest and most &quot;delicate&quot; one which baffles me as to why would he pick that one. might wanna throw me into fire to see if I&#039;m up to it or just get rid of me a la &quot;we don&#039;t know you, so you don&#039;t belong here, but Imma give you a chance&quot;."
+      },
+      {
+        "post_id": 2922798,
+        "title": "",
+        "text": "&gt;&gt;2922667If you want to make money welding, short of starting your own business, you&#039;ll have to travel to remote places, work ridiculous hours, pass welding tests and not fuck up."
+      },
+      {
+        "post_id": 2922934,
+        "title": "",
+        "text": "Has anyone here made or retubed axles before?I took 3 pieces of 8in to make a straight jig to center everything but I think I need new wheels before I weld it because one is bent a bit and shakes when I rotate it. I basically took the old axle and cut each end off leaving about 8in and found some tube that goes over it. It&#039;s not a press fit but it&#039;s decently close.I&#039;m not sure if I should drill 3-4 holes in the larger tube to plug weld the end of the stubs to it to prevent it from stressing the main weld or is it just not needed?Kinda concerned a bit since it&#039;s axles and I don&#039;t want them to break when I&#039;m towing it"
+      },
+      {
+        "post_id": 2922956,
+        "title": "",
+        "text": "&gt;&gt;2922934&gt;I&#039;m not sure if I should drill 3-4 holes in the larger tube to plug weld the end of the stubs to it to prevent it from stressing the main weld or is it just not needed?I would. Not that hard to do and will make it stronger. Go ahead and find some good straight wheels and see if that smooths things out. You&#039;re probably going to need them to put tires on them for your axle anyways right? Then get it as close as you can and spot it and re-check it. Tap it around a bit if it needs it to get it straight again and then tack another spot. Keep doing this until you have 3 or 4 good tacks and it&#039;s running true, then I&#039;d do your plug welds and finish by fully welding the end of the tube. &gt;Kinda concerned a bit since it&#039;s axles and I don&#039;t want them to break when I&#039;m towing itYou&#039;ll be fine. I guarantee there is some shit running down the road that would blow your mind."
+      },
+      {
+        "post_id": 2922962,
+        "title": "",
+        "text": "&gt;gave myself a big burn blister because I waited too long to change my gloves againI&#039;m incapable of learning"
+      },
+      {
+        "post_id": 2922970,
+        "title": "",
+        "text": "&gt;&gt;2922956huh, good call on tacking then plug welding, that should really lock it in place so I can take it off the wheels,clean off the tacks, and go full send on a table"
+      },
+      {
+        "post_id": 2923062,
+        "title": "",
+        "text": "&gt;&gt;2922702stringers, mot weaves"
+      },
+      {
+        "post_id": 2924151,
+        "title": "",
+        "text": "Which entry level tig welder should I get if I want to do a bit of everything? Steel, stainless, aluminum, titanium, etc. for exhausts, intakes, furniture, tubing, steel plates, etc."
+      },
+      {
+        "post_id": 2924160,
+        "title": "",
+        "text": "&gt;&gt;2924151primeweld 225. 325 if you want to do aluminum thicker than 1/4&quot;"
+      },
+      {
+        "post_id": 2924263,
+        "title": "",
+        "text": "Just fluxcore welded a stainless steel bolt onto a piece of plain steel in my garage. Had no clue stainless gives off chromium during welding. Scale of 1 to 10 how fucked am I? Probably less then 30 seconds of actual arc time on the bolt, but the environment wasn&#039;t well ventilated."
+      },
+      {
+        "post_id": 2924289,
+        "title": "",
+        "text": "&gt;&gt;29242630"
+      },
+      {
+        "post_id": 2924323,
+        "title": "",
+        "text": "&gt;&gt;2924263-6.8"
+      },
+      {
+        "post_id": 2924332,
+        "title": "",
+        "text": "&gt;&gt;2924263You&#039;re fine. It&#039;s entirely a long term exposure thing. Work in chromium dust or fume environments without proper PPE regularly and you&#039;ll notice things like heavy sneezing and random nose bleeds because the chrome is eating away on the inside of your airways."
+      },
+      {
+        "post_id": 2924454,
+        "title": "",
+        "text": "every metal started as molten liquid. then why do we differentiate every metal as billet, mild and cast. when the moment you melt them into a pot and pour it out, its by definition a cast metal."
+      },
+      {
+        "post_id": 2924496,
+        "title": "",
+        "text": "&gt;&gt;2924454Because how it was worked and formed after the initial melt is what gives it the different properties and crystal structure of each."
+      },
+      {
+        "post_id": 2924534,
+        "title": "",
+        "text": "&gt;&gt;2894379I am thinking about getting a welder for general diy/repair and being able to make things for my truck/mower/atv like brackets or maybe even a bumper. I need to get a machine but don&#039;t know where to start really. After some research, I think my best bet would be a 110v tig welder. I&#039;ve heard mixed reviews about 110v machines, but i dont have any 220v plugs. I don&#039;t really want run new wire to start welding, but I don&#039;t want to waste money on tools that won&#039;t preform either. It would be much appreciated if anyone could recommend a machine or setupPic kinda related, gonna start a mud mower project this summer"
+      },
+      {
+        "post_id": 2924601,
+        "title": "",
+        "text": "&gt;&gt;2924534I would recommend a 110v and 220v multi process welder like the Vulcan Omnipro 220 or harbor freight&#039;s cheaper Titanium unlimited 200 or one of the many other brands of 110/220v multi process welders. This way you are not completely limited to 110v or purely running tig. If I had to choose only one single welding process it would probably be stick for its versatility and then mig for its ease of use. Finally followed up by tig."
+      },
+      {
+        "post_id": 2924658,
+        "title": "",
+        "text": "&gt;&gt;2924601Thanks for the insight, that&#039;s pretty much what I have been reading, but that&#039;s a simpler explanation for my retard brain. I like the idea of the multi process units, but i also question how much I will use the different processes. If I use the mig, it would probably be flux core so I don&#039;t have to fool with gas. Can I just get a stick welder and be covered in most areas? When would you really want to be using something other than stick welding? I see alot of people pushing the cheap harbor freight flux core welder, and it looks good for getting my feet wet. However, if stick can do everything a flux core welder could and more, then it would be a better investment for me"
+      },
+      {
+        "post_id": 2924718,
+        "title": "",
+        "text": "&gt;&gt;2924658&gt;Can I just get a stick welder and be covered in most areas?Stick is very versatile and can weld damn near anything. Thin materials is where you will struggle with it because it will want to burn through. If you have small diameter rods and can turn your heat way down you should be able to get through it though. 6010 or 6011 for thicker dirtier materials. 6013 and 7018 on cleaner stuff or as capping welds. &gt;&gt;2924658&gt;When would you really want to be using something other than stick welding?Mainly for thin stuff. If you plan on doing a lot of thinner material then a flux core mig would also be a good choice. Or mig with shielding gas would be even better. Once again, a multi-process machine would have all that covered in case you want to upgrade to shielding gas. Tig would have to have shielding gas."
+      },
+      {
+        "post_id": 2924789,
+        "title": "",
+        "text": "&gt;&gt;2924718Thanks man, I might try and snag a second hand stick welder and work with that until I want something more. I don&#039;t plan on working with anything thin, but I&#039;m sure the opportunity will present itself eventually. By that time I should have a better idea of my needs and won&#039;t be bugging yall with retarded questions"
+      },
+      {
+        "post_id": 2925408,
+        "title": "",
+        "text": "&gt;&gt;2919891Got my hands on a Lincoln ac 225, which thankfully has a DC setting, any reccomendations on a generator to power it?"
+      },
+      {
+        "post_id": 2925411,
+        "title": "",
+        "text": "&gt;&gt;2925408&gt;any reccomendations on a generator to power ita pretty big one"
+      },
+      {
+        "post_id": 2925466,
+        "title": "",
+        "text": "&gt;&gt;2925411Will a 9000 watt generator suffice or shulould I jist bite the bullet and get the 10k watt if I can afford it?"
+      },
+      {
+        "post_id": 2925484,
+        "title": "",
+        "text": "&gt;&gt;2925466transformer welders are terrible on generators. the inrush current is insane when you strike the arc because theres no capacitors to bridge the load. except to be disappointed"
+      },
+      {
+        "post_id": 2925503,
+        "title": "",
+        "text": "&gt;&gt;2925484On the plus side electrically they are a giant sponge that can soak up any spikes or irregularities that come from generator power without your even noticing. Inverters don&#039;t like voltage spikes and irregularities. &gt;&gt;2925408&gt;&gt;2925466Considering that thing pulls 50A or more from whatever its plugged into, at 230v that&#039;s 11,500 watts. You would need a safety margin above that from the generator, IF you want to use the highest settings on that machine."
+      },
+      {
+        "post_id": 2925510,
+        "title": "",
+        "text": "&gt;&gt;2925484Most I&#039;ve used is 120 amps with 7018 on steel plate. That&#039;s what I&#039;ve been using in the class shop. Is it better to have more amps for 1 inch plate compared to 3/8ths?"
+      },
+      {
+        "post_id": 2925544,
+        "title": "",
+        "text": "&gt;&gt;2925466if only the manufacturer could be consultedhttps://web.archive.org/web/20210725221748/https://www.lincolnelectric.com/en-za/support/welding-how-to/Pages/generator-size-detail.aspxcaptcha:J ASS 2"
+      },
+      {
+        "post_id": 2925545,
+        "title": "",
+        "text": "&gt;&gt;2925544Thanks"
+      },
+      {
+        "post_id": 2925766,
+        "title": "",
+        "text": "Any of you guys do welding as a side gig? I&#039;ve been stuck without overtime at my main job and I maybe actually get to weld once a week. Looking for a way to make a bit more money and get some more practice but I don&#039;t know how to find work other than to post on craiglist offering my services."
+      },
+      {
+        "post_id": 2926095,
+        "title": "",
+        "text": "&gt;&gt;2922584Plug from China arrived, it fits nicely, now all I need is to find a pedal"
+      },
+      {
+        "post_id": 2928201,
+        "title": "",
+        "text": "Okay, I am thinking about buying this as my first machine. I posted earlier in the thread and anon said to get a 110/220 multiprocess unit. I came across this lincoln on market place for $550. Apparently it&#039;s brand new in box, but it retails for over $1000. Seems almost too good to be true. If I go check it out, what should I be looking for? Or should I just get a new machine with a warranty?"
+      },
+      {
+        "post_id": 2928205,
+        "title": "",
+        "text": "&gt;&gt;2928201Make sure you don&#039;t get stabbed by the guy that stole it"
+      },
+      {
+        "post_id": 2928372,
+        "title": "",
+        "text": "&gt;&gt;2928201Make sure &gt;it turns on&gt;still has its torch/MIG gun and feed rollers&gt;pull the trigger, feed motor turns, gas(?) valve clicks, maybe you hear the machine hum"
+      },
+      {
+        "post_id": 2928387,
+        "title": "",
+        "text": "&gt;&gt;2894849No, just take using it seriously and use BOTH hands. Clamp your fucking work because failure to do that ends badly. Wear a face shield, for goggles do not protect the face. I and many welders like the Jackson style.A trick to hold things is drill appropriate holes in scrap angle, bolt them to it and clamp in your bench vise etc to hold them at your angle of choice."
+      },
+      {
+        "post_id": 2929279,
+        "title": "",
+        "text": "I want to set up a weld station in my back yard. Problem is I&#039;m surrounded by drybrush. Are those fiberglass blankets going to be enough to keep from setting everything on fire?"
+      },
+      {
+        "post_id": 2929364,
+        "title": "",
+        "text": "&gt;&gt;2895013maybe put some rod as filler and used the arc to put most of the heat on the extra metal, depends if youre following a code"
+      },
+      {
+        "post_id": 2930050,
+        "title": "",
+        "text": "I&#039;m about to have a few months of free time, and I&#039;m thinking of putting together the KJ Raycing go kart.What would be the best way to bend 1.5&quot; DOM 0.120 steel tubing, up to 155 degrees? I feel like a harbor freight bender wouldn&#039;t quite work for thisMy plan is to tack weld it then have an actual welder finish the job, unless I can get my hands on a MIG setup"
+      },
+      {
+        "post_id": 2930054,
+        "title": "",
+        "text": "&gt;&gt;2930050&gt;What would be the best way to bend 1.5&quot; DOM 0.120 steel tubing, up to 155 degrees?You don&#039;t have a proper tubing bender? I&#039;ve heard of people packing the tube with sand, welding up or capping off the ends somehow, and bending with the HF tube kinker with decent results. Sounds like kinda a pain in the ass to me though."
+      },
+      {
+        "post_id": 2930071,
+        "title": "",
+        "text": "&gt;&gt;2930054&gt;You don&#039;t have a proper tubing bender?I do not. I have standard power tools (grinder, chop saw, etc) and access to a basic stick welder, however no MIG/TIG.I don&#039;t expect to have any use for them after this project so I&#039;d prefer not to purchase, but I suppose I can buy used and sell them after I&#039;m &quot;done&quot; with this project."
+      },
+      {
+        "post_id": 2930116,
+        "title": "",
+        "text": "&gt;&gt;2930050&gt;&gt;2930071Have you considered a design using square tubing? More cuts and welds, but you don&#039;t need a tube bender"
+      },
+      {
+        "post_id": 2930246,
+        "title": "",
+        "text": "&gt;&gt;2922576Shorting pin 1 and 2 made the damn control panel start smoking,Took some measurements on the pins and they look like this:1 -&gt; 2: 12 V1 -&gt; 3: 0 V1 -&gt; 4: 5 V1 -&gt; 5: 5 V2 -&gt; 3: - 12 V2 -&gt; 4: - 7 V2 -&gt; 5: - 7 V3 -&gt; 4: 5 V3 -&gt; 5: 5 V4 -&gt; 5: 0 V I guess I&#039;ve bricked the pedal control board, the torch trigger still works.Bummer, at least it ain&#039;t bricked completely."
+      },
+      {
+        "post_id": 2930250,
+        "title": "",
+        "text": "&gt;&gt;2930246How long did you join them for? it might not be completely over. There&#039;s still no way of knowing or finding out what pin does what function. I defer to my earlier statement&gt;but that thing is Italian so it&#039;s anybodies guess."
+      },
+      {
+        "post_id": 2930252,
+        "title": "",
+        "text": "&gt;&gt;2930250Like 2-3 seconds, I&#039;ll try to disassemble the front panel and check out the damage but I&#039;ll take a while until my lazy ass cleans the bench"
+      },
+      {
+        "post_id": 2930296,
+        "title": "",
+        "text": "&gt;&gt;2930252If you get as far as taking the PCB out completely, take a photo of both sides and I&#039;ll do my best to help reverse engineer it. Been fixing welders and their PCBs since 2015..."
+      },
+      {
+        "post_id": 2930326,
+        "title": "",
+        "text": "&gt;&gt;2930246&gt;&gt;2930252Might also be worth asking /ohm/"
+      },
+      {
+        "post_id": 2930332,
+        "title": "",
+        "text": "I just bought an AC225, and will likely stick with just stick welding. Any recommendations on a cheap bench, or one I can build?"
+      },
+      {
+        "post_id": 2930445,
+        "title": "",
+        "text": "I can weld decent enough. Buddy has an old camper with about a dime size hole in the steel water heater, exterior corrosion. Was going to cut out about a half inch on each side of the hole and put a piece of 1/4&quot; steel over it and weld it. Might heat the patch in the vise and give it a little bend to fit the contour of the tank. Seem like a feasible repair as long as the metal is good outside of the patch area?"
+      },
+      {
+        "post_id": 2930456,
+        "title": "",
+        "text": "Anyone know if this is good enough for one of those basic harbor freight &quot;MIG&quot; welders? Looking to some some 14-18 gauge stuff with flux core stick so I don&#039;t think I&#039;d need a ton of currentIt goes to a 240V split AC but it&#039;s a plug, not hardwired. Can&#039;t tell if this is 20A or 40A"
+      },
+      {
+        "post_id": 2930462,
+        "title": "",
+        "text": "&gt;&gt;2930456yes itll be fine"
+      },
+      {
+        "post_id": 2930489,
+        "title": "",
+        "text": "&gt;be welder on heavy machinery accessories&gt;can be my hermit sperg schizoid self alone with my buckets in my bay&gt;do rather good&gt;they put me on the big multi-person jobsDang it"
+      },
+      {
+        "post_id": 2930500,
+        "title": "",
+        "text": "&gt;&gt;2930456It&#039;s 20 amps. If it was 40 amps that part where the number 20 is printed would say 40."
+      },
+      {
+        "post_id": 2930608,
+        "title": "",
+        "text": "&gt;&gt;2930456Don&#039;t listen to this guy &gt;&gt;2930500 it&#039;s 2x20A so it&#039;s 40A"
+      },
+      {
+        "post_id": 2930621,
+        "title": "",
+        "text": "&gt;&gt;2930608&gt;Don&#039;t listen to this guy &gt;&gt;2930500 it&#039;s 2x20A so it&#039;s 40ABullshit. 20A of 220v is what it is. The amperage doesn&#039;t double, only the voltage."
+      },
+      {
+        "post_id": 2930642,
+        "title": "",
+        "text": "&gt;&gt;2930296Here you go"
+      },
+      {
+        "post_id": 2930643,
+        "title": "",
+        "text": "&gt;&gt;2930296Back side"
+      },
+      {
+        "post_id": 2930645,
+        "title": "",
+        "text": "&gt;&gt;2930296This seems to be the stink"
+      },
+      {
+        "post_id": 2930652,
+        "title": "",
+        "text": "Also I have no idea if these brick colored pieces of cardboard? I think? are crucial for something or not"
+      },
+      {
+        "post_id": 2930749,
+        "title": "",
+        "text": "&gt;&gt;2930652That&#039;s electrical insulating material"
+      },
+      {
+        "post_id": 2930802,
+        "title": "",
+        "text": "&gt;&gt;2930642Gotta start by saying the Italians must have been smoking something when they designed this. I&#039;ve never seen so many ICs on a front panel PCB, that thing must be doing all the control for the entire machine. Why so many logic gates? and EVERY SINGLE IC is socketed?!? Insane, it&#039;s like they expected them to need replacing regularly. It&#039;s a lot more complex than I envisioned, could be more than 2 layer PCB, impossible to decipher through photos. Could only trace one track from that burned resistor over to what looks like a bit of PSU circuitry. If the other end of the resistor goes to pin 1 somehow, it could be that pins 1 and 2 are 2 sides of a voltage divider with the mystery 3rd pin which would be the wiper of the potentiometer for amp control. Pure conjecture on my part. Also it appears 4 of the PCB mounted potentiometers are broken. They should all have shafts poking out. Don&#039;t think there is anything more that can be done, put it back together if you can."
+      },
+      {
+        "post_id": 2930810,
+        "title": "",
+        "text": "&gt;&gt;2930802Oh, the potentiometers were a bitch to pull out so they just came out with the copper plate, I put them back after I managed to get it out of the front panel"
+      },
+      {
+        "post_id": 2930811,
+        "title": "",
+        "text": "&gt;&gt;2930802Any clue what resistance the burnt one had to replace it or should I give it a shot on /ohm/?"
+      },
+      {
+        "post_id": 2930818,
+        "title": "",
+        "text": "&gt;&gt;2930811It&#039;s too crispy to get an accurate read on the colour bands. You might be lucky and have it still readable with a multimeter, but you would have to take it out of circuit before measuring. That means snipping one of the legs gently, it will be extremely fragile if it&#039;s not already in 2 pieces."
+      },
+      {
+        "post_id": 2931447,
+        "title": "",
+        "text": "I have a hobart handler 140 mig, does it make sense to convert it to tig just to try it and fiddle fuck around, or should just get a $150 ebay special igbt box?"
+      },
+      {
+        "post_id": 2931567,
+        "title": "",
+        "text": "looking at making some speaker stands at a friends who has welder. really simple design just just made out of square pipes.never tried welding before.i&#039;d like it to be metal but i&#039;m unsure if i would need stainless steel pipes or if i could just go with whatever? seems stainless is much harder to work with? are there any finishes that you could put on to prevent it from rusting if needed? i want a bare metal finish so no paint"
+      },
+      {
+        "post_id": 2931569,
+        "title": "",
+        "text": "&gt;&gt;2931447It won&#039;t work well. MIG is a constant voltage process whereas TIG and Stick/MMA are constant current process. The power source behaves differently. Hate to think how TIG would behave with CV power source."
+      },
+      {
+        "post_id": 2931581,
+        "title": "",
+        "text": "What would I be getting into going from /diy/ to something professional? I have a ship yard near me that always seems to be hiring but I&#039;ve got no certification for any of the structural or pressure vessel stuff they mention in their posting. They&#039;ve mentioned on the job training but at the same time their job postings mention having experience. I&#039;m not sure if that&#039;s just that their looking for someone with some concept of welding or what."
+      },
+      {
+        "post_id": 2931586,
+        "title": "",
+        "text": "&gt;&gt;2931569Ah, good point"
+      },
+      {
+        "post_id": 2931693,
+        "title": "",
+        "text": "&gt;&gt;2931567The cheapest and simplest is to use some scrotch brite pads to brush polish everything before you start and then polish it all clean of oxides after welding. Do that outside and wash all your clothes afterwards and take a good shower. Just make sure you do some practice runs to not overheat the stainless. If it looks a dull gray you&#039;ve overheated the metal."
+      },
+      {
+        "post_id": 2931721,
+        "title": "",
+        "text": "Hey bros, does anyone know where I can find parts to build a cnc welding setup? I want to weld 1.5” OD silencers so I’m thinking of something small like pic related"
+      },
+      {
+        "post_id": 2932111,
+        "title": "",
+        "text": "&gt;&gt;2930818Clipped it out and it read 5 ohms, replaced it with another one, doesn&#039;t seem anything wrong with it but I won&#039;t be fiddling with the pedal module anytime soon.Oh well, at least I tried."
+      },
+      {
+        "post_id": 2932737,
+        "title": "",
+        "text": "&gt;&gt;2904350Surprise to find my first post, and my first welds still here.Here&#039;s me like 4 months later. Did 3 months of Stick 7018. TIG Aluminum 16 gauge."
+      },
+      {
+        "post_id": 2932739,
+        "title": "",
+        "text": "&gt;&gt;2932737And tee joint TIG steel."
+      },
+      {
+        "post_id": 2932741,
+        "title": "",
+        "text": "&gt;&gt;29327376010 uphilland 7018 drooping uphill (using the same settings at 6010, unsure if I took a photo of it)"
+      },
+      {
+        "post_id": 2932822,
+        "title": "",
+        "text": "&gt;&gt;2932739Arc length is way too long or maybe your amps are too high or youre moving too slow.But im guessing its your arc length because thats the most common problem for beginners.youre spreading the arc out too much by keeping the tungsten too far away from the puddle which makes the puddle all squirly and the weld oxidised. thats whats causing you undercut and underfill as well.With TIG theres no such thing as keeping your tungsten too close to the weld, you want a focused pinpoint arc.Youre stick welds look very cold and im guessing youre hands are shaking and youre arc length is inconsistant. its just a problem or consistency and keeping a consistant arc length. you should really stick to flat horizantal weld with stick until you get your consistancy down. uphill stick is very hard."
+      },
+      {
+        "post_id": 2932875,
+        "title": "",
+        "text": "New thread:&gt;&gt;2932874&gt;&gt;2932874&gt;&gt;2932874"
+      }
+    ]
+  }
+]

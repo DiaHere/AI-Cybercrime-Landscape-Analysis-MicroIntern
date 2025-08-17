@@ -1,0 +1,1683 @@
+[
+  {
+    "board": "y",
+    "thread_id": 3076458,
+    "thread_title": "/ydg/ - Yaoi Diffusion General #7",
+    "thread_text": "Multitasking editionPrevious thread - &gt;&gt;3072373*Request Thread: &gt;&gt;&gt;/y/airt&gt;To make a new thread, wait for page 8 at bump (and/or image) limit in catalog.&gt;ONLINE GENERATORShttps://tensor.arthttps://civitai.com&gt;METADATA &amp; TAGS EXTRACTION/LISThttps://www.metadata2go.comhttps://rentry.org/airt-rs3https://rentry.org/povlist&gt;/airt/&#039;s RESOURCEShttps://rentry.org/airt-rs1 (FAQ, etc.)https://rentry.org/airt-rs2 (Setup)&gt;QDIFFUSION (LOW-END PC)https://github.com/arenasys/qDiffusion&gt;LOCAL FORGEUIhttps://github.com/lllyasviel/stable-diffusion-webui-forge&gt;LOCAL REFORGE *recommended*GitHubhttps://github.comPanchovix/stable-diffusion-webui-reForge&gt;LOCAL WEBUI SETUP *OLD*https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki&gt;LOCAL COMFYUI *OBSOLETE*https://github.com/comfyanonymous/ComfyUIhttps://comfyanonymous.github.io/ComfyUI_examples/https://openart.ai/workflows/templates&gt;LOCAL MODELShttps://civitai.com/models/184813/animeconfettitunexlhttps://rentry.org/5exa3 (hll+fluff) *OLD*https://gitgud.io/gayshit/makesomefuckingporn (use wayback machine) *OLD*Naixl:https://civitai.com/models/833294/noobai-xl-nai-xl&gt;RESOURCESFeatures: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/FeaturesTraining: https://rentry.org/59xed3 | https://github.com/derrian-distro/LoRA_Easy_Training_ScriptsTags: https://danbooru.donmai.us/wiki_pages/tag_groups | https://danbooru.donmai.us/related_tagControlNet: https://rentry.org/dummycontrolnetIOPaint (LamaCleaner): https://huggingface.co/spaces/Sanster/iopaint-lama | https://www.iopaint.com/installAnimation: https://rentry.org/AnimAnonWildcards: https://rentry.org/NAIwildcards4chanX Catbox/NAI prompt userscript: https://rentry.org/hdgcbNAI API/prompting in auto1111: https://github.com/Metachs/sdwebui-nai-api&gt;RELATEDFurry (Male) AI art: &gt;&gt;&gt;/trash/msdg",
+    "matched_ai_tools": [
+      "Grok",
+      "Remix",
+      "Stable Diffusion"
+    ],
+    "matched_cybercrime": [
+      "worms"
+    ],
+    "posts": [
+      {
+        "post_id": 3076458,
+        "title": "/ydg/ - Yaoi Diffusion General #7",
+        "text": "Multitasking editionPrevious thread - &gt;&gt;3072373*Request Thread: &gt;&gt;&gt;/y/airt&gt;To make a new thread, wait for page 8 at bump (and/or image) limit in catalog.&gt;ONLINE GENERATORShttps://tensor.arthttps://civitai.com&gt;METADATA &amp; TAGS EXTRACTION/LISThttps://www.metadata2go.comhttps://rentry.org/airt-rs3https://rentry.org/povlist&gt;/airt/&#039;s RESOURCEShttps://rentry.org/airt-rs1 (FAQ, etc.)https://rentry.org/airt-rs2 (Setup)&gt;QDIFFUSION (LOW-END PC)https://github.com/arenasys/qDiffusion&gt;LOCAL FORGEUIhttps://github.com/lllyasviel/stable-diffusion-webui-forge&gt;LOCAL REFORGE *recommended*GitHubhttps://github.comPanchovix/stable-diffusion-webui-reForge&gt;LOCAL WEBUI SETUP *OLD*https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki&gt;LOCAL COMFYUI *OBSOLETE*https://github.com/comfyanonymous/ComfyUIhttps://comfyanonymous.github.io/ComfyUI_examples/https://openart.ai/workflows/templates&gt;LOCAL MODELShttps://civitai.com/models/184813/animeconfettitunexlhttps://rentry.org/5exa3 (hll+fluff) *OLD*https://gitgud.io/gayshit/makesomefuckingporn (use wayback machine) *OLD*Naixl:https://civitai.com/models/833294/noobai-xl-nai-xl&gt;RESOURCESFeatures: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/FeaturesTraining: https://rentry.org/59xed3 | https://github.com/derrian-distro/LoRA_Easy_Training_ScriptsTags: https://danbooru.donmai.us/wiki_pages/tag_groups | https://danbooru.donmai.us/related_tagControlNet: https://rentry.org/dummycontrolnetIOPaint (LamaCleaner): https://huggingface.co/spaces/Sanster/iopaint-lama | https://www.iopaint.com/installAnimation: https://rentry.org/AnimAnonWildcards: https://rentry.org/NAIwildcards4chanX Catbox/NAI prompt userscript: https://rentry.org/hdgcbNAI API/prompting in auto1111: https://github.com/Metachs/sdwebui-nai-api&gt;RELATEDFurry (Male) AI art: &gt;&gt;&gt;/trash/msdg"
+      },
+      {
+        "post_id": 3076459,
+        "title": "",
+        "text": "&gt;&gt;3076458**THREADLY NOTE**Need to find a character&#039;s template/LORA? https://civitai.com/ | Built-in tags/artist styles (Pony): https://docs.google.com/spreadsheets/d/1m2W-pZEvHuEpfHcNHrxCSr-Aw1mgtUUYho6sz9LChEA/Need inspirations and/or couldn&#039;t find the right words to describe what you want? Try this: https://danbooru.donmai.us/wiki_pages/tag_groups&gt;&gt;&gt;/y/airt is also good for all sorts of questions/advices regarding AI (and requests).Naixl resources:Styles and characters:https://www.downloadmost.com/NoobAI-XL/danbooru-artist/Usage recommendations:https://civitai.com/articles/9695/f-best-negative-prompt-for-noobai-xlModels from last thread:https://civitai.com/models/1091817?modelVersionId=1226261https://civitai.com/models/964011/homosimile-xl-pony-illustrious-noobaihttps://civitai.com/models/1313975?modelVersionId=1483194*Highlights from previous thread (1/5)*"
+      },
+      {
+        "post_id": 3076460,
+        "title": "",
+        "text": "&gt;&gt;3076459*Highlights from previous thread (2/5)*"
+      },
+      {
+        "post_id": 3076461,
+        "title": "",
+        "text": "&gt;&gt;3076460*Highlights from previous thread (3/5)*"
+      },
+      {
+        "post_id": 3076462,
+        "title": "",
+        "text": "&gt;&gt;3076461*Highlights from previous thread (4/5)*"
+      },
+      {
+        "post_id": 3076463,
+        "title": "",
+        "text": "&gt;&gt;3076462*Highlights from previous thread (5/5)*"
+      },
+      {
+        "post_id": 3076474,
+        "title": "",
+        "text": "rip /y/"
+      },
+      {
+        "post_id": 3076480,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3076482,
+        "title": "",
+        "text": "SDXL"
+      },
+      {
+        "post_id": 3076483,
+        "title": "",
+        "text": "Stable Diffusion"
+      },
+      {
+        "post_id": 3076484,
+        "title": "",
+        "text": "Illustrious"
+      },
+      {
+        "post_id": 3076485,
+        "title": "",
+        "text": "ReForge"
+      },
+      {
+        "post_id": 3076486,
+        "title": "",
+        "text": "Stability Matrix"
+      },
+      {
+        "post_id": 3076501,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3076503,
+        "title": "",
+        "text": "&gt;&gt;3076501"
+      },
+      {
+        "post_id": 3076546,
+        "title": "",
+        "text": "I just realized I can gen Hayao Koshimizu by genning Aogami with tags like &quot;alternate hair color, alternate costume&quot; and then inpainting away his jaw armor. This will be fun....*inpaints dick and balls so it fits /y/*"
+      },
+      {
+        "post_id": 3076547,
+        "title": "",
+        "text": "&gt;&gt;3076480&gt;&gt;3076501catbox"
+      },
+      {
+        "post_id": 3076571,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3076595,
+        "title": "",
+        "text": "SDXL"
+      },
+      {
+        "post_id": 3076596,
+        "title": "",
+        "text": "Stable Diffusion"
+      },
+      {
+        "post_id": 3076597,
+        "title": "",
+        "text": "Illustrious"
+      },
+      {
+        "post_id": 3076598,
+        "title": "",
+        "text": "SD"
+      },
+      {
+        "post_id": 3076618,
+        "title": "",
+        "text": "Vauxz Grand Noob Mix V"
+      },
+      {
+        "post_id": 3076637,
+        "title": "",
+        "text": "&gt;&gt;3076595Is this supposed to be a chastity cage or a funky cock ring?&gt;&gt;3076618This one&#039;s super, I love the contrasting vibrant colours."
+      },
+      {
+        "post_id": 3076642,
+        "title": "",
+        "text": "&gt;&gt;3076637&gt;&gt;3076595 : The prompt was cock cage. Cages are not super well trained in, and they sort of mix with Rings."
+      },
+      {
+        "post_id": 3076643,
+        "title": "",
+        "text": "&gt;&gt;3076642cock cage and cock in general is not trained on at alluse chastity cage and/or chastity device"
+      },
+      {
+        "post_id": 3076652,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3076684,
+        "title": "",
+        "text": "&gt;&gt;3076652Hobo Phoenix x Apollo is such a based ship"
+      },
+      {
+        "post_id": 3076686,
+        "title": "",
+        "text": "&gt;&gt;3076652&gt;&gt;3076684And it&#039;s hot."
+      },
+      {
+        "post_id": 3076688,
+        "title": "",
+        "text": "Task failed successfully?"
+      },
+      {
+        "post_id": 3076689,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3076708,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3076740,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3076757,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3076758,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3076759,
+        "title": "",
+        "text": "I am uploading my new pack of gens, it is 7gb and includes my video gens I have been testing. will post the drive link when it is ready."
+      },
+      {
+        "post_id": 3076767,
+        "title": "",
+        "text": "here is the google drive link for the massive dump of porn I have gennedhttps://drive.google.com/drive/folders/1al1yx3XqKYnlRMNyaZcQeSc-Rh8hvOzy"
+      },
+      {
+        "post_id": 3076784,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3076785,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3076875,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3076941,
+        "title": "",
+        "text": "SDXL"
+      },
+      {
+        "post_id": 3076942,
+        "title": "",
+        "text": "SD"
+      },
+      {
+        "post_id": 3076943,
+        "title": "",
+        "text": "Stable Diffusion"
+      },
+      {
+        "post_id": 3076944,
+        "title": "",
+        "text": "Forge"
+      },
+      {
+        "post_id": 3076945,
+        "title": "",
+        "text": "HassakuXL illustrious v12"
+      },
+      {
+        "post_id": 3076984,
+        "title": "",
+        "text": "&gt;&gt;3076943Very cute butt."
+      },
+      {
+        "post_id": 3077004,
+        "title": "",
+        "text": "The page is back yay"
+      },
+      {
+        "post_id": 3077026,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077067,
+        "title": "",
+        "text": "&gt;&gt;3077026Delicious"
+      },
+      {
+        "post_id": 3077076,
+        "title": "",
+        "text": "Zoro just being a whore for the crew and loving it"
+      },
+      {
+        "post_id": 3077077,
+        "title": "",
+        "text": "&gt;&gt;3077076"
+      },
+      {
+        "post_id": 3077078,
+        "title": "",
+        "text": "&gt;&gt;3077077"
+      },
+      {
+        "post_id": 3077079,
+        "title": "",
+        "text": "&gt;&gt;3077076&gt;&gt;3077077&gt;&gt;3077078At least he has a more of a personality there than the post-time skip."
+      },
+      {
+        "post_id": 3077080,
+        "title": "",
+        "text": "Tanjiro is such a cutie&gt;&gt;3077079That&#039;s unfortunately true"
+      },
+      {
+        "post_id": 3077151,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077160,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077161,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077162,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077169,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077170,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077201,
+        "title": "",
+        "text": "&gt;&gt;3077170I struggle a lot prompting image to video and the results are always deranged like this. Show me your secrets please :,("
+      },
+      {
+        "post_id": 3077240,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077245,
+        "title": "",
+        "text": "&gt;&gt;3077201A bit better"
+      },
+      {
+        "post_id": 3077246,
+        "title": "",
+        "text": "Is anyone willing to generate some full nelsons…I don’t care for the characters just any cohesive full nelsons please:("
+      },
+      {
+        "post_id": 3077248,
+        "title": "",
+        "text": "&gt;&gt;3077246Ik you said you don&#039;t care but any character/s you have in mind?"
+      },
+      {
+        "post_id": 3077249,
+        "title": "",
+        "text": "&gt;&gt;3077248"
+      },
+      {
+        "post_id": 3077250,
+        "title": "",
+        "text": "&gt;&gt;3077249"
+      },
+      {
+        "post_id": 3077252,
+        "title": "",
+        "text": "&gt;&gt;3077250"
+      },
+      {
+        "post_id": 3077256,
+        "title": "",
+        "text": "This is all perfect thank you guys :)"
+      },
+      {
+        "post_id": 3077258,
+        "title": "",
+        "text": "&gt;&gt;3077026Is that Kiritsugu? Hot as fuck."
+      },
+      {
+        "post_id": 3077263,
+        "title": "",
+        "text": "&gt;&gt;3077080Catbox?"
+      },
+      {
+        "post_id": 3077269,
+        "title": "",
+        "text": "SDXL"
+      },
+      {
+        "post_id": 3077270,
+        "title": "",
+        "text": "Hassaku XL"
+      },
+      {
+        "post_id": 3077271,
+        "title": "",
+        "text": "ReForge UI"
+      },
+      {
+        "post_id": 3077273,
+        "title": "",
+        "text": "SD"
+      },
+      {
+        "post_id": 3077274,
+        "title": "",
+        "text": "&gt;&gt;3077269&gt;&gt;3077270&gt;&gt;3077271&gt;&gt;3077273Made to be used by the crew members as a toy!"
+      },
+      {
+        "post_id": 3077275,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077276,
+        "title": "",
+        "text": "&gt;&gt;3077274He joined the Earth Defense Force looking for adventure and purpose. Instead, he is lonely and depressed. The space vessel basically runs on AI, and the crew his own age are homophobic. He is just waiting for the rest of his 3 year tour of duty to be over, but is having trouble thinking about tomorrow."
+      },
+      {
+        "post_id": 3077277,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077278,
+        "title": "",
+        "text": "&gt;&gt;3077248Mark and William from invincible &lt;_&lt; if you don’t mind that is"
+      },
+      {
+        "post_id": 3077282,
+        "title": "",
+        "text": "&gt;&gt;3077278I tried my best but since danbooru has almost not data from mark and even less from William (just 12 pictures), I just used 2 lora and this is the result"
+      },
+      {
+        "post_id": 3077283,
+        "title": "",
+        "text": "&gt;&gt;3077282Another attempt"
+      },
+      {
+        "post_id": 3077301,
+        "title": "",
+        "text": "&gt;&gt;3077248catbox?"
+      },
+      {
+        "post_id": 3077572,
+        "title": "",
+        "text": "I did some AI art of a male Terminator from Terminator Zero."
+      },
+      {
+        "post_id": 3077573,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077576,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077579,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077580,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077581,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077582,
+        "title": "",
+        "text": "&gt;&gt;3077572Text prompt?"
+      },
+      {
+        "post_id": 3077614,
+        "title": "",
+        "text": "&gt;&gt;3077582score_9, score_8_up, score_7_up, source_anime, anime screencap, anime coloring, solo, male, 1male, adult, short brown hair, parted hair, hair parted in the center, brown eyes, brown mustache, biker mustache, muscular chubby, muscles, slightly chubby, belly, nude, penis, testicles, erection, foreskin penis, uncut penis, fully erect penis, uncut erect penis, standing, cowboy shot, laboratory setting, blank expression"
+      },
+      {
+        "post_id": 3077640,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077665,
+        "title": "",
+        "text": "&gt;&gt;3077282It’s better than nothing thank you I really appreciate it!"
+      },
+      {
+        "post_id": 3077699,
+        "title": "",
+        "text": "&gt;&gt;3077269&gt;&gt;3077277God, he&#039;s beautiful."
+      },
+      {
+        "post_id": 3077742,
+        "title": "",
+        "text": "&gt;&gt;3077699https://civitai.com/posts/16632982another post tomorrow"
+      },
+      {
+        "post_id": 3077759,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077800,
+        "title": "",
+        "text": "&gt;&gt;3076767Hey anon, meant to say this much earlier. But you&#039;re doing god&#039;s work with your art. Particularly your yugioh boys and inyuyasha content. I feel the overall lack of them in the world is criminal. Those last 4 Inu pics especially are stupid hot, please keep doing what you&#039;re doing. I&#039;m..kind of tempted to pick your brain to spend hours working on the latter stuff myself. lol"
+      },
+      {
+        "post_id": 3077801,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077814,
+        "title": "",
+        "text": "&gt;&gt;3077801Prompt? Urban guys are my turn on."
+      },
+      {
+        "post_id": 3077830,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077831,
+        "title": "",
+        "text": "&gt;&gt;3077830"
+      },
+      {
+        "post_id": 3077832,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077921,
+        "title": "",
+        "text": "&gt;&gt;3077258It is, it recognizes a lot of fate men"
+      },
+      {
+        "post_id": 3077922,
+        "title": "",
+        "text": "&gt;&gt;3077921"
+      },
+      {
+        "post_id": 3077946,
+        "title": "",
+        "text": "&gt;&gt;3077922Prompt?"
+      },
+      {
+        "post_id": 3077947,
+        "title": "",
+        "text": "&gt;&gt;3077922&gt;&gt;3077921pls post more of your stuff with metadata on civit/tensor, I like it alot"
+      },
+      {
+        "post_id": 3077955,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3077989,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078101,
+        "title": "",
+        "text": "Stable Diffusion"
+      },
+      {
+        "post_id": 3078102,
+        "title": "",
+        "text": "ReForge UI"
+      },
+      {
+        "post_id": 3078103,
+        "title": "",
+        "text": "HomoSimile XL V3"
+      },
+      {
+        "post_id": 3078104,
+        "title": "",
+        "text": "SD"
+      },
+      {
+        "post_id": 3078105,
+        "title": "",
+        "text": "Hassaku XL v2.2"
+      },
+      {
+        "post_id": 3078211,
+        "title": "",
+        "text": "&gt;&gt;3077947Thx that motivates me to upload more, I willhttps://civitai.com/user/FMenMy profile"
+      },
+      {
+        "post_id": 3078214,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078222,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078224,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078242,
+        "title": "",
+        "text": "Anyone got a LorA \\ checkpoint that makes good anime style bulges? This is what im going for and all i can find makes them look more &quot;realistic&quot;"
+      },
+      {
+        "post_id": 3078259,
+        "title": "",
+        "text": "&gt;&gt;3078242https://civitai.com/models/1313975 - any model on that website that says Base Model NoobAIyou don&#039;t need a lora, you just need to know the different bulge tags:bulge&lt;size&gt; bulges: large bulge, small bulge, huge bulge, hyper bulgedetailed bulgepenis outlineballs outlinegenitals outline (tainted by non-male data)barely contained (I learned this one recently and it&#039;s my favorite)&lt;part&gt; peek: penis peek, testicle peekerection under clothingtenting"
+      },
+      {
+        "post_id": 3078264,
+        "title": "",
+        "text": "&gt;&gt;3078242I would recommend https://civitai.com/models/964011 HomoSimile XL as your best bet. Well trained on sexy male pictures. Body hair, precum, asses, and bulges are all pretty decent. Will be on the bara side, so you may need &quot;fat, heavy, hefty, muscular, abs&quot; in negative prompt for twink/younger.https://civitai.com/models/1219622 Kageillustrious is an offshoot of HomoSimile, trained with a &quot;2.5D&quot; realistic style, but not as good at male specific sexiness.https://civitai.com/models/351170 AnimeBoysXL V3 is an oldie but goodie. This is a Pony model, so prompting is very different. Illustrious/Noob models are just better overall then Pony models, IMHO. However, AnimeBoys was trained on a lot of character data, and will default to good male ass and bulge, which is something female trained (read: practically all) models make feminine.Posted picture had following prompts for bulge: see-through bodysuit, covered pubic hair, covered body hair, covered testicles,"
+      },
+      {
+        "post_id": 3078265,
+        "title": "",
+        "text": "&gt;&gt;3078264&gt;&gt;3078242Long Distance HomoSimile bulge"
+      },
+      {
+        "post_id": 3078266,
+        "title": "",
+        "text": "&gt;&gt;3078264&gt;&gt;3078242Closer bulge shot curtesy of HomoSimile"
+      },
+      {
+        "post_id": 3078275,
+        "title": "",
+        "text": "&gt;&gt;3078242I&#039;m not sure if this is what you want but using &quot;detailed bulge&quot; as a tag maybe will help"
+      },
+      {
+        "post_id": 3078283,
+        "title": "",
+        "text": "&gt;&gt;3078264I dont recommend homosimile simply because it merges pony and that fucks up the anatomy, use WAIshufflenoob which is basically the same quality but without pony being merged and making garbage"
+      },
+      {
+        "post_id": 3078284,
+        "title": "",
+        "text": "&gt;&gt;3078211&lt;3Your merged model merges vpred and eps models? I tried training a lora on it and without v-pred args it makes noise (expected) but with v-pred args it still looks a bit off (granted I only tested on one dataset but still)"
+      },
+      {
+        "post_id": 3078285,
+        "title": "",
+        "text": "&gt;&gt;3078284Latest merged model* the NAI one"
+      },
+      {
+        "post_id": 3078288,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078289,
+        "title": "",
+        "text": "&gt;&gt;3078283I didn&#039;t like the original Illustrious model of HomoSimile. The NoobAI version from last Jan is pretty good, can&#039;t say I have had any issues. It does seem more dependent on style Loras though, but that might just be my prompting."
+      },
+      {
+        "post_id": 3078295,
+        "title": "",
+        "text": "&gt;&gt;3078289yeah it isn&#039;t that bad, mostly unnoticeable fortunately, but its there and when I noticed it angered me kek"
+      },
+      {
+        "post_id": 3078299,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078300,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078301,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078302,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078303,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078316,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078319,
+        "title": "",
+        "text": "&gt;&gt;3078316Sexually frustrated older office men are my jam!"
+      },
+      {
+        "post_id": 3078320,
+        "title": "",
+        "text": "&gt;&gt;3078319Also, prompt, please!"
+      },
+      {
+        "post_id": 3078323,
+        "title": "",
+        "text": "&gt;&gt;3078320masterpiece, best quality, very aesthetic, absurdres, cinematic, male focus, solo, office, salaryman, desk, (tenting, barely contained, erection under clothing:1.3), blush, looking pleasured, stubble, sitting, legs spread, sitting in office chair, button on fly, buttoned shirt, taut shirt, taut buttons, undersized clothing, necktie, erection, big penis, huge penis, from above, bursting penis, bursting bulge,"
+      },
+      {
+        "post_id": 3078325,
+        "title": "",
+        "text": "&gt;&gt;3078323Thank you!"
+      },
+      {
+        "post_id": 3078326,
+        "title": "",
+        "text": "&gt;&gt;3078284I wish I could help and I&#039;m glad for the interest. But since noob xl I almost don&#039;t use loras and the model is such a Frankenstein that I suspect that has vpred and regular models mixed in. In comfyu it detects the model as a vpred but I think it&#039;s not, or at least I have no problem using samplers at all"
+      },
+      {
+        "post_id": 3078327,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078328,
+        "title": "",
+        "text": "&gt;&gt;3078302&gt;&gt;3078301&gt;&gt;3078300&gt;&gt;3078299What promps did you use for make them so fluid animated? Was done in Civitai or Tensor? I do ask because I usually get failures results"
+      },
+      {
+        "post_id": 3078334,
+        "title": "",
+        "text": "&gt;&gt;3078328tensor and I post all of them with the prompts to my profile so you can see the prompts and remix as wanted. I use image 2 video there are tons of prompts to remix in my posts, have fun :) https://tensor.art/u/653694125803285654/posts"
+      },
+      {
+        "post_id": 3078335,
+        "title": "",
+        "text": "&gt;&gt;3078326I see, anyway, nice work, keep it up"
+      },
+      {
+        "post_id": 3078339,
+        "title": "",
+        "text": "&gt;&gt;3076784&gt;&gt;3076785Love this, do more or teach how do I do more by myself?"
+      },
+      {
+        "post_id": 3078355,
+        "title": "",
+        "text": "How does one &quot;position&quot; or orient a cock a certain direction or way? Mine are usually pointed one way and I want them the other. Usually they&#039;re hard but straight forward and I want them more upward."
+      },
+      {
+        "post_id": 3078375,
+        "title": "",
+        "text": "I love drunk angry guys!"
+      },
+      {
+        "post_id": 3078376,
+        "title": "",
+        "text": "Want one with him throwing a bottle at the viewer, but it always comes out wrong. Tags and tips?"
+      },
+      {
+        "post_id": 3078384,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078387,
+        "title": "",
+        "text": "it’s just me or I cannot move on from A1111 to any other UI? for me A1111 is just “works” and I tried ComfyUI as well as SwarmUI it messes up my workflow and generates worse images.."
+      },
+      {
+        "post_id": 3078391,
+        "title": "",
+        "text": "&gt;&gt;3078355I have had some luck with &quot;erection pointed up&quot;, or if they are lying down, &quot;erection to navel&quot;, in Illustrious/Noob checkpoints. Other than that, I haven&#039;t been able to prompt directions. It usually makes some sense with the context of the picture. Which is to say, if the character is lying down, the penis can be across the thigh, or straight up, naturally."
+      },
+      {
+        "post_id": 3078392,
+        "title": "",
+        "text": "&gt;&gt;3078376It does not seem to be a concept that is trained in. I can get it to make someone pitching a baseball, but it is very wonky."
+      },
+      {
+        "post_id": 3078393,
+        "title": "",
+        "text": "&gt;&gt;3078387ComfyUI has a big learning cliff. Forge/A1111 is fine for your basic image generating needs. The problem is, once you are used to A1111, it is very hard to force yourself to learn something new, especially a difficult UI. We are here for fun, after all, not work.Comfy always gets the new stuff first, though Forge is still getting regular updates. I wouldn&#039;t worry about it too much."
+      },
+      {
+        "post_id": 3078411,
+        "title": "",
+        "text": "&gt;&gt;3078393Yeah the problem is I want to enhance my photo to be even more better, right now it&#039;s nice but I feel like there&#039;s room for improvement and I saw everyone else said A1111 is so limited compared to ComfyUI, feeling missing out but then I cba learning about ComfyUI lol"
+      },
+      {
+        "post_id": 3078421,
+        "title": "",
+        "text": "&gt;&gt;3078411For basic image generation, I don&#039;t believe Comfy has any real advantages. There are &quot;nodes&quot; (extensions) that Forge/A1111 doesn&#039;t really have, but that is because those addons are not widely adopted. They are not widely adopted because they don&#039;t work well or add anything useful. More does not necessarily equal better when it comes to this homebrew coding we have to deal with.Comfy is better at those 5sec gif generations people like. If you want to make those, then yes, start learning. Comfy is also better at using multiple models to work together on the same picture generation. But that is more of a niche thing that, again, is not widely adopted, especially for anime porn.Remember that A.I chat bots (like CoPilot and Grok) can help read GitHub instructions for you, and help walk you through what everything does. Not perfect, but it can help."
+      },
+      {
+        "post_id": 3078431,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078432,
+        "title": "",
+        "text": "&gt;Hairy version"
+      },
+      {
+        "post_id": 3078439,
+        "title": "",
+        "text": "&gt;&gt;3078421not that anon but I just wanna say i use NAI and then cry when I run out of anlas or get gens like this"
+      },
+      {
+        "post_id": 3078481,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078614,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078620,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078666,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078815,
+        "title": "",
+        "text": "SDXL"
+      },
+      {
+        "post_id": 3078816,
+        "title": "",
+        "text": "HomoSimileXL V4.0"
+      },
+      {
+        "post_id": 3078817,
+        "title": "",
+        "text": "ReForge"
+      },
+      {
+        "post_id": 3078818,
+        "title": "",
+        "text": "StabilityMatrix"
+      },
+      {
+        "post_id": 3078819,
+        "title": "",
+        "text": "SD"
+      },
+      {
+        "post_id": 3078865,
+        "title": "",
+        "text": "&gt;&gt;3078392How do I make more guys like him!?Is there a tutorial for this stuff? Holy cow he&#039;s hot."
+      },
+      {
+        "post_id": 3078872,
+        "title": "",
+        "text": "&gt;&gt;3078865So the opening post of the thread has a lot of links to get you started. Try the two online generators, they let you play around for free with registration. You can also browse what other people are posting, as it will have the information (metadata) they used to generate it. https://civitai.com/user/gtgiygushttps://civitai.com/user/YaoiBoyhttps://civitai.com/user/cg210sdhttps://civitai.com/user/Kairen92For homebrew stuff, try looking at https://www.reddit.com/r/StableDiffusion/wiki/index/ . Keep in mind you need a reasonably powerful PC in order to get it working. I have a 4060Ti with 16 gigs of vram, which is enough to run Stable Diffusion XL at full speed, which that particular barfly picture was made. You can make it work with 8 or 6 vram, but keep in mind you really should have a Nvidia card of some sort.If you run into specific questions, feel free to post them here. But it is very difficult to hand hold over 4chan threads, so give the links a shot first.Other than that, practice practice practice, and copy copy copy (what other people are doing). You will start to understand how it all comes together, but it takes time and effort."
+      },
+      {
+        "post_id": 3078915,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078916,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078944,
+        "title": "",
+        "text": "anyone have a good source for celeb loras? i commissioned a few but they were all ass and i keep struggling with making my own loras. primarily use pony realism checkpoints"
+      },
+      {
+        "post_id": 3078988,
+        "title": "",
+        "text": "&gt;&gt;3078944I think it&#039;s best to move to Illustrious/Noob-AI, they&#039;re just better rn.Btw, If you can collect high quality images of your prefered celeb (15-30), i can handle the training part and upload the LORA -&gt; If you&#039;re up for the task then simply send the dataset here, i&#039;ll get back as soon as possible. (Upload a .zip file with the high quality images through Catbox or Litterbox): https://catbox.moe/List of LORA makers i&#039;ve found that made/focused on male celebs:https://civitai.com/user/DoctorStasishttps://civitai.com/user/Mr_MHhttps://civitai.com/user/pogbacarhttps://civitai.com/user/jrewingwannabe947https://civitai.com/user/chrome188https://civitai.com/user/razputinhttps://civitai.com/user/NiftySinfullyFriskyWeaselhttps://civitai.com/user/richtofen1202https://civitai.com/user/Theslayonettahttps://civitai.com/user/whythough_01https://civitai.com/user/MyaSturbatehttps://civitai.com/user/TrSerkanhttps://civitai.com/user/teal00https://civitai.com/user/GloberTrotzer*IMPORTANT: Adjust your search parameter (disable X &amp; XXX), else those LORA won&#039;t show, Civit made it rough to use/see anything related to real people now...Also, if you have questions regarding LORA making (or collecting dataset) then feel free to ask!"
+      },
+      {
+        "post_id": 3078990,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078996,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3078998,
+        "title": "",
+        "text": "A little Clark Kent/Bruce Wayne action made in NovelAI."
+      },
+      {
+        "post_id": 3078999,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079000,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079009,
+        "title": "",
+        "text": "&gt;&gt;3078988Thank you for the help! I&#039;ve used Illu/Noob before but haven&#039;t looked into their realism components. Found virile stallion had the best results for me so far as a pony checkpoint. Can you recommend a good Illu for nude male anatomy?Also, if you really don&#039;t mind, I&#039;d love to make a lora of this guy. Insta model.https://files.catbox.moe/iz2idk.zipI&#039;ll check out those civit recommendations too, thanks again!"
+      },
+      {
+        "post_id": 3079021,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079044,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079067,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079076,
+        "title": "",
+        "text": "I wish NovelAI recognized more Trails men—I really need to get around to uploading images of them to danbooru before the next round of training. If anyone wants to help me in my quest (or just upload images of your own favorite men who don&#039;t have many images), that&#039;d be great. It usually only needs 10–20 solid reference pics (ideally solo). Maybe I should organize some sort of group/movement to get more men on danbooru since AI can work so well with so little data now?(I would try to do it all myself but, y&#039;know, danbooru has that draconic uploading process where you have a small upload limit and all your uploads have to be placed in a queue and then approved to free up your upload slots, which usually takes days for each one IME.)"
+      },
+      {
+        "post_id": 3079098,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079152,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079244,
+        "title": "",
+        "text": "Stable Diffusion"
+      },
+      {
+        "post_id": 3079245,
+        "title": "",
+        "text": "ReForge UI"
+      },
+      {
+        "post_id": 3079246,
+        "title": "",
+        "text": "HomosimileXL V4.0"
+      },
+      {
+        "post_id": 3079247,
+        "title": "",
+        "text": "SDXL"
+      },
+      {
+        "post_id": 3079248,
+        "title": "",
+        "text": "SD"
+      },
+      {
+        "post_id": 3079269,
+        "title": "",
+        "text": "&gt;&gt;3079248I like this model, but the faces often look grumpy. How do they look like smiling?&gt;&gt;3079244Oh, I like the subtle chest hair here.&gt;&gt;3078819Did you specify their haircuts in the prompt?"
+      },
+      {
+        "post_id": 3079274,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079275,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079276,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079277,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079278,
+        "title": "",
+        "text": "My gens always have melty eyes. But I don&#039;t see anyone using special models or prompts to get crisp clean eyes. What&#039;s the secret?"
+      },
+      {
+        "post_id": 3079282,
+        "title": "",
+        "text": "&gt;&gt;3079278bad faces are from bad models/loras and also from distancethe more zoomed out the subject, the more messed up the face will beI also suspect the &#039;full body&#039; tag has a negative impact on this regardless of how zoomed out it makes it due to training datayou can usually fix faces even with bad models using adetailer, if you aren&#039;t already"
+      },
+      {
+        "post_id": 3079285,
+        "title": "",
+        "text": "&gt;&gt;3079278&gt;&gt;3079282to piggyback off this comment, lots of loras suck. some for specific characters/artists are okay, but a lot are shitty and produce noise and fucked up eyes.i prefer style loras that are more general. most checkpoints know lots of characters anyways, you can check danbooru to see if the character is on there, if it is, just try generating it without a lora.adetailer helps a lot too."
+      },
+      {
+        "post_id": 3079287,
+        "title": "",
+        "text": "&gt;&gt;3079269Smiling is OK. Tends to push generation younger looking. I personally prefer the serious look. &quot;Serious&quot; prompt also makes the overall composition more serious as well."
+      },
+      {
+        "post_id": 3079288,
+        "title": "",
+        "text": "&gt;&gt;3079269Haircuts have there own prompts as well. Most all of them are associated with female characters, and will heavily influence the generator to make a female character. &quot;Undercut&quot; is very much male, and pushes more masculine characters. &quot;Mohawk&quot;, &quot;Bald/Balding&quot;, and &quot;Dreadlock&quot; are also male focused hairstyles that Illustrious/Noob models understands. &quot;Asymmetrical&quot;, &quot;Short&quot;, &quot;Messy&quot; and &quot;Single Braid&quot; are more neutral. Long, Medium, Curly, Braided, the different Bang types, as well as any hair ornaments, are very much female and will push female traits.The only thing I feel that Pony models get better than Illustrious models are Hairstyles and Emotions. Pony can do a lot of combinations of both without really pushing a gender with them. Illustrious will not."
+      },
+      {
+        "post_id": 3079289,
+        "title": "",
+        "text": "&gt;&gt;3079278&gt;&gt;3079282&gt;&gt;3079285Just one more piggyback. ADetailer does not operate in a vacuum, it is not just some switch that you turn on and it makes things better.Adetailer has its own models for detection, threshold for detecting the desired object, and most importantly, it&#039;s own inpainting settings. You can even add your own sperate prompt (and negative prompt!) to help clean up the area getting detailed.Chances are, if you find a really well done, highly detailed AI generated picture, it will have been run through multiple rounds of Hires.Fix and 4-6 different ADetailer detections/inpainting. I, honestly, don&#039;t have the time or inclination to put that much work into a single picture, but it is possible."
+      },
+      {
+        "post_id": 3079311,
+        "title": "",
+        "text": "so you need to pay to use novel AI? very novel of them."
+      },
+      {
+        "post_id": 3079312,
+        "title": "",
+        "text": "&gt;&gt;3079311gpus and the electricity/infrastructure to run them are very expensive"
+      },
+      {
+        "post_id": 3079313,
+        "title": "",
+        "text": "&gt;&gt;3079312that&#039;s fake news tho. it&#039;s a marketing gimmick"
+      },
+      {
+        "post_id": 3079314,
+        "title": "",
+        "text": "just want to get this dude naked and getting fucked"
+      },
+      {
+        "post_id": 3079336,
+        "title": "",
+        "text": "&gt;&gt;3079313servers and computers needing electricity to run is fake news? lmao"
+      },
+      {
+        "post_id": 3079339,
+        "title": "",
+        "text": "&gt;&gt;3079311&gt;&gt;3079312&gt;&gt;3079313&gt;&gt;3079336I think it&#039;s less about GPUs and electricity and more about paying their employees. They have a lot of active developers, UI/UX designers, customer service, marketers, wtiters, etc. They create and train their own in-house models that they&#039;re constantly improving and expanding on with new features. Electricity isn&#039;t that expensive but people are."
+      },
+      {
+        "post_id": 3079341,
+        "title": "",
+        "text": "&gt;&gt;3079339&gt;&gt;3079314They&#039;re also committed to privacy and remaining anti-censorship, which means they can&#039;t rely on advertising or mining and selling your data like other AI platforms"
+      },
+      {
+        "post_id": 3079342,
+        "title": "",
+        "text": "&gt;&gt;3079314&gt;&gt;3079341"
+      },
+      {
+        "post_id": 3079343,
+        "title": "",
+        "text": "&gt;&gt;3079342"
+      },
+      {
+        "post_id": 3079344,
+        "title": "",
+        "text": "&gt;&gt;3079343"
+      },
+      {
+        "post_id": 3079345,
+        "title": "",
+        "text": "&gt;&gt;3079311You can pay to rent GPU processing over the internet. You have get stable diffusion and download all files on your own PC of course. But once its set up and running, a 32gvram RTX 5000 for 45 cents an hour. Will be a lot cheaper to cut out the middle man if you are willing to deal with learning the curve."
+      },
+      {
+        "post_id": 3079349,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079350,
+        "title": "",
+        "text": "&gt;&gt;3079288Thanks.I just wondered if that mullet-like hairdo was specifically prompted or was it just a quirkily generated undercut."
+      },
+      {
+        "post_id": 3079390,
+        "title": "",
+        "text": "Can someone do peter nude, fresh out of shower with his big flaccid cut cock?"
+      },
+      {
+        "post_id": 3079391,
+        "title": "",
+        "text": "shiba yuuji lora: https://litter.catbox.moe/prztl5wu70wgk5gn.safetensorsprompt in this picture was: &quot;masterpiece, best quality, absurdres, cinematic, penis, male focus, testicles, 1boy, solo, looking at viewer&quot;lora being converted to safetensors may make your ui not recognize it in the folder, but it still will work when manually added to prompt"
+      },
+      {
+        "post_id": 3079405,
+        "title": "",
+        "text": "My stuff is mostly ass/anal focused but I love trying different styles and training usually ignored characters."
+      },
+      {
+        "post_id": 3079406,
+        "title": "",
+        "text": "&gt;&gt;3079405"
+      },
+      {
+        "post_id": 3079407,
+        "title": "",
+        "text": "&gt;&gt;3079406"
+      },
+      {
+        "post_id": 3079408,
+        "title": "",
+        "text": "&gt;&gt;3079407"
+      },
+      {
+        "post_id": 3079409,
+        "title": "",
+        "text": "&gt;&gt;3079408"
+      },
+      {
+        "post_id": 3079410,
+        "title": "",
+        "text": "&gt;&gt;3079409"
+      },
+      {
+        "post_id": 3079411,
+        "title": "",
+        "text": "&gt;&gt;3079390what IP is he from? or full name so i can figure it out lol"
+      },
+      {
+        "post_id": 3079412,
+        "title": "",
+        "text": "&gt;&gt;3079410"
+      },
+      {
+        "post_id": 3079413,
+        "title": "",
+        "text": "&gt;&gt;3076458complete noob idk what the fugg im doing but i installed stable fusion with a checkpoint and its pissing me off how long it takes to make detailed images, like i can make quick ones in like 10 seconds but once i put the &quot;upscale&quot; to give them details and a face or eyes it takes like 5-20minutes should i just pay a subscription for the CIVITAI website it lets you make nsfw images and theyre way better and quicker especially with loras"
+      },
+      {
+        "post_id": 3079414,
+        "title": "",
+        "text": "&gt;&gt;3079413&gt;&gt;3076458and this was made in like 3 FREE tries on the website"
+      },
+      {
+        "post_id": 3079415,
+        "title": "",
+        "text": "&gt;&gt;3079412Pipit! I love Pipit so much, great stuff. Zelda has some seriously underappreciated boys. Pipit, Gonzo/Alfonzo, Fado (Twilight Princess), Shad, pretty much every guy on Windfall Island..."
+      },
+      {
+        "post_id": 3079416,
+        "title": "",
+        "text": "&gt;&gt;3079413Nooo, don&#039;t pay them. CivitAI has problems almost daily.PixAI can be a lot better than CivitAI, especially if you use the Hoshino checkpoint with Illustrious LORAs (if you like on model content, at least, but it&#039;s still versatile with styles and it&#039;s great with most danbooru tags). I gave up on local generations desu.&gt;&gt;3079415Right? I trained Pipit&#039;s lora. TLOZ has many great guys aside from Link and Ganon and they deserve more attention. Nice Groose pic!"
+      },
+      {
+        "post_id": 3079417,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079418,
+        "title": "",
+        "text": "&gt;&gt;3079417"
+      },
+      {
+        "post_id": 3079419,
+        "title": "",
+        "text": "&gt;&gt;3079413&gt;&gt;3079414You don&#039;t give enough information to give you good advice.What graphics card do you have?Is everything installed on a Solid State Drive?What starting resolution?What is your upscale % and Denoising strength?How many Sampling steps, for both first gen and Hires?What Sampler method and Scheduling type?What user interface are you working with?What type of checkpoint (SDXL ; SD 1.5 ; Flux ; etc.) are you are using?What ADetailer models are you activating?How many Loras are you trying to add?All of those things change the amount of time you will need. So you have a baseline, my setup is:4060 TI with 16 gigs Vram ; Everything on SSD ; Reforge (which is no longer updated, but is about 10% faster then reg forge) ; SDXL Checkpoint (illustrious) that needs 6.5 gigs. One lora that needs 220 MiBStarting resolution of 1024*1024 with 50 steps using &quot;DDPM&quot; Sampling method and &quot;SGM Uniform&quot; Schedule type.Hires.fix at 35 steps with 0.4 Denoising strength, upscaled by 1.5* = 1536*1536 pixels 2 Adetailer models: &quot;Anzhc Face segmant v2&quot; and &quot;CockandBallYolo8x&quot;.First generation @ 50 steps takes 24 sec. HiresFix 40% strength @ 35 steps takes another 42 sec. Each ADetailer detection adds about another 10 secs. It usually takes about 100 to 120 secs per picture generated."
+      },
+      {
+        "post_id": 3079420,
+        "title": "",
+        "text": "&gt;&gt;3079416&gt;&gt;3079414&gt;&gt;3079413yeah i really dont want to spend money on Ai but what i like about civitai is that alot of the good artists have their own LORA so its very easy to just instantly do art from my favorite artists&gt;&gt;3079419im new so i have no idea i think its just generic 512 then i do the upscale function to make the faces not all deformed, usually works but it takes so long and on the website its almost instant and the faces look decent the first time"
+      },
+      {
+        "post_id": 3079421,
+        "title": "",
+        "text": "&gt;&gt;3079420Again, for any better advice you will have to provide more info. Screen shot of your UI would be helpful if you are really confused. I can say you are probably using an SDXL checkpoint. Try setting your starting resolution (Width and Height boxes) to 1024*1024 (or some combination thereof, like 864 * 1152 for portrait). Then, bring your Upscale percentage (&quot;Upscale by&quot; box) DOWN some. Upscale needs a lot more processing power than the original gen, and will slow you down if you are upscaling unnecessarily.The websites will always be faster because they have banks of GPUs to draw from. Again, keep trying to learn how to set it up yourself before giving money away. But hey, it&#039;s your life, not mine, do what you want."
+      },
+      {
+        "post_id": 3079422,
+        "title": "",
+        "text": "&gt;&gt;3079408Do you have more pics of him?"
+      },
+      {
+        "post_id": 3079423,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079424,
+        "title": "",
+        "text": "&gt;&gt;3079416Thanks! And thanks for your contributions to Pipit porn, doing the goddesses&#039; work."
+      },
+      {
+        "post_id": 3079425,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079426,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079427,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079428,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079429,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079430,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079431,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079432,
+        "title": "",
+        "text": "&gt;&gt;3079424Thank you! Glad you like my generations, Pipit is one of my absolute favorites.&gt;&gt;3079422A lot!Taking requests too, lemme write the list of my trained characters and I&#039;l post it."
+      },
+      {
+        "post_id": 3079433,
+        "title": "",
+        "text": "&gt;&gt;3079432"
+      },
+      {
+        "post_id": 3079434,
+        "title": "",
+        "text": "&gt;&gt;3079433"
+      },
+      {
+        "post_id": 3079436,
+        "title": "",
+        "text": "&gt;&gt;3079434"
+      },
+      {
+        "post_id": 3079437,
+        "title": "",
+        "text": "&gt;&gt;3079390https://files.catbox.moe/o14cto.7zAll the images I made of Peter, including the couple I posted. 100 files total, took about 20 minutes, various styles and prompts. &lt;3"
+      },
+      {
+        "post_id": 3079443,
+        "title": "",
+        "text": "&gt;&gt;3079437Thanks &lt;3 I just love Peter. Could you also do him sleeping naked, with a boner and legs spread ?"
+      },
+      {
+        "post_id": 3079444,
+        "title": "",
+        "text": "&gt;&gt;3079244&gt;&gt;3079288&gt;&gt;3079419God I love this, anime boys with sexy chest hair. They look so hot, I wish this were so much more common."
+      },
+      {
+        "post_id": 3079459,
+        "title": "",
+        "text": "&gt;&gt;3079443This time the generations were a little difficult, don&#039;t know why but with all my prompting it still wanted to give him ears and sad little strands of hair sometimes. I skipped most of them, some have them still.I did kind of get into it though, so I also did some with an ass focus, so there&#039;s two links:requested: 98 fileshttps://files.catbox.moe/rbb5br.7zass focus: 80 fileshttps://files.catbox.moe/h37p00.7z"
+      },
+      {
+        "post_id": 3079460,
+        "title": "",
+        "text": "&gt;&gt;3079459&gt;&gt;3079443"
+      },
+      {
+        "post_id": 3079461,
+        "title": "",
+        "text": "&gt;&gt;3079443&gt;&gt;3079459"
+      },
+      {
+        "post_id": 3079463,
+        "title": "",
+        "text": "&gt;&gt;3079391That&#039;s so fucking hot, tysm, do you mind if I upload it on tensor art to use it on my phone?"
+      },
+      {
+        "post_id": 3079466,
+        "title": "",
+        "text": "&gt;&gt;3079459Thanks again &lt;3 You are an angel"
+      },
+      {
+        "post_id": 3079467,
+        "title": "",
+        "text": "&gt;&gt;3079436Thanks!&gt;&gt;3079421Oh this looks cool.&gt;&gt;3079406&gt;&gt;3079407Here I like how the anus isn&#039;t super-detailed which sticks out on cartoon-like bodies."
+      },
+      {
+        "post_id": 3079470,
+        "title": "",
+        "text": "&gt;&gt;3079413You are hitting the vram limit and by default nvidia makes it fallback to RAM, which slows things down to a crawl, search on google how to disable system memory fallback and the problem will go away, but then you will face a new problem: out of memory errors, because you are making images larger than what your gpu can do"
+      },
+      {
+        "post_id": 3079471,
+        "title": "",
+        "text": "64gb RAM is the bare minimum for image generation."
+      },
+      {
+        "post_id": 3079490,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079508,
+        "title": "",
+        "text": "I&#039;ve been trying to create Basch from his pre-rendered ending but it&#039;s sucks."
+      },
+      {
+        "post_id": 3079513,
+        "title": "",
+        "text": "&gt;&gt;3079246Anyone could generate a guy like this getting blacked? What prompt did you use for him?"
+      },
+      {
+        "post_id": 3079514,
+        "title": "",
+        "text": "&gt;&gt;3079513Positive Prompt: very awa, masterpiece, best quality, absurdres, newest, perfect quality, detailed background, intricate details, explicit, male focus, 1boy, from side, teenager, slim, ass pressed against wall, glory hole, body hair, biting own lip, fucked by black penis, anal, swim trunks pulled down, blond hair, medium hair, testicles, graffiti, suggestive fluid, dripping, &lt;lora:cosmic_fantasy_art_illustriousXL:1&gt;Negative Prompt: lowres, worst quality, bad quality, bad anatomy, signature, username, logo, watermark, artist name, old, bad handsSteps: 50Sampler: DDPMSchedule type: SGM UniformCFG scale: 7Seed: 3980113758Size:864x1152Model: homosimileXLPony_v40NAIXLEPSV11Denoising strength: 0.4Hires CFG Scale: 7Hires upscale:1.5Hires steps:35Hires upscaler:R-ESRGAN 4x+ Anime6BLora hashes: cosmic_fantasy_art_illustriousXL: 4b8fab5d0200"
+      },
+      {
+        "post_id": 3079516,
+        "title": "",
+        "text": "&gt;&gt;3079508It&#039;d probably be easiest to prompt Gabranth and tweak the prompt/inpaint for Basch-specific details like the scar/facial hair, assuming your model knows who Gabranth is"
+      },
+      {
+        "post_id": 3079563,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079594,
+        "title": "",
+        "text": "Anons, you&#039;re awesome.Wanna ask, wasn&#039;t there a furry diffusion thread somewhere too?"
+      },
+      {
+        "post_id": 3079603,
+        "title": "",
+        "text": "&gt;&gt;3079594Yeah, look at the last link of the OP in case you haven&#039;t found it yet"
+      },
+      {
+        "post_id": 3079626,
+        "title": "",
+        "text": "I&#039;m having fun with Chroma 39, kinda bad with sex, but it follows prompts really well , you can do things like this"
+      },
+      {
+        "post_id": 3079630,
+        "title": "",
+        "text": "&gt;&gt;3079626Drawfags could never make this kino of art."
+      },
+      {
+        "post_id": 3079650,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079678,
+        "title": "",
+        "text": "&gt;&gt;3079626&gt;&gt;3079508"
+      },
+      {
+        "post_id": 3079679,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079684,
+        "title": "",
+        "text": "&gt;&gt;3079678It&#039;s not the same model, sadly chroma knows almost no characters. This is a noobai mix mixing balthier with him for the hair like this: [name1|name2]:0.8"
+      },
+      {
+        "post_id": 3079685,
+        "title": "",
+        "text": "&gt;&gt;3079684This is the character by itself, there are only 87 pictures of him on danbooru sadly, with 30 or so more, he would be more recognizable"
+      },
+      {
+        "post_id": 3079686,
+        "title": "",
+        "text": "&gt;&gt;3079685Oops forgot pic"
+      },
+      {
+        "post_id": 3079715,
+        "title": "",
+        "text": "&gt;&gt;3079684&gt;&gt;3079685&gt;&gt;3079686good enough, I wish it was trained from the model used in his CGI cutscenes. https://youtu.be/hJz69K11PAI?si=uRYeVlYRl9uwQhwG&amp;t=21151"
+      },
+      {
+        "post_id": 3079744,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079746,
+        "title": "",
+        "text": "&gt;&gt;3079650&gt;&gt;3079744This style... Shiiba Yuuji?"
+      },
+      {
+        "post_id": 3079755,
+        "title": "",
+        "text": "&gt;&gt;3079746Actually a blend of betm and idoraa with some loras for smooth/matte. On the wainsfw v11 checkpoint.WAI-NSFW-illustrious-SDXL v11.0(beitemian:0.9), (idoraad:0.9)&lt;lora:SmoothStyle_Lambda:1&gt; &lt;lora:MatteSkin_Illustrious_v4:1.5&gt;https://civitai.com/models/1225789/smooth-styles-illustrioushttps://civitai.com/models/1105924/matte-skin-shiny-skin-illustrious"
+      },
+      {
+        "post_id": 3079881,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3079899,
+        "title": "",
+        "text": "There is a mix with Chroma 40 and anime that it&#039;s still kinda bad at sex but I love how responsive can be with prompts"
+      },
+      {
+        "post_id": 3079909,
+        "title": "",
+        "text": "&gt;&gt;3079899&gt;&gt;3079626Prompts, please?"
+      },
+      {
+        "post_id": 3079910,
+        "title": "",
+        "text": "I can&#039;t speak to how good novelai&#039;s new model is yet, but it&#039;s the first model I&#039;ve seen know what a guiche piercing is"
+      },
+      {
+        "post_id": 3079924,
+        "title": "",
+        "text": "&gt;&gt;3079910&gt;*ACKCHYUALLY*&gt;SDXL has a few yaoi trained checkpoints that will do cock piercings/jewelry pretty well. Never heard of &quot;Guiche&quot; though, they are trained under the tag &quot;Perineum&quot;. Enclosed picture made using HomosimileXL v4.0But to be fair, perineum piercings themselves are not well trained, and function best with other cock related piercings."
+      },
+      {
+        "post_id": 3079947,
+        "title": "",
+        "text": "&gt;&gt;3079910this art style looks like the good ol&#039; days of dizdoodz before he become a tranny feminine boobs retardation route"
+      },
+      {
+        "post_id": 3079949,
+        "title": "",
+        "text": "&gt;&gt;3079947I think he got brain broken by covid lockdowns. The style change is one thing, but it&#039;s like he forgot how to draw a face too"
+      },
+      {
+        "post_id": 3079956,
+        "title": "",
+        "text": "&gt;&gt;3079949the jab worms writhes in his head causing the brain to malfunction. btw which model was this? to me personally, I always love the contouring of light and shade dizdoodz used to have. it has the Street Fighter official artwork quality to it and when applied to porn, it&#039;s magical (that is if one is able to execute the grey lines between stylized and realistic anatomy correctly)."
+      },
+      {
+        "post_id": 3079965,
+        "title": "",
+        "text": "&gt;&gt;3079956it&#039;s the new full novelai model using vibe transferyou can get way closer to his actual style with it, that was just one of the first images I made in the free trial batch"
+      },
+      {
+        "post_id": 3080057,
+        "title": "",
+        "text": "&gt;&gt;3079965Do you mind to tell me how do you prompt on novelai? Your picture is great and I&#039;ve tried to prompt as in noobai but it ended up being really bad D:"
+      },
+      {
+        "post_id": 3080058,
+        "title": "",
+        "text": "&gt;&gt;3080057I&#039;ve just been prompting the same way as noob, but using the preset negatives from one of their example pictures, and 1.5::amazing quality::,1.5::masterpiece::,year 2025 in the beginning of the positive promptas you can glean from that, they use :: instead of () and negative weight is just putting a - in front of the number"
+      },
+      {
+        "post_id": 3080067,
+        "title": "",
+        "text": "any free ai generator"
+      },
+      {
+        "post_id": 3080086,
+        "title": "",
+        "text": "&gt;&gt;3080067All of the major sites are getting monetized heavily. You can still play around on sites like CivitAI or tensor.art for some small amounts of free generations a day. But for anything serious, you will be paying.If you are computer literate, remember that you can rent GPU processing time over the internet. That is typically less expensive, and more powerful, but you have to know how to set everything up on your computers end checkpoint wise."
+      },
+      {
+        "post_id": 3080089,
+        "title": "",
+        "text": "His mouth tastes like whiskey"
+      },
+      {
+        "post_id": 3080175,
+        "title": "",
+        "text": "&gt;&gt;3080089Not with that femboy face."
+      },
+      {
+        "post_id": 3080179,
+        "title": "",
+        "text": "Anyone make more Zidane monkey butt?"
+      },
+      {
+        "post_id": 3080180,
+        "title": "",
+        "text": "&gt;&gt;3080179Zidana has always been one of my favorite characters."
+      },
+      {
+        "post_id": 3080181,
+        "title": "",
+        "text": "&gt;&gt;3080180Sort of like Link, he is a great blend of masculine and feminine, if not as popular."
+      },
+      {
+        "post_id": 3080182,
+        "title": "",
+        "text": "SDXL"
+      },
+      {
+        "post_id": 3080183,
+        "title": "",
+        "text": "Monkey Butt. Tail can be hard to generate, the matrix likes to put tails on everyone, or in random places."
+      },
+      {
+        "post_id": 3080184,
+        "title": "",
+        "text": "&gt;&gt;3080183oops"
+      },
+      {
+        "post_id": 3080185,
+        "title": "",
+        "text": "Smegma. Gross? Hot? Both?Was playing around one day, realized that the checkpoint was trained on it."
+      },
+      {
+        "post_id": 3080186,
+        "title": "",
+        "text": "&gt;&gt;3080184One of the few butts I can forgive hair on. Would fill."
+      },
+      {
+        "post_id": 3080187,
+        "title": "",
+        "text": "&gt;&gt;3080185rancid"
+      },
+      {
+        "post_id": 3080190,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3080194,
+        "title": "",
+        "text": "&gt;&gt;3080184Unironically wish more cute anime boys had fuzzy butts like this"
+      },
+      {
+        "post_id": 3080201,
+        "title": "",
+        "text": "Surveyhttps://strawpoll.com/XOgOVDj1Gn3"
+      },
+      {
+        "post_id": 3080209,
+        "title": "",
+        "text": "Would anyone be interested in a character lora model? Someone who still has no model anywhere. Got a lot of PixAI credit to train Illustrious loras (or other variety you prefer) but I&#039;d need at least 10 references of the character (not here, to prevent spam).Asked the same at /co/ and got ignored so maybe there&#039;s better luck here."
+      },
+      {
+        "post_id": 3080214,
+        "title": "",
+        "text": "&gt;&gt;3080209this guy:https://rule34.paheal.net/post/list/Fado%20Twilight_Princess/1https://sabertoothwalrus.tumblr.com/post/647239923547734016/things-that-are-canon-about-zelda-twilighthttps://www.models-resource.com/gamecube/zeldatwilightprincess/model/3958/https://blanko-white.tumblr.com/post/162914290919/we-need-more-of-this-i-mean-they-are-the-only-of"
+      },
+      {
+        "post_id": 3080217,
+        "title": "",
+        "text": "&gt;&gt;3080214&gt;&gt;3080209Some more links to help out a fellow Fado warrior (there&#039;re a lot so I compiled them in a Rentry):https://rentry.org/tpfadolinksIf it would help, Lora Maker-kun, I can compile all the reference photos of him into a single .zip for you. Never trained a lora myself so no idea how it normally goes.Actually, looking at all these images, there might just barely be enough art to get NovelAI to recognize Fado in the next model if we upload them to its training sites. Danbooru I know, Gelbooru I&#039;m fairly confident about, still not sure what the new site they added in the last update is though..."
+      },
+      {
+        "post_id": 3080218,
+        "title": "",
+        "text": "&gt;&gt;3080217it&#039;s over... why NPC are more attractive than the MC himself... https://zeldawiki.wiki/wiki/Rito_Chieftainhttps://monsterhunter.fandom.com/wiki/Moga_Village - Chief&#039;s Son (村長の息子 )"
+      },
+      {
+        "post_id": 3080243,
+        "title": "",
+        "text": "Im testing the krita plugin, anyone know how to do the equivalent of the face detailer in there?"
+      },
+      {
+        "post_id": 3080244,
+        "title": "",
+        "text": "&gt;&gt;3080243"
+      },
+      {
+        "post_id": 3080258,
+        "title": "",
+        "text": "&gt;&gt;3080201&gt;No potato optionSadge"
+      },
+      {
+        "post_id": 3080269,
+        "title": "",
+        "text": "&gt;&gt;3080214&gt;&gt;3080217Thank you so much, your references were all perfect and I used them all! Couldn&#039;t get the outfit as exactly as I wanted (the tags to describe his clothing were a pain haha)Here you go! https://pixai.art/model/1900580551872263610-Fado-The-Legend-Of-Zelda-Twilight-Princess-IllustriousDownload link (re-name it to FadoTP): https://litter.catbox.moe/iiadke5kyhwurgvg.safetensors"
+      },
+      {
+        "post_id": 3080270,
+        "title": "",
+        "text": "&gt;&gt;3080269"
+      },
+      {
+        "post_id": 3080271,
+        "title": "",
+        "text": "I wish so much I could learn to do this... My disgraceful lack of knowledge is killing me inside."
+      },
+      {
+        "post_id": 3080272,
+        "title": "",
+        "text": "&gt;&gt;3080271Do what, anon?"
+      },
+      {
+        "post_id": 3080278,
+        "title": "",
+        "text": "&gt;&gt;3080269&gt;&gt;3080270&gt;&gt;3080272A single tear just rolled down my cheek. New Fado porn in the year 2025. This is the true purpose of AI. Thank you, nonny."
+      },
+      {
+        "post_id": 3080319,
+        "title": "",
+        "text": "novelai pretty consistently understands chronological orders of events for comic type stuffafter using it for a while local is basically ruined lol"
+      },
+      {
+        "post_id": 3080328,
+        "title": "",
+        "text": "Are there any bootyelectric/chocotaur LoRAs or Lycoris around? couldn&#039;t find any on civitai, tensor or pixai."
+      },
+      {
+        "post_id": 3080350,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3080351,
+        "title": "",
+        "text": "&gt;&gt;3080350This is chroma 44"
+      },
+      {
+        "post_id": 3080370,
+        "title": "",
+        "text": "&gt;&gt;3080319&gt;after using it for a while local is basically ruined lolmany such cases, I&#039;ve hit the wall already with SDXL and am waiting for the next better local coom model, the limitations become very clear after a while, even more so when using prime SaaS stuff, I did have my fun training lots of loras, but nothing replaces a plain and simple better model"
+      },
+      {
+        "post_id": 3080420,
+        "title": "",
+        "text": "&gt;&gt;3080370I wish I had that skill. Ive been using local models for years, noobxl models specifically recently, but when I tried the novel ai demo I generated only absolute trash. And I know it can be amazing, I don&#039;t know what I&#039;m doing wrong jsjf, any advice?"
+      },
+      {
+        "post_id": 3080421,
+        "title": "",
+        "text": "&gt;&gt;3080420&gt;any advice?Can&#039;t really help since I&#039;ve never used NAI, the best advice I can give you is to ask people to send you a image you liked with metadata so you can see what you may be doing wrong"
+      },
+      {
+        "post_id": 3080584,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3080611,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3080612,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3080618,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3080621,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3080622,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3080623,
+        "title": "",
+        "text": ""
+      },
+      {
+        "post_id": 3080624,
+        "title": "",
+        "text": "sorry for the loki dump, this new rivals skin has me in a chokehold"
+      },
+      {
+        "post_id": 3080661,
+        "title": "",
+        "text": "&gt;&gt;3080269&gt;&gt;3080270&gt;&gt;3080272more Fado... especially when he&#039;s working and sweating at the field tending the goats"
+      }
+    ]
+  }
+]
