@@ -5,7 +5,7 @@ This project investigates how AI tools are being exploited within forums popular
 
 The full 5-page report provides detailed findings, evidence, and analysis.  
 
-📄 [Read the full paper (PDF)](./report.pdf)  
+📄 [Read the full paper (PDF)](./AI Usage in Cybercrimes Report.docx)  
 
 ## Key Findings  
 - **Lower skill barriers:** AI tools allow individuals with little to no coding or technical background to conduct cybercrime.  
