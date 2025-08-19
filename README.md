@@ -4,7 +4,7 @@
 This repository investigates how AI tools are exploited in cybercriminal ecosystems, using data collected from forums such as 4chan, HackForums, Dread, and Telegram.  
 The research includes scraped posts, keyword analysis, visualizations, and a full research paper.  
 
-📄 Full report: [AI Usage in Cybercrimes Report.docx](./AI%20Usage%20in%20Cybercrimes%20Report.docx)  
+📄 Full report is not provided for security reasons and Microsoft's safety
 
 ---
 
